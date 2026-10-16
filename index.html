@@ -415,7 +415,29 @@
     );
   }
 
+  // Fisher–Yates shuffle; returns a new array.
+  function shuffle(items) {
+    const a = items.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  // Shuffle a question's options and point "answer" at the correct one's new position.
+  function shuffleOptions(q) {
+    const order = shuffle(q.options.map((_, i) => i));
+    return {
+      ...q,
+      options: order.map((i) => q.options[i]),
+      answer: order.indexOf(q.answer)
+    };
+  }
+
   function startQuiz() {
+    // New random order every time the quiz starts (including retakes).
+    quiz.questions = shuffle(quiz.questions).map(shuffleOptions);
     current = 0;
     picks = new Array(quiz.questions.length).fill(null);
     $("quiz-title").textContent = quiz.title;
