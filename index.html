@@ -82,6 +82,18 @@
     }
     .dropzone:hover, .dropzone.dragover { border-color: var(--accent); }
     .dropzone strong { color: var(--accent); }
+    .divider { text-align: center; color: var(--muted); margin: 16px 0 8px; }
+    textarea {
+      width: 100%;
+      font: 0.85rem ui-monospace, SFMono-Regular, Menlo, monospace;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--code-bg);
+      color: var(--text);
+      resize: vertical;
+    }
+    textarea:focus { outline: none; border-color: var(--accent); }
     .error {
       color: var(--wrong);
       background: var(--wrong-bg);
@@ -133,12 +145,19 @@
   <!-- 1. Upload -->
   <section id="upload-screen" class="card">
     <h1>Take a Quiz</h1>
-    <p class="muted">Upload a quiz file (<code>.json</code>) to get started.</p>
+    <p class="muted">Upload or paste a quiz file (<code>.json</code>) to get started.</p>
 
     <label id="dropzone" class="dropzone" for="file-input">
       <strong>Choose a file</strong> or drag it here
       <input id="file-input" type="file" accept=".json,application/json" hidden>
     </label>
+
+    <p class="divider">or paste the quiz JSON</p>
+    <textarea id="paste-input" rows="8" spellcheck="false" placeholder='{ "title": "My Quiz", "questions": [ ... ] }'></textarea>
+    <div class="actions end" style="margin-top: 10px;">
+      <button id="paste-btn" class="primary" type="button" disabled>Start quiz</button>
+    </div>
+
     <div id="upload-error" class="error hidden" role="alert"></div>
 
     <div class="actions">
@@ -335,17 +354,27 @@
     startQuiz();
   }
 
-  async function handleFile(file) {
-    if (!file) return;
+  function loadQuizText(text, sourceName) {
     let data;
     try {
-      data = JSON.parse(await file.text());
+      data = JSON.parse(text);
     } catch (err) {
-      showError(`"${file.name}" isn't valid JSON.\n${err.message}`);
+      showError(`${sourceName} isn't valid JSON.\n${err.message}`);
       return;
     }
     loadQuizData(data);
   }
+
+  async function handleFile(file) {
+    if (!file) return;
+    loadQuizText(await file.text(), `"${file.name}"`);
+  }
+
+  const pasteInput = $("paste-input");
+  pasteInput.addEventListener("input", () => {
+    $("paste-btn").disabled = !pasteInput.value.trim();
+  });
+  $("paste-btn").addEventListener("click", () => loadQuizText(pasteInput.value, "The pasted text"));
 
   $("file-input").addEventListener("change", (e) => {
     handleFile(e.target.files[0]);
