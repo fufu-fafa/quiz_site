@@ -1,0 +1,524 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz</title>
+  <style>
+    :root {
+      --bg: #f5f6f8;
+      --card: #ffffff;
+      --text: #1f2328;
+      --muted: #656d76;
+      --border: #d0d7de;
+      --accent: #2563eb;
+      --accent-text: #ffffff;
+      --correct: #1a7f37;
+      --correct-bg: #dafbe1;
+      --wrong: #cf222e;
+      --wrong-bg: #ffebe9;
+      --code-bg: #f0f2f5;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --card: #161b22;
+        --text: #e6edf3;
+        --muted: #8d96a0;
+        --border: #30363d;
+        --accent: #4f8cff;
+        --accent-text: #ffffff;
+        --correct: #3fb950;
+        --correct-bg: #12261e;
+        --wrong: #f85149;
+        --wrong-bg: #2d1416;
+        --code-bg: #0d1117;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    main { max-width: 640px; margin: 0 auto; padding: 32px 16px; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+    }
+    h1 { font-size: 1.5rem; margin: 0 0 4px; }
+    h2 { font-size: 1.2rem; margin: 0 0 16px; }
+    .muted { color: var(--muted); margin: 0; }
+    .hidden { display: none !important; }
+
+    button {
+      font: inherit;
+      border-radius: 8px;
+      padding: 10px 18px;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+      cursor: pointer;
+    }
+    button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+    .actions.end { justify-content: flex-end; }
+
+    /* Upload screen */
+    .dropzone {
+      display: block;
+      border: 2px dashed var(--border);
+      border-radius: 10px;
+      padding: 36px 16px;
+      text-align: center;
+      cursor: pointer;
+      margin: 20px 0 0;
+    }
+    .dropzone:hover, .dropzone.dragover { border-color: var(--accent); }
+    .dropzone strong { color: var(--accent); }
+    .error {
+      color: var(--wrong);
+      background: var(--wrong-bg);
+      padding: 10px 12px;
+      border-radius: 8px;
+      margin-top: 16px;
+      white-space: pre-line;
+    }
+    details { margin-top: 20px; }
+    summary { cursor: pointer; font-weight: 600; }
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px;
+      overflow-x: auto;
+      font-size: 0.85rem;
+    }
+    details ul { padding-left: 20px; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+    /* Quiz screen */
+    .meta { display: flex; justify-content: space-between; color: var(--muted); font-size: 0.9rem; }
+    .progress { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin: 8px 0 24px; }
+    .progress > div { height: 100%; width: 0; background: var(--accent); transition: width 0.2s; }
+    .question { font-size: 1.15rem; font-weight: 600; margin: 0 0 16px; white-space: pre-line; }
+    .options { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+    .option { width: 100%; text-align: left; padding: 12px 14px; }
+    .option:hover:not(:disabled) { border-color: var(--accent); }
+    .option:disabled { opacity: 1; cursor: default; }
+    .option.correct { border-color: var(--correct); background: var(--correct-bg); }
+    .option.wrong { border-color: var(--wrong); background: var(--wrong-bg); }
+    .feedback { margin-top: 16px; padding: 10px 12px; border-radius: 8px; }
+    .feedback.correct { background: var(--correct-bg); color: var(--correct); }
+    .feedback.wrong { background: var(--wrong-bg); color: var(--wrong); }
+    .feedback p { margin: 4px 0 0; color: var(--text); }
+
+    /* Results screen */
+    .score { font-size: 2.5rem; font-weight: 700; margin: 8px 0 0; }
+    .review { padding-left: 20px; margin: 24px 0 0; }
+    .review li { margin-bottom: 14px; }
+    .review .ok { color: var(--correct); }
+    .review .bad { color: var(--wrong); }
+  </style>
+</head>
+<body>
+<main>
+
+  <!-- 1. Upload -->
+  <section id="upload-screen" class="card">
+    <h1>Take a Quiz</h1>
+    <p class="muted">Upload a quiz file (<code>.json</code>) to get started.</p>
+
+    <label id="dropzone" class="dropzone" for="file-input">
+      <strong>Choose a file</strong> or drag it here
+      <input id="file-input" type="file" accept=".json,application/json" hidden>
+    </label>
+    <div id="upload-error" class="error hidden" role="alert"></div>
+
+    <div class="actions">
+      <button id="try-sample-btn" type="button">Try the sample quiz</button>
+      <button id="download-sample-btn" type="button">Download sample file</button>
+    </div>
+
+    <details>
+      <summary>Quiz file format</summary>
+<pre><code>{
+  "title": "My Quiz",                 // optional
+  "description": "Short intro text",  // optional
+  "questions": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5"],
+      "answer": 1,                    // index (0 = first) or option text, e.g. "4"
+      "explanation": "2 + 2 = 4"      // optional, shown after answering
+    }
+  ]
+}</code></pre>
+      <ul class="muted">
+        <li>Each question needs at least 2 options.</li>
+        <li><code>answer</code> is either the option's position starting at 0, or the exact option text.</li>
+        <li>Comments (<code>//</code>) above are for explanation only — real JSON files can't contain them.</li>
+      </ul>
+    </details>
+  </section>
+
+  <!-- 2. Quiz -->
+  <section id="quiz-screen" class="card hidden">
+    <h1 id="quiz-title"></h1>
+    <p id="quiz-description" class="muted"></p>
+
+    <div class="meta" style="margin-top: 20px;">
+      <span id="question-counter"></span>
+      <span id="score-counter"></span>
+    </div>
+    <div class="progress"><div id="progress-bar"></div></div>
+
+    <p id="question-text" class="question"></p>
+    <ul id="options" class="options"></ul>
+    <div id="feedback" class="feedback hidden" role="status"></div>
+
+    <div class="actions end">
+      <button id="next-btn" class="primary" type="button" disabled>Next</button>
+    </div>
+  </section>
+
+  <!-- 3. Results -->
+  <section id="result-screen" class="card hidden">
+    <h1>Results</h1>
+    <p id="result-quiz-title" class="muted"></p>
+    <p id="final-score" class="score"></p>
+    <p id="final-message" class="muted"></p>
+
+    <div class="actions">
+      <button id="retake-btn" class="primary" type="button">Retake quiz</button>
+      <button id="new-quiz-btn" type="button">Load another quiz</button>
+    </div>
+
+    <ol id="review" class="review"></ol>
+  </section>
+
+</main>
+
+<script>
+  const SAMPLE_QUIZ = {
+    title: "General Knowledge Quiz",
+    description: "A short sample quiz to show the file format.",
+    questions: [
+      {
+        question: "What is the capital of France?",
+        options: ["Berlin", "Madrid", "Paris", "Rome"],
+        answer: 2,
+        explanation: "Paris has been the capital of France since the 10th century."
+      },
+      {
+        question: "Which planet is known as the Red Planet?",
+        options: ["Venus", "Mars", "Jupiter", "Saturn"],
+        answer: "Mars",
+        explanation: "Iron oxide (rust) on its surface gives Mars its reddish colour."
+      },
+      {
+        question: "How many continents are there?",
+        options: ["5", "6", "7", "8"],
+        answer: 2
+      },
+      {
+        question: "Water boils at 100 °C at sea level.",
+        options: ["True", "False"],
+        answer: "True"
+      },
+      {
+        question: "Who wrote \"Romeo and Juliet\"?",
+        options: ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        answer: 1,
+        explanation: "Shakespeare wrote it early in his career, around 1595."
+      }
+    ]
+  };
+
+  const $ = (id) => document.getElementById(id);
+
+  let quiz = null;    // normalized quiz: answers are always option indexes
+  let current = 0;    // index of the question being shown
+  let picks = [];     // option index the user picked for each question
+
+  // ---------- Validation ----------
+
+  // Returns { quiz } on success or { errors: [...] } on failure.
+  function validateQuiz(data) {
+    if (!data || typeof data !== "object" || Array.isArray(data)) {
+      return { errors: ['The file must contain a JSON object with a "questions" array.'] };
+    }
+    if (!Array.isArray(data.questions) || data.questions.length === 0) {
+      return { errors: ['"questions" must be a non-empty array.'] };
+    }
+
+    const errors = [];
+    const questions = data.questions.map((q, i) => {
+      const where = `Question ${i + 1}`;
+      if (!q || typeof q !== "object") {
+        errors.push(`${where}: must be an object.`);
+        return null;
+      }
+      if (typeof q.question !== "string" || !q.question.trim()) {
+        errors.push(`${where}: "question" must be a non-empty string.`);
+      }
+      if (!Array.isArray(q.options) || q.options.length < 2) {
+        errors.push(`${where}: "options" must be an array with at least 2 choices.`);
+        return null;
+      }
+      if (q.options.some((o) => typeof o !== "string" && typeof o !== "number")) {
+        errors.push(`${where}: every option must be text or a number.`);
+        return null;
+      }
+      const options = q.options.map(String);
+
+      let answer = -1;
+      if (Number.isInteger(q.answer)) {
+        answer = q.answer;
+        if (answer < 0 || answer >= options.length) {
+          errors.push(`${where}: "answer" ${answer} is out of range (use 0 to ${options.length - 1}).`);
+        }
+      } else if (typeof q.answer === "string") {
+        answer = options.indexOf(q.answer);
+        if (answer === -1) {
+          errors.push(`${where}: "answer" "${q.answer}" doesn't match any option.`);
+        }
+      } else {
+        errors.push(`${where}: "answer" is missing (use an option index or the option text).`);
+      }
+
+      return {
+        question: String(q.question ?? ""),
+        options,
+        answer,
+        explanation: typeof q.explanation === "string" ? q.explanation : ""
+      };
+    });
+
+    if (errors.length) {
+      const shown = errors.slice(0, 8);
+      if (errors.length > shown.length) shown.push(`…and ${errors.length - shown.length} more.`);
+      return { errors: shown };
+    }
+
+    return {
+      quiz: {
+        title: typeof data.title === "string" && data.title.trim() ? data.title : "Quiz",
+        description: typeof data.description === "string" ? data.description : "",
+        questions
+      }
+    };
+  }
+
+  // ---------- Loading ----------
+
+  function showError(message) {
+    const box = $("upload-error");
+    box.textContent = message;
+    box.classList.remove("hidden");
+  }
+
+  function loadQuizData(data) {
+    const result = validateQuiz(data);
+    if (result.errors) {
+      showError("This quiz file has problems:\n• " + result.errors.join("\n• "));
+      return;
+    }
+    $("upload-error").classList.add("hidden");
+    quiz = result.quiz;
+    startQuiz();
+  }
+
+  async function handleFile(file) {
+    if (!file) return;
+    let data;
+    try {
+      data = JSON.parse(await file.text());
+    } catch (err) {
+      showError(`"${file.name}" isn't valid JSON.\n${err.message}`);
+      return;
+    }
+    loadQuizData(data);
+  }
+
+  $("file-input").addEventListener("change", (e) => {
+    handleFile(e.target.files[0]);
+    e.target.value = ""; // allow re-uploading the same file
+  });
+
+  const dropzone = $("dropzone");
+  ["dragenter", "dragover"].forEach((type) =>
+    dropzone.addEventListener(type, (e) => {
+      e.preventDefault();
+      dropzone.classList.add("dragover");
+    })
+  );
+  ["dragleave", "drop"].forEach((type) =>
+    dropzone.addEventListener(type, () => dropzone.classList.remove("dragover"))
+  );
+  dropzone.addEventListener("drop", (e) => {
+    e.preventDefault();
+    handleFile(e.dataTransfer.files[0]);
+  });
+
+  $("try-sample-btn").addEventListener("click", () => loadQuizData(SAMPLE_QUIZ));
+
+  $("download-sample-btn").addEventListener("click", () => {
+    const blob = new Blob([JSON.stringify(SAMPLE_QUIZ, null, 2)], { type: "application/json" });
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = "sample-quiz.json";
+    link.click();
+    URL.revokeObjectURL(link.href);
+  });
+
+  // ---------- Quiz flow ----------
+
+  function showScreen(id) {
+    ["upload-screen", "quiz-screen", "result-screen"].forEach((s) =>
+      $(s).classList.toggle("hidden", s !== id)
+    );
+  }
+
+  function startQuiz() {
+    current = 0;
+    picks = new Array(quiz.questions.length).fill(null);
+    $("quiz-title").textContent = quiz.title;
+    $("quiz-description").textContent = quiz.description;
+    $("quiz-description").classList.toggle("hidden", !quiz.description);
+    showScreen("quiz-screen");
+    renderQuestion();
+  }
+
+  function correctCount() {
+    return picks.filter((p, i) => p === quiz.questions[i].answer).length;
+  }
+
+  function renderQuestion() {
+    const q = quiz.questions[current];
+    const total = quiz.questions.length;
+
+    $("question-counter").textContent = `Question ${current + 1} of ${total}`;
+    $("score-counter").textContent = `Score: ${correctCount()}`;
+    $("progress-bar").style.width = `${(current / total) * 100}%`;
+    $("question-text").textContent = q.question;
+
+    const list = $("options");
+    list.innerHTML = "";
+    q.options.forEach((text, i) => {
+      const li = document.createElement("li");
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "option";
+      btn.textContent = text;
+      btn.addEventListener("click", () => choose(i));
+      li.appendChild(btn);
+      list.appendChild(li);
+    });
+
+    $("feedback").classList.add("hidden");
+    const next = $("next-btn");
+    next.disabled = true;
+    next.textContent = current === total - 1 ? "See results" : "Next";
+  }
+
+  function choose(index) {
+    if (picks[current] !== null) return; // already answered
+    picks[current] = index;
+
+    const q = quiz.questions[current];
+    const isCorrect = index === q.answer;
+    const buttons = $("options").querySelectorAll(".option");
+    buttons.forEach((btn, i) => {
+      btn.disabled = true;
+      if (i === q.answer) btn.classList.add("correct");
+      else if (i === index) btn.classList.add("wrong");
+    });
+
+    const feedback = $("feedback");
+    feedback.className = "feedback " + (isCorrect ? "correct" : "wrong");
+    feedback.textContent = isCorrect
+      ? "Correct!"
+      : `Not quite — the answer is "${q.options[q.answer]}".`;
+    if (q.explanation) {
+      const p = document.createElement("p");
+      p.textContent = q.explanation;
+      feedback.appendChild(p);
+    }
+
+    $("score-counter").textContent = `Score: ${correctCount()}`;
+    $("next-btn").disabled = false;
+    $("next-btn").focus();
+  }
+
+  $("next-btn").addEventListener("click", () => {
+    if (current < quiz.questions.length - 1) {
+      current++;
+      renderQuestion();
+    } else {
+      showResults();
+    }
+  });
+
+  // Keyboard: 1–9 picks an option. (Enter then presses "Next", since it gets focus.)
+  document.addEventListener("keydown", (e) => {
+    if ($("quiz-screen").classList.contains("hidden")) return;
+    const n = parseInt(e.key, 10);
+    if (n >= 1 && n <= quiz.questions[current].options.length) choose(n - 1);
+  });
+
+  // ---------- Results ----------
+
+  function showResults() {
+    const total = quiz.questions.length;
+    const score = correctCount();
+    const pct = Math.round((score / total) * 100);
+
+    $("result-quiz-title").textContent = quiz.title;
+    $("final-score").textContent = `${score} / ${total} (${pct}%)`;
+    $("final-message").textContent =
+      pct === 100 ? "Perfect score!" :
+      pct >= 70 ? "Nice work!" :
+      pct >= 40 ? "Not bad — review the answers below." :
+      "Keep practising — review the answers below.";
+
+    const review = $("review");
+    review.innerHTML = "";
+    quiz.questions.forEach((q, i) => {
+      const ok = picks[i] === q.answer;
+      const li = document.createElement("li");
+
+      const title = document.createElement("strong");
+      title.textContent = q.question;
+      li.appendChild(title);
+
+      const yours = document.createElement("div");
+      yours.className = ok ? "ok" : "bad";
+      yours.textContent = `${ok ? "✓" : "✗"} Your answer: ${q.options[picks[i]]}`;
+      li.appendChild(yours);
+
+      if (!ok) {
+        const right = document.createElement("div");
+        right.textContent = `Correct answer: ${q.options[q.answer]}`;
+        li.appendChild(right);
+      }
+      review.appendChild(li);
+    });
+
+    showScreen("result-screen");
+  }
+
+  $("retake-btn").addEventListener("click", startQuiz);
+  $("new-quiz-btn").addEventListener("click", () => {
+    quiz = null;
+    showScreen("upload-screen");
+  });
+</script>
+</body>
+</html>
