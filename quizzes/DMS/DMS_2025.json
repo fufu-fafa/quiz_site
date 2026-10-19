@@ -1,0 +1,879 @@
+{
+  "title": "DMS 2025 - 72 Soal",
+  "description": "72 soal ujian DMS 2025 (soal 33, 36, 38 tidak ada).",
+  "questions": [
+    {
+      "question": "What is the function of the structure labeled green arrow in the image?",
+      "image": "quizzes/DMS/src/skin_histology.jpg"	,
+      "options": [
+        "Mechanical protection on the skin surface",
+        "Produces oil on the surface of the skin",
+        "Light touch receptors on the surface of the skin",
+        "UV radiation protection on the skin surface",
+        "Controls body temperature on the surface of the skin"
+      ],
+      "answer": 2,
+      "explanation": "Green arrow menunjuk dermal papilla yang berisi Meissner corpuscle, reseptor light touch."
+    },
+    {
+      "question": "What is the main role of ligament in joint?",
+      "options": [
+        "Stores fat",
+        "Connects muscles to bones",
+        "Produces synovial",
+        "Provides structural support",
+        "Regulates joint movement"
+      ],
+      "answer": 3,
+      "explanation": "Ligament menghubungkan bone ke bone dan memberi structural support pada sendi. Yang menghubungkan muscle ke bone adalah tendon."
+    },
+    {
+      "question": "A public health worker conducted a survey to find out the prevalence of obesity among the students in schools. What is the main goal of this survey?",
+      "options": [
+        "Determining risk factors for obesity",
+        "Identifying schools that need sports programs",
+        "Reducing the amount of fast food in schools",
+        "Calculate health care costs",
+        "Increases awareness about a healthy diet"
+      ],
+      "answer": 0,
+      "explanation": "Survey prevalensi pada siswa dipakai untuk menilai besarnya masalah dan faktor risiko obesitas. Soal ini agak ambigu; ini jawaban yang paling mendekati."
+    },
+    {
+      "question": "A 40-year-old woman came in with a complaint of joint pain involving many joints in the tissues of her hands, moving around and swelling. He also had a mild fever. What are the main causes of the above conditions?",
+      "options": [
+        "Physical injuries to joint tissue",
+        "Dehydration",
+        "Overweight",
+        "Viral infections",
+        "Autoimmune reaction to joint tissue"
+      ],
+      "answer": 4,
+      "explanation": "Nyeri banyak sendi tangan + demam ringan = rheumatoid arthritis, yaitu reaksi autoimmune pada jaringan sendi."
+    },
+    {
+      "question": "A 50-year-old woman experienced pain and swelling in her knee joint after a fall. X-rays showed no fractures, but swelling of the soft tissues. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Fracture",
+        "Tendinitis",
+        "Sprain",
+        "Arthritis",
+        "Bursitis"
+      ],
+      "answer": 2,
+      "explanation": "Sprain = cedera ligament. X-ray tanpa fraktur, hanya soft tissue swelling."
+    },
+    {
+      "question": "A researcher conducted a study on the relationship between smoking habits and the incidence of lung cancer. He found that smokers had a higher risk of developing lung cancer than non-smokers. What can be concluded from the results of this study?",
+      "options": [
+        "Smoking has no effect on health",
+        "Lung cancer only occurs in smokers",
+        "All smokers will get lung cancer",
+        "There is a causal link between smoking and lung cancer",
+        "Non-smokers have no risk of lung cancer"
+      ],
+      "answer": 3,
+      "explanation": "Perokok punya risiko lebih tinggi kanker paru, jadi ada hubungan kausal. Tidak semua perokok kena, dan non-smoker tetap berisiko."
+    },
+    {
+      "question": "A 55-year-old man came in with complaints of worsening spinal pain. He had a history of smoking. What are the main causes of chronic back pain?",
+      "options": [
+        "Degeneration of intervertebral discs",
+        "Increased bone density",
+        "Calcium deficiency",
+        "Bone infections",
+        "Dehydration"
+      ],
+      "answer": 0,
+      "explanation": "Penyebab utama chronic back pain adalah degenerasi intervertebral disc."
+    },
+    {
+      "question": "A 30-year-old woman has an itchy skin rash and red spots all over her body. He also had a fever and headache. What is the etiology of the case?",
+      "options": [
+        "Herpes simplex virus",
+        "Staphylococcus aureus",
+        "Rubella virus",
+        "Varicella-zoster virus",
+        "Type-1 human papillomavirus"
+      ],
+      "answer": 3,
+      "explanation": "Ruam gatal seluruh tubuh + demam + sakit kepala = varicella (Varicella-zoster virus)."
+    },
+    {
+      "question": "A 50-year-old woman has pain due to tendinitis. The doctor prescribes injectable corticosteroids. What are the potential side effects of long-term use of the drug?",
+      "options": [
+        "Overweight",
+        "Diabetes",
+        "Gout arthritis",
+        "Hypertension",
+        "Osteoporosis"
+      ],
+      "answer": 4,
+      "explanation": "Corticosteroid jangka panjang menyebabkan osteoporosis (efek klasik); hipertensi dan hiperglikemia juga bisa terjadi."
+    },
+    {
+      "question": "A 55-year-old man came to the clinic complaining of severe pain in his right toe, which started suddenly at night. He described a very sharp and swollen pain in the joint area, accompanied by redness and an increase in temperature around it. The patient has a history of hypertension. To avoid similar attacks in the future, what medications can patients take?",
+      "options": [
+        "Metformin",
+        "Amoxicillin",
+        "Simvastatin",
+        "Ibuprofen",
+        "Allopurinol"
+      ],
+      "answer": 4,
+      "explanation": "Gout: Allopurinol (xanthine oxidase inhibitor) mencegah serangan berulang."
+    },
+    {
+      "question": "A 55-year-old man came in with complaints of pain in the finger joints and difficulty moving. He has a history of psoriasis. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Tendinitis",
+        "Gout",
+        "Rheumatoid arthritis",
+        "Psoriatic arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": 3,
+      "explanation": "Nyeri sendi jari + riwayat psoriasis = psoriatic arthritis."
+    },
+    {
+      "question": "A 28-year-old pregnant woman had a mild fever and a red rash on her face. He had just interacted with the children at school. What is the etiology of the case?",
+      "options": [
+        "Rubella virus",
+        "Cytomegalovirus",
+        "Human papillomavirus",
+        "Measles virus",
+        "Varicella-zoster virus"
+      ],
+      "answer": 0,
+      "explanation": "Ibu hamil dengan demam ringan + ruam wajah setelah kontak anak sekolah = Rubella virus."
+    },
+    {
+      "question": "A 55-year-old man came in with a complaint of muscle pain after exercising. The doctor prescribes anti-inflammatory drugs. What is the most appropriate medication to reduce the symptom?",
+      "options": [
+        "Celecoxib",
+        "Prednisone",
+        "Methotrexate",
+        "Mefenamic acid",
+        "Naproxen"
+      ],
+      "answer": 4,
+      "explanation": "NSAID untuk nyeri otot; naproxen paling sesuai. Soal punya beberapa opsi NSAID, jadi kurang tegas."
+    },
+    {
+      "question": "A 45-year-old woman experienced pain and swelling in the skin in the elbow area. The results of the examination showed that there was an infection. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Allergic dermatitis",
+        "Eczema",
+        "Cellulitis",
+        "Psoriasis",
+        "Urticaria"
+      ],
+      "answer": 2,
+      "explanation": "Nyeri dan bengkak pada kulit disertai infeksi = cellulitis."
+    },
+    {
+      "question": "In the process of bone remodeling, which cells are responsible for bone resorption?",
+      "options": [
+        "Osteoblast",
+        "Osteocyte",
+        "Osteoclast",
+        "Chondrocyte",
+        "Fibroblast"
+      ],
+      "answer": 2,
+      "explanation": "Osteoclast bertanggung jawab pada bone resorption saat remodeling."
+    },
+    {
+      "question": "A 40-year-old man came in with complaints of white spots on his skin that were not itchy. He had just returned from a trip to the tropics. What is the etiology of the above case?",
+      "options": [
+        "Trichophyton rubrum",
+        "Staphylococcus aureus",
+        "Malassezia furfur",
+        "Candida albicans",
+        "Herpes simplex virus"
+      ],
+      "answer": 2,
+      "explanation": "Bercak putih tidak gatal setelah dari daerah tropis = pityriasis versicolor (Malassezia furfur)."
+    },
+    {
+      "question": "An 8-year-old child came in with a complaint of round, flesh-colored lesions on the skin that looked watery. The lesions spread in his body area. What is the etiology of the above?",
+      "options": [
+        "Type-1 human papillomavirus",
+        "Herpes simplex virus",
+        "Staphylococcus aureus",
+        "Varicella-zoster virus",
+        "Molluscum contagiosum virus"
+      ],
+      "answer": 4,
+      "explanation": "Lesi bulat flesh-colored pada anak, menyebar = molluscum contagiosum virus."
+    },
+    {
+      "question": "A 60-year-old man with a history of diabetes and hypertension came to the hospital with a severe skin infection. Doctors recommended amputation to save his life. However, patients refuse the procedure for personal and religious reasons. What should a doctor respect in this situation?",
+      "options": [
+        "Patient autonomy",
+        "Obligation to save lives",
+        "Obligation to provide complete information",
+        "Obligation to ignore patient decisions",
+        "Obligation to report patients to the authorities"
+      ],
+      "answer": 0,
+      "explanation": "Pasien menolak amputasi karena alasan pribadi dan agama, jadi dokter harus menghormati patient autonomy."
+    },
+    {
+      "question": "A 22-year-old man complained of pain in his right hand that became more painful when moved. X-rays were taken on the hands and the following images were obtained. What is the name of the process labeled number 4 on the radius bone in the image?",
+      "image": "quizzes/DMS/src/hand_xray.jpg",
+      "options": [
+        "Olecranon process",
+        "Coronoid process",
+        "Acromion process",
+        "Xiphoid process",
+        "Styloid process of the radius"
+      ],
+      "answer": 4,
+      "explanation": "Process pada ujung distal radius = styloid process of the radius."
+    },
+    {
+      "question": "A 22-year-old man complained of pain in his right hand that became more painful when moved. X-rays were taken on the hands and the following images were obtained. What is the name of the joint labeled number 17?",
+      "image": "quizzes/DMS/src/hand_xray.jpg",
+      "options": [
+        "Carpometacarpal Joint",
+        "Proximal Interphalangeal Joint",
+        "Metacarpophalangeal joint",
+        "Distal Interphalangeal Joint",
+        "Radiocarpal Joint"
+      ],
+      "answer": 2,
+      "explanation": "Label 17 tidak terbaca jelas di gambar; urutan label mengarah ke metacarpophalangeal joint. Mohon dicek dengan gambar asli."
+    },
+    {
+      "question": "A 65-year-old man came in with complaints of pain and swelling in the knuckle joints. He has a history of diabetes. What is the pathophysiology of osteoarthritis?",
+      "options": [
+        "Excess calcium",
+        "Increased collagen production",
+        "Bone infections",
+        "Joint cartilage damage",
+        "Joint inflammation"
+      ],
+      "answer": 3,
+      "explanation": "Osteoarthritis: kerusakan degeneratif joint cartilage."
+    },
+    {
+      "question": "A 55-year-old man came to the clinic complaining of severe pain in his right toe, which started suddenly at night. He described a very sharp and swollen pain in the joint area, accompanied by redness and an increase in temperature around it. The patient has a history of hypertension. What substances need to be reduced in consumption to avoid these conditions?",
+      "options": [
+        "Complex carbohydrates",
+        "Purines",
+        "Fiber",
+        "Saturated fats",
+        "Salt"
+      ],
+      "answer": 1,
+      "explanation": "Gout: kurangi konsumsi purine."
+    },
+    {
+      "question": "A public health worker wants to reduce the incidence of infectious diseases in the community. He planned a mass vaccination program. What are the indicators of the success of this program?",
+      "options": [
+        "High number of people present at the vaccination event",
+        "High vaccination rates in the target population",
+        "Increased number of health workers involved",
+        "Number of vaccines administered",
+        "Reduced cost of vaccination program"
+      ],
+      "answer": 1,
+      "explanation": "Indikator keberhasilan vaksinasi massal adalah tingginya cakupan vaksinasi pada populasi target."
+    },
+    {
+      "question": "A patient is given an injection into the muscle given a blue arrow below. What is the name of the muscle?",
+      "image": "quizzes/DMS/src/deltoid.jpg",
+      "options": [
+        "Latissimus dorsi muscle",
+        "Pectoralis muscle",
+        "Brachialis muscle",
+        "Trapezoid muscle",
+        "Deltoid muscle"
+      ],
+      "answer": 4,
+      "explanation": "Deltoid muscle, lokasi injeksi intramuscular di lengan atas."
+    },
+    {
+      "question": "A 32-year-old pregnant woman was diagnosed with a rubella virus infection. The doctor explains the risks to the fetus and recommends a medical abortion. The woman felt depressed and confused about the decision to make. What should be the doctor's priority in this situation?",
+      "options": [
+        "Leave the decision entirely to the patient's family",
+        "Not blaming the patient for the situation at hand",
+        "Encourage patients to make immediate decisions",
+        "Provide emotional support and clear information",
+        "Ignoring the patient's feelings and focusing on medical risks"
+      ],
+      "answer": 3,
+      "explanation": "Prioritas dokter: memberi emotional support dan informasi yang jelas."
+    },
+    {
+      "question": "There are proteins that bind keratinocyte cells to each other so that stability and strength are created from the epidermis. This protein is found on the surface of keratinocyte cells and is responsible for the intercellular bridge picture as shown below. What is the name of the protein in question?",
+      "image": "quizzes/DMS/src/keratinocytes.jpg",
+      "options": [
+        "Desmosome",
+        "Melanin",
+        "Collagen",
+        "Laminin",
+        "Keratin"
+      ],
+      "answer": 0,
+      "explanation": "Desmosome mengikat keratinocyte satu sama lain (intercellular bridge)."
+    },
+    {
+      "question": "A doctor in a hospital wants to reduce the number of nosocomial infections. He planned a training program for medical staff on good hygiene practices. What is the main goal of this program?",
+      "options": [
+        "Reduce maintenance time",
+        "Raising awareness about infection prevention",
+        "Reduce maintenance costs",
+        "Increase the number of medical staff",
+        "Increase the number of patients treated"
+      ],
+      "answer": 1,
+      "explanation": "Pelatihan hygiene bertujuan meningkatkan awareness pencegahan infeksi."
+    },
+    {
+      "question": "A 35-year-old man came in with complaints of itching and a red rash between the fingers. He had just returned from the coastal area. What is the etiology of the above case?",
+      "options": [
+        "Malassezia furfur",
+        "Sarcoptes scabiei",
+        "Pediculus humanus capitis",
+        "Trichophyton rubrum",
+        "Staphylococcus aureus"
+      ],
+      "answer": 1,
+      "explanation": "Gatal + ruam di sela jari = scabies (Sarcoptes scabiei)."
+    },
+    {
+      "question": "When muscles relax, there is a protein that prevents the interaction between myosin and actin. What is the name of the protein?",
+      "options": [
+        "Nebulin",
+        "Troponin T",
+        "Troponin C",
+        "Tropomyosin",
+        "Troponin I"
+      ],
+      "answer": 3,
+      "explanation": "Saat relaksasi, tropomyosin menutup myosin-binding site pada actin."
+    },
+    {
+      "question": "What cells play a role in the bone resorption process?",
+      "options": [
+        "Mesenchymal cell",
+        "Osteocyte",
+        "Osteoblast",
+        "Osteoclast",
+        "Chondroblast"
+      ],
+      "answer": 3,
+      "explanation": "Osteoclast berperan pada bone resorption."
+    },
+    {
+      "question": "A 60-year-old man with a history of gout came with an attack of severe pain in his toes. The doctor prescribes allopurinol. What is the mechanism of the drug given?",
+      "options": [
+        "Reduces inflammation",
+        "Reduces pain",
+        "Increases uric acid excretion",
+        "Inhibits xanthine oxidase",
+        "Increase uric acid production"
+      ],
+      "answer": 3,
+      "explanation": "Allopurinol menghambat xanthine oxidase sehingga produksi uric acid turun."
+    },
+    {
+      "question": "What is Haversian canal?",
+      "options": [
+        "Channels in the bones that contain blood vessels and nerves",
+        "Structures that store fat in bones",
+        "Connective tissue that connects bones with muscles",
+        "Cells that form new bone",
+        "The space inside the bone that contains the bone marrow"
+      ],
+      "answer": 0,
+      "explanation": "Haversian canal adalah saluran pada cortical bone yang berisi blood vessels dan nerves."
+    },
+    {
+      "question": "A 70-year-old man came in with complaints of pain in the finger joints and difficulty moving. The results of the examination showed that there was a depletion of cartilage. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Gout",
+        "Tendinitis",
+        "Psoriatic arthritis"
+      ],
+      "answer": 1,
+      "explanation": "Lansia dengan nyeri sendi jari dan cartilage menipis = osteoarthritis."
+    },
+    {
+      "question": "A 70-year-old man with osteoporosis had a fracture. The doctor prescribes bisphosphonates. What is the mechanism of action of the prescribed treatment?",
+      "options": [
+        "Improves bone formation",
+        "Reduces bone pain",
+        "Inhibits bone resorption",
+        "Increases calcium levels",
+        "Increases bone mineralization"
+      ],
+      "answer": 2,
+      "explanation": "Bisphosphonates menghambat bone resorption oleh osteoclast."
+    },
+    {
+      "question": "A 50-year-old woman came with complaints of itching and a red rash in the genital area. He had just returned from a trip to the tropics. What is the etiology of the above case?",
+      "options": [
+        "Herpes simplex virus",
+        "Candida albicans",
+        "Trichophyton rubrum",
+        "Ancylostoma braziliense",
+        "Staphylococcus aureus"
+      ],
+      "answer": 1,
+      "explanation": "Gatal dan ruam merah di area genital = candidiasis (Candida albicans)."
+    },
+    {
+      "question": "A 25-year-old woman came in with complaints of itching on the scalp and the presence of lice. What is the etiology of the case?",
+      "options": [
+        "Trichophyton rubrum",
+        "Staphylococcus aureus",
+        "Malassezia furfur",
+        "Sarcoptes scabiei",
+        "Pediculus humanus capitis"
+      ],
+      "answer": 4,
+      "explanation": "Gatal di scalp dengan lice = Pediculus humanus capitis."
+    },
+    {
+      "question": "A 10-year-old child came to the hospital after falling while riding a bicycle. He complained of severe pain in his right knee and difficulty walking. On physical examination, swelling in the distal tibia area and pain during palpation were seen. X-rays show the presence of a fracture classified as Salter-Harris as shown in the following image. What anatomical structures are involved and indicated by the blue arrow in the image above?",
+      "image": "quizzes/DMS/src/salter_harris.jpg",
+      "options": [
+        "Periosteum",
+        "Articular cartilage",
+        "Medullary cavity",
+        "Epiphysial plate",
+        "Endosteum"
+      ],
+      "answer": 3,
+      "explanation": "Blue arrow menunjuk physis (epiphyseal plate), tempat terjadinya Salter-Harris fracture."
+    },
+    {
+      "question": "What are the main functions of chondrocyte cells in cartilage?",
+      "options": [
+        "Produce extracellular matrix",
+        "Produce Ib-type collagen",
+        "Regulate calcium metabolism",
+        "Destroy bone tissue",
+        "Store fat"
+      ],
+      "answer": 0,
+      "explanation": "Chondrocyte memproduksi extracellular matrix (collagen type II dan proteoglycan)."
+    },
+    {
+      "question": "A 28-year-old woman was diagnosed with severe psoriasis. Doctors recommend expensive biological therapies, but patients do not have health insurance. The patient asked the doctor to give her the drug for free. What should be the doctor's main consideration in this situation?",
+      "options": [
+        "Fairness in the distribution of health resources",
+        "Obligation to provide the treatment desired by the patient",
+        "Patient interests above all else",
+        "Obligation to reduce the cost of care",
+        "Autonomy of the patient"
+      ],
+      "answer": 0,
+      "explanation": "Sumber daya terbatas: pertimbangan utama adalah justice (fairness dalam distribusi sumber daya kesehatan)."
+    },
+    {
+      "question": "A 35-year-old woman has atopic dermatitis. The doctor prescribes antihistamine. What is the purpose of the prescribed drug?",
+      "options": [
+        "Treating infections",
+        "Improves skin hydration",
+        "Reduces itching",
+        "Improves skin elasticity",
+        "Reduces inflammation"
+      ],
+      "answer": 2,
+      "explanation": "Antihistamine mengurangi itching."
+    },
+    {
+      "question": "A 28-year-old man came to the emergency department after sustaining an injury while playing basketball. While jumping, he felt a loud \"pop\" sound on the back of his right leg, followed by a sharp pain. He immediately fell and could not stand or walk normally. On physical examination, swelling was seen in the Achilles tendon area, and when palpation was performed, there was significant pain. He also had difficulty performing dorsiflexion movements on the ankle. This symptom indicates the possible rupture of the Achilles tendon. Anatomically, what muscles does the Achilles tendon connect the Calcaneus bone with?",
+      "options": [
+        "Semitendinosus muscle",
+        "Anterior tibial muscle",
+        "Quadriceps muscle",
+        "Gluteus maximus muscle",
+        "Gastrocnemius muscle"
+      ],
+      "answer": 4,
+      "explanation": "Achilles tendon menghubungkan calcaneus dengan gastrocnemius (dan soleus)."
+    },
+    {
+      "question": "A 60-year-old man came in with complaints of wounds in his leg that did not heal. He has a history of travel to the tropics. What is the etiology of the above case?",
+      "options": [
+        "Trichophyton rubrum",
+        "Staphylococcus aureus",
+        "Herpes simplex virus",
+        "Strongyloides stercoralis",
+        "Candida albicans"
+      ],
+      "answer": 3,
+      "explanation": "Luka kronis tidak sembuh + riwayat ke daerah tropis mengarah ke Strongyloides stercoralis. Jawaban paling mungkin dari opsi."
+    },
+    {
+      "question": "A 45-year-old woman has low back pain due to a herniated disc. The doctor prescribes muscle relaxants. What medications may be prescribed?",
+      "options": [
+        "Baclofen",
+        "Prednisone",
+        "Naproxen",
+        "Methotrexate",
+        "Ibuprofen"
+      ],
+      "answer": 0,
+      "explanation": "Baclofen adalah muscle relaxant."
+    },
+    {
+      "question": "An epidemiologist is conducting research on the spread of influenza virus infection in the community. He collects data on the number of cases, age, and location. What is the most appropriate type of study to use in this study?",
+      "options": [
+        "Cohort study",
+        "Cross-section study",
+        "Longitudinal study",
+        "Case-control study",
+        "Experimental study"
+      ],
+      "answer": 1,
+      "explanation": "Mengumpulkan jumlah kasus, usia, dan lokasi pada satu waktu = cross-sectional (descriptive) study."
+    },
+    {
+      "question": "A 4-year-old child came with complaints of itching and a red rash on the skin. He had just been playing in the park and was exposed to the ground. What is the etiology of the above case?",
+      "options": [
+        "Ancylostoma braziliense",
+        "Staphylococcus aureus",
+        "Herpes simplex virus",
+        "Trichophyton rubrum",
+        "Candida albicans"
+      ],
+      "answer": 0,
+      "explanation": "Anak terpapar tanah + ruam gatal = cutaneous larva migrans (Ancylostoma braziliense)."
+    },
+    {
+      "question": "A 16-year-old teenager came to the clinic complaining of a small, hard and rough lump on the palm of his hand. The lump is painless and looks like a wart. What is the etiology of the case?",
+      "options": [
+        "Type-1 human papillomavirus",
+        "Varicella-zoster virus",
+        "Herpes simplex virus",
+        "Molluscum contagiosum virus",
+        "Staphylococcus aureus"
+      ],
+      "answer": 0,
+      "explanation": "Benjolan keras kasar seperti wart di telapak tangan = Human papillomavirus."
+    },
+    {
+      "question": "What is the name of the structure labeled with the green arrow in the image?",
+      "image": "quizzes/DMS/src/skin_histology.jpg",
+      "options": [
+        "Meissner corpuscle",
+        "Ruffini corpuscle",
+        "Krause corpuscle",
+        "Golgi corpuscle",
+        "Pacinian corpuscle"
+      ],
+      "answer": 0,
+      "explanation": "Green arrow menunjuk Meissner corpuscle di dermal papilla."
+    },
+    {
+      "question": "A 30-year-old woman has joint pain due to rheumatoid arthritis. The doctor prescribes methotrexate. What is the mechanism of action of the drug for this patient?",
+      "options": [
+        "Increases uric acid excretion",
+        "Reduces pain",
+        "Inhibits cell proliferation",
+        "Increases collagen production",
+        "Reduces inflammation"
+      ],
+      "answer": 2,
+      "explanation": "Methotrexate menghambat cell proliferation (DHFR inhibitor)."
+    },
+    {
+      "question": "Antigen presenting cells (APCs) function to capture, process, and present antigens to T cells in the immune system. What is the name of the antigen presenting cell found in the epidermis of the skin?",
+      "options": [
+        "Langerhans cells",
+        "Merkel cells",
+        "Keratinocytes",
+        "Melanocytes",
+        "Adipocytes"
+      ],
+      "answer": 0,
+      "explanation": "Langerhans cells adalah antigen presenting cells di epidermis."
+    },
+    {
+      "question": "A 30-year-old woman developed a red and itchy rash in the elbow and knee area. He had a history of allergies. What are the main causes of allergic reactions to the skin?",
+      "options": [
+        "High humidity",
+        "Dehydration",
+        "Bacterial infections",
+        "Histamine release",
+        "Exposure to sunlight"
+      ],
+      "answer": 3,
+      "explanation": "Reaksi alergi kulit terjadi lewat histamine release dari mast cell."
+    },
+    {
+      "question": "A 65-year-old man with a history of diabetes came with complaints of pain and swelling in the legs. The results of the examination showed the presence of ulcers. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Diabetic ulcer",
+        "Psoriasis vulgaris",
+        "Fungal infections",
+        "Dermatitis",
+        "Gout"
+      ],
+      "answer": 0,
+      "explanation": "Pasien diabetes dengan ulcer di kaki = diabetic ulcer."
+    },
+    {
+      "question": "A 16-year-old teenager came in with severe acne complaints. The doctor prescribes isotretinoin. What are the main concerns when using the prescribed treatment?",
+      "options": [
+        "Causes depression",
+        "Risk of fetal malformations",
+        "Increases blood pressure",
+        "Reduced liver function",
+        "Increases cholesterol levels"
+      ],
+      "answer": 1,
+      "explanation": "Isotretinoin bersifat teratogenik: risk of fetal malformations."
+    },
+    {
+      "question": "A 40-year-old woman suffers from dry and scaly skin. The doctor prescribes an emollient cream. What is the main function of the prescribed treatment?",
+      "options": [
+        "Moisturizes the skin",
+        "Improves skin elasticity",
+        "Reduces inflammation",
+        "Treating infections",
+        "Reduces itching"
+      ],
+      "answer": 0,
+      "explanation": "Emollient melembabkan kulit."
+    },
+    {
+      "question": "A 5-year-old child came in with complaints of high fever, cough, and a red rash that spread from the face to the rest of the body. What is the etiology of the case?",
+      "options": [
+        "Measles virus",
+        "Rubella virus",
+        "Varicella-zoster virus",
+        "Adenovirus",
+        "Human papillomavirus"
+      ],
+      "answer": 0,
+      "explanation": "Demam tinggi, batuk, ruam menyebar dari wajah ke seluruh tubuh = Measles virus."
+    },
+    {
+      "question": "A 35-year-old woman developed a red and itchy rash on her skin. The doctor diagnoses allergic dermatitis and prescribes corticosteroid creams. What is the main function of the treatment given?",
+      "options": [
+        "Treating infections",
+        "Reduces inflammation",
+        "Hydrates the skin",
+        "Reduces itching",
+        "Boosts immunity"
+      ],
+      "answer": 1,
+      "explanation": "Corticosteroid topikal mengurangi inflammation."
+    },
+    {
+      "question": "A 65-year-old man with chronic joint pain was diagnosed with osteoarthritis. The doctor prescribes glucosamine supplements. What is the most likely purpose of using the supplements?",
+      "options": [
+        "Supports bone density",
+        "Reducing weight",
+        "Reduces pain",
+        "Supports cartilage health",
+        "Reduces inflammation"
+      ],
+      "answer": 3,
+      "explanation": "Glucosamine mendukung cartilage health."
+    },
+    {
+      "question": "A 3-year-old child came in with complaints of fever, lesions in the mouth, and rashes on the hands and feet. What is the etiology of the case?",
+      "options": [
+        "Varicella-zoster virus",
+        "Measles virus",
+        "Rubella virus",
+        "Coxsackievirus",
+        "Herpes simplex virus"
+      ],
+      "answer": 3,
+      "explanation": "Demam, lesi di mulut, ruam tangan dan kaki = hand-foot-and-mouth disease (Coxsackievirus)."
+    },
+    {
+      "question": "What is the name of the structure labeled with the blue arrow in the image?",
+      "image": "quizzes/DMS/src/skin_histology.jpg",
+      "options": [
+        "Stratum lucidum",
+        "Stratum spinosum",
+        "Stratum basale",
+        "Stratum corneum",
+        "Stratum granulosum"
+      ],
+      "answer": 4,
+      "explanation": "Blue arrow menunjuk lapisan gelap berisi keratohyalin granules = stratum granulosum."
+    },
+    {
+      "question": "What is the physiological function of the antigen presenting cells?",
+      "options": [
+        "Produces proteins that provide strength and mechanical protection from friction on the skin",
+        "Produces pigments that give color to the skin and protect against damage caused by ultraviolet (UV) rays",
+        "Captures, processes, and presents certain substances to T lymphocytes in the immune system",
+        "Stores energy, provides insulation, and protects the tissues under the skin",
+        "Touch receptors and provide information about texture and pressure on the skin"
+      ],
+      "answer": 2,
+      "explanation": "Antigen presenting cells menangkap, memproses, dan mempresentasikan antigen ke T lymphocytes."
+    },
+    {
+      "question": "A 10-year-old child came to the hospital after falling while riding a bicycle. He complained of severe pain in his right knee and difficulty walking. On physical examination, swelling in the distal tibia area and pain during palpation were seen. X-rays show the presence of a fracture classified as Salter-Harris as shown in the following image. What are the physiological processes found in the anatomical structures shown by the blue arrows?",
+      "image": "quizzes/DMS/src/salter_harris.jpg",
+      "options": [
+        "Collagen deposition",
+        "Callus formation",
+        "Intramembranous ossification",
+        "Endochondral ossification",
+        "Bone resorption"
+      ],
+      "answer": 3,
+      "explanation": "Physis (growth plate) = tempat endochondral ossification."
+    },
+    {
+      "question": "What are the characteristics of type II muscle fibers?",
+      "options": [
+        "More resistant to fatigue than type I",
+        "More capillaries than type I",
+        "Contracts faster but gets tired more easily",
+        "Has more elastic fibers",
+        "More mitochondria than type I"
+      ],
+      "answer": 2,
+      "explanation": "Type II muscle fibers berkontraksi lebih cepat tetapi lebih mudah lelah."
+    },
+    {
+      "question": "What is the function of sarcoplasmic reticulum in muscle cells?",
+      "options": [
+        "Stores and releases calcium ions for muscle contraction",
+        "Produces proteins for muscle cell maintenance",
+        "Regulates glucose metabolism",
+        "Destroying cellular waste",
+        "Produces energy in the form of ATP"
+      ],
+      "answer": 0,
+      "explanation": "Sarcoplasmic reticulum menyimpan dan melepaskan Ca2+ untuk kontraksi otot."
+    },
+    {
+      "question": "An epidemiologist found that there was an increase in cases of skin diseases in certain areas. He conducted an analysis to determine the environmental factors that contributed. What is the first step in this epidemiological analysis?",
+      "options": [
+        "Calculate maintenance costs",
+        "Identify the affected population",
+        "Analyzing demographic data",
+        "Collecting data on treatment",
+        "Developing intervention programs"
+      ],
+      "answer": 1,
+      "explanation": "Langkah pertama analisis epidemiologi: identify the affected population."
+    },
+    {
+      "question": "A 60-year-old woman experienced persistent back pain and difficulty moving. He had a history of osteoporosis. What are the main pathomechanisms of osteoporosis?",
+      "options": [
+        "Bone infections",
+        "Decreased bone mineral density",
+        "Joint inflammation",
+        "Increased collagen production",
+        "Excess calcium"
+      ],
+      "answer": 1,
+      "explanation": "Osteoporosis: penurunan bone mineral density."
+    },
+    {
+      "question": "A 15-year-old teenage girl came to the clinic with complaints of severe acne. She asked the doctor to prescribe isotretinoin, but her parents refused because they were worried about the side effects. What should be the doctor's approach in this situation?",
+      "options": [
+        "Leave the decision entirely to the parents",
+        "Discuss risks and benefits with patient and parents",
+        "Ignore parents' concerns and prescribe medications",
+        "Excluding the patient for making decision",
+        "Prescribing medication without telling parents"
+      ],
+      "answer": 1,
+      "explanation": "Pendekatan terbaik: diskusikan risiko dan manfaat bersama pasien dan orang tua."
+    },
+    {
+      "question": "A 50-year-old man came in with complaints of redness, swelling, and pain in the skin in the leg area. He has a history of diabetes. What is the etiology of the above case?",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus",
+        "Escherichia coli",
+        "Candida albicans"
+      ],
+      "answer": 1,
+      "explanation": "Cellulitis pada pasien diabetes paling sering oleh Streptococcus pyogenes (S. aureus juga mungkin). Soal ini kurang tegas."
+    },
+    {
+      "question": "What are the main causes of pain in piriformis syndrome?",
+      "options": [
+        "Arthritis",
+        "Muscle fatigue",
+        "Ligament injury",
+        "Sciatic nerve compression",
+        "Pelvic fracture"
+      ],
+      "answer": 3,
+      "explanation": "Piriformis syndrome: nyeri akibat sciatic nerve compression."
+    },
+    {
+      "question": "A 16-year-old teenager came in with complaints of pain and swelling in his wrist after falling off a bicycle. What happens to bone tissue after a fracture?",
+      "options": [
+        "Decreased blood flow to the fracture area",
+        "Increased bone resorption",
+        "Increased bone density",
+        "Scar tissue formation",
+        "The healing process through the formation of the callus"
+      ],
+      "answer": 4,
+      "explanation": "Setelah fraktur, penyembuhan lewat pembentukan callus."
+    },
+    {
+      "question": "A 55-year-old man came to the clinic with complaints of joint pain that worsened in the morning and stiffness that lasted more than an hour. The results of the physical examination showed swelling in the small joints. What is the most likely diagnosis for this patient?",
+      "options": [
+        "Psoriatic arthritis",
+        "Gout",
+        "Tendinitis",
+        "Rheumatoid arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": 3,
+      "explanation": "Nyeri sendi kecil, morning stiffness lebih dari 1 jam = rheumatoid arthritis."
+    },
+    {
+      "question": "A doctor at a public health clinic wants to raise awareness about the importance of vaccination in children. He plans an educational campaign for parents. What should be the focus of this campaign?",
+      "options": [
+        "Increase the number of doctors administering vaccines",
+        "Reduce vaccination costs",
+        "Concealing the facts regarding vaccines' side effects",
+        "Increase knowledge about the benefits of vaccination",
+        "Increase the number of vaccines available"
+      ],
+      "answer": 3,
+      "explanation": "Fokus kampanye edukasi adalah meningkatkan pengetahuan tentang manfaat vaksinasi."
+    },
+    {
+      "question": "A 40-year-old woman came to the clinic for a routine health check-up. Doctors recommend cholesterol and blood pressure screening. What is the purpose of this primary prevention?",
+      "options": [
+        "Reducing healthcare costs",
+        "Treating pre-existing diseases",
+        "Early detection of the diseases",
+        "Reducing the number of patients in hospitals",
+        "Raising awareness about the diseases"
+      ],
+      "answer": 2,
+      "explanation": "Screening kolesterol dan tekanan darah bertujuan early detection penyakit."
+    },
+    {
+      "question": "A 6-year-old child came in with complaints of fever, sore throat, and a red rash all over his body. She had just interacted with her friends who were also experiencing similar symptoms. What is the etiology of the case?",
+      "options": [
+        "Escherichia coli",
+        "Streptococcus pyogenes",
+        "Neisseria meningitidis",
+        "Staphylococcus aureus",
+        "Human papillomavirus"
+      ],
+      "answer": 1,
+      "explanation": "Demam, sore throat, ruam seluruh tubuh pada anak = scarlet fever (Streptococcus pyogenes)."
+    }
+  ]
+}

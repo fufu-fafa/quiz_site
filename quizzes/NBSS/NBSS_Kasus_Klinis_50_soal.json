@@ -1,0 +1,606 @@
+{
+  "title": "Kasus Klinis NBSS - 50 Soal",
+  "description": "50 vignette klinis: neurology, eye, ENT, psychiatry, ethics.",
+  "questions": [
+    {
+      "question": "A 58-year-old man with untreated hypertension suddenly develops a severe headache and vomiting while lifting a heavy box, followed by left hemiplegia. GCS is 9 and BP 210/120 mmHg. What is the expected finding on non-contrast head CT?",
+      "options": [
+        "Hypodense lesion in the left MCA territory",
+        "Normal CT scan",
+        "Hyperdense lesion in the right basal ganglia (putamen)",
+        "Ring-enhancing lesion",
+        "Crescent-shaped hyperdensity over the convexity"
+      ],
+      "answer": 2,
+      "explanation": "Hemorrhagic stroke hipertensif paling sering di putamen/basal ganglia; pada CT tampak hiperdens. Lesi di kanan menyebabkan hemiplegia kiri. Crescent = subdural hematoma; ring-enhancing = abscess/tumor."
+    },
+    {
+      "question": "A 66-year-old right-handed woman suddenly develops weakness of the right lower face and right arm (arm worse than leg), and she understands commands but cannot speak fluently. Which artery is most likely occluded?",
+      "options": [
+        "Left middle cerebral artery",
+        "Left anterior cerebral artery",
+        "Right middle cerebral artery",
+        "Left posterior cerebral artery",
+        "Basilar artery"
+      ],
+      "answer": 0,
+      "explanation": "Wajah & lengan > tungkai + Broca aphasia (hemisfer dominan) = teritori MCA kiri (lateral convexity: area wajah-lengan di precentral gyrus dan inferior frontal gyrus)."
+    },
+    {
+      "question": "A 70-year-old man develops weakness of the right leg much greater than the right arm, urinary incontinence, and apathy (abulia). Which artery is most likely involved?",
+      "options": [
+        "Left middle cerebral artery",
+        "Right posterior cerebral artery",
+        "Anterior spinal artery",
+        "Left anterior cerebral artery",
+        "Left vertebral artery"
+      ],
+      "answer": 3,
+      "explanation": "ACA mendarahi permukaan medial frontal-parietal (area tungkai di paracentral lobule) dan frontal lobe medial → tungkai kontralateral > lengan, inkontinensia urin, abulia."
+    },
+    {
+      "question": "Over three weeks, a 62-year-old man has had several 15-minute episodes of double vision, slurred speech, unsteady gait, and vertigo, which fully resolve. Which vascular system is most likely involved?",
+      "options": [
+        "Left internal carotid artery",
+        "Vertebrobasilar system",
+        "Right middle cerebral artery",
+        "External carotid artery",
+        "Anterior cerebral artery"
+      ],
+      "answer": 1,
+      "explanation": "TIA berulang dengan diplopia, dysarthria, ataxia, vertigo = gejala brainstem/cerebellum → posterior circulation (vertebrobasilar). Berisiko berkembang menjadi infark posterior."
+    },
+    {
+      "question": "A 72-year-old woman arrives 10 hours after the onset of right hemiparesis. CT shows no hemorrhage. BP is 190/100 mmHg, and she is not a candidate for thrombolysis. What is the most appropriate blood pressure management?",
+      "options": [
+        "Lower BP to 120/80 mmHg within 1 hour",
+        "Give sublingual nifedipine",
+        "Start an IV antihypertensive infusion immediately",
+        "Give IV dextrose 5% to maintain perfusion",
+        "Do not lower BP unless it exceeds 220/120 mmHg"
+      ],
+      "answer": 4,
+      "explanation": "Pada ischemic stroke akut tanpa thrombolysis, berlaku permissive hypertension: TD diturunkan hanya bila > 220/120 mmHg (target > 185/110 jika akan diberi rtPA), untuk menjaga perfusi penumbra. Hindari D5% (hipotonis, hiperglikemia)."
+    },
+    {
+      "question": "A 65-year-old man admitted with an acute ischemic stroke has slurred speech and a weak cough. His family wants to feed him porridge. What should be done first?",
+      "options": [
+        "Feed him porridge with the head elevated",
+        "Give clear liquids only",
+        "Perform a swallowing (dysphagia) screen before any oral intake",
+        "Insert a gastrostomy tube immediately",
+        "Withhold nutrition for one week"
+      ],
+      "answer": 2,
+      "explanation": "Pasien stroke dengan dysarthria/dysphagia berisiko aspiration pneumonia. Lakukan skrining menelan sebelum memberi makan atau minum per oral; jika gagal, gunakan NGT."
+    },
+    {
+      "question": "A 35-year-old man with Guillain-Barré syndrome has weakness that is progressing to his trunk. Which parameter is most important to monitor serially to decide on intubation?",
+      "options": [
+        "Forced vital capacity",
+        "Deep tendon reflexes",
+        "Serum CK",
+        "Body temperature",
+        "Blood glucose"
+      ],
+      "answer": 0,
+      "explanation": "GBS dapat mengenai otot napas. FVC < 20 mL/kg (atau penurunan cepat) adalah indikasi intubasi. SpO2 sering baru turun saat sudah terlambat."
+    },
+    {
+      "question": "A 40-year-old woman has ascending weakness and areflexia two weeks after gastroenteritis. A lumbar puncture is performed. What CSF finding is most typical?",
+      "options": [
+        "High neutrophil count and low glucose",
+        "High lymphocyte count and normal protein",
+        "Xanthochromia",
+        "High protein with a normal cell count",
+        "Oligoclonal bands with low protein"
+      ],
+      "answer": 3,
+      "explanation": "GBS: albuminocytologic dissociation (protein naik, sel normal), biasanya jelas setelah minggu pertama. Neutrophil tinggi dan glukosa rendah khas bacterial meningitis."
+    },
+    {
+      "question": "A 30-year-old man is diagnosed with Guillain-Barré syndrome and can no longer walk unaided. Which treatment is most appropriate?",
+      "options": [
+        "High-dose oral prednisone",
+        "Intravenous immunoglobulin or plasma exchange",
+        "Pyridostigmine",
+        "Botulinum antitoxin",
+        "Levodopa"
+      ],
+      "answer": 1,
+      "explanation": "Terapi GBS: IVIG atau plasmapheresis, efektif bila dimulai dalam 2–4 minggu pertama. Corticosteroid tidak terbukti bermanfaat. Pyridostigmine untuk myasthenia gravis."
+    },
+    {
+      "question": "Two days after eating home-canned vegetables, a 45-year-old woman develops ptosis, double vision, difficulty swallowing, and then weakness spreading down to the arms. Her pupils are dilated and poorly reactive, and sensation is normal. What is the most likely diagnosis?",
+      "options": [
+        "Guillain-Barré syndrome",
+        "Myasthenia gravis",
+        "Tetanus",
+        "Organophosphate poisoning",
+        "Botulism"
+      ],
+      "answer": 4,
+      "explanation": "Botulism: descending paralysis dimulai dari cranial nerves, pupil midriasis (blokade ACh parasympathetic), sensorik normal. GBS biasanya ascending; myasthenia tidak mengenai pupil; organophosphate menyebabkan miosis."
+    },
+    {
+      "question": "A 50-year-old farmer has trismus, risus sardonicus, and painful generalized spasms 10 days after stepping on a rusty nail. Besides airway protection and wound debridement, what neutralizes the circulating unbound toxin?",
+      "options": [
+        "Human tetanus immunoglobulin",
+        "Tetanus toxoid alone",
+        "IV diazepam",
+        "Metronidazole",
+        "Pyridostigmine"
+      ],
+      "answer": 0,
+      "explanation": "Human tetanus immunoglobulin (HTIG) menetralkan toksin yang belum terikat. Metronidazole membunuh C. tetani, diazepam mengendalikan spasme, dan toxoid untuk imunisasi aktif (penyakit tetanus tidak memberi kekebalan)."
+    },
+    {
+      "question": "An 18-month-old child with a temperature of 39.5°C has a single generalized tonic-clonic seizure lasting 3 minutes, then is alert and playful, with no meningeal signs. What is the diagnosis?",
+      "options": [
+        "Complex febrile seizure",
+        "Epilepsy",
+        "Simple febrile seizure",
+        "Bacterial meningitis",
+        "Status epilepticus"
+      ],
+      "answer": 2,
+      "explanation": "Simple febrile seizure: usia 6 bulan–5 tahun, kejang umum, < 15 menit, tidak berulang dalam 24 jam, anak kembali sadar baik. Complex: fokal, > 15 menit, atau berulang dalam 24 jam."
+    },
+    {
+      "question": "A 25-year-old man with known epilepsy arrives in the ER with continuous generalized tonic-clonic seizures for 10 minutes. IV access is available. What is the first-line drug?",
+      "options": [
+        "IV phenytoin",
+        "IV diazepam (benzodiazepine)",
+        "Oral valproate",
+        "IV haloperidol",
+        "IV propofol infusion"
+      ],
+      "answer": 1,
+      "explanation": "Status epilepticus: lini pertama benzodiazepine (IV diazepam/lorazepam; rectal diazepam atau IM midazolam bila tanpa akses IV). Lini kedua phenytoin/valproate/levetiracetam. Anesthetic (propofol) untuk refractory status."
+    },
+    {
+      "question": "A 20-year-old student has fever, headache, neck stiffness, and positive Kernig and Brudzinski signs. Which CSF profile supports bacterial meningitis?",
+      "options": [
+        "Clear fluid, lymphocytes, normal glucose",
+        "Clear fluid, normal cells, high protein",
+        "Bloody fluid with xanthochromia",
+        "Turbid fluid, neutrophils, low glucose, high protein",
+        "Clear fluid, lymphocytes, very low glucose, cobweb clot after weeks of symptoms"
+      ],
+      "answer": 3,
+      "explanation": "Bacterial meningitis: CSF keruh, PMN dominan, glukosa rendah, protein tinggi. Viral: limfosit, glukosa normal. TB: limfosit, glukosa sangat rendah, onset subakut. Xanthochromia: subarachnoid hemorrhage."
+    },
+    {
+      "question": "A 65-year-old man with Parkinson disease is started on levodopa combined with carbidopa. What is the role of carbidopa?",
+      "options": [
+        "Directly stimulates D2 receptors",
+        "Blocks muscarinic receptors in the striatum",
+        "Inhibits MAO-B in the brain",
+        "Increases dopamine release from nigral neurons",
+        "Inhibits peripheral dopa decarboxylase so more levodopa reaches the brain"
+      ],
+      "answer": 4,
+      "explanation": "Carbidopa tidak menembus BBB; ia menghambat aromatic L-amino acid (dopa) decarboxylase di perifer → lebih banyak levodopa masuk otak dan efek samping perifer (mual, hipotensi) berkurang."
+    },
+    {
+      "question": "A 28-year-old woman wakes up unable to close her right eye, with drooping of the right corner of her mouth and inability to wrinkle the right forehead. Symptoms began 24 hours ago, and other findings are normal. What is the most appropriate management?",
+      "options": [
+        "Urgent thrombolysis",
+        "Oral corticosteroid and eye protection (artificial tears, taping at night)",
+        "Immediate facial nerve decompression surgery",
+        "Carbamazepine",
+        "Observation only, without eye care"
+      ],
+      "answer": 1,
+      "explanation": "Bell palsy (LMN facial palsy: dahi ikut lumpuh). Prednison dalam 72 jam pertama dan proteksi kornea karena lagophthalmos. Dahi yang terkena membedakannya dari stroke (UMN, dahi tidak terkena)."
+    },
+    {
+      "question": "A 55-year-old woman has brief, electric-shock-like pain over her right cheek and jaw, triggered by chewing, brushing her teeth, or a light breeze. Neurological examination is normal. What is the drug of choice?",
+      "options": [
+        "Ibuprofen",
+        "Sumatriptan",
+        "Carbamazepine",
+        "Morphine",
+        "Prednisone"
+      ],
+      "answer": 2,
+      "explanation": "Trigeminal neuralgia (umumnya cabang V2/V3) dengan trigger zone. Lini pertama carbamazepine (atau oxcarbazepine). Analgesik biasa tidak efektif."
+    },
+    {
+      "question": "A 32-year-old woman has had irregular menses, galactorrhea, and frequent bumping into objects on both sides for 6 months. Visual field testing shows loss of the outer (temporal) halves in both eyes. Where is the lesion?",
+      "options": [
+        "Optic chiasm",
+        "Left optic tract",
+        "Both optic nerves",
+        "Occipital cortex bilaterally",
+        "Meyer's loop"
+      ],
+      "answer": 0,
+      "explanation": "Prolactinoma (pituitary adenoma) menekan optic chiasm dari bawah → bitemporal heteronymous hemianopia; prolaktin tinggi → amenorrhea/galactorrhea."
+    },
+    {
+      "question": "After surgery for a left temporal lobe tumor, a patient has lost vision in the upper right quadrant of both eyes. Which structure was damaged?",
+      "options": [
+        "Right optic nerve",
+        "Optic chiasm",
+        "Left parietal optic radiation",
+        "Left Meyer's loop",
+        "Right occipital lobe"
+      ],
+      "answer": 3,
+      "explanation": "Meyer's loop (serat optic radiation inferior yang melewati temporal lobe) membawa lapang pandang atas kontralateral. Lesi kiri → right superior quadrantanopia (\"pie in the sky\"). Lesi parietal → inferior quadrantanopia."
+    },
+    {
+      "question": "A 62-year-old woman develops a severe left eye pain, headache, nausea, vomiting, and blurred vision with halos around lights after watching a movie in a dark cinema. The eye is red, the cornea is hazy, and the pupil is mid-dilated and non-reactive. What is the most likely diagnosis?",
+      "options": [
+        "Acute conjunctivitis",
+        "Acute angle-closure glaucoma",
+        "Migraine with aura",
+        "Anterior uveitis",
+        "Mature cataract"
+      ],
+      "answer": 1,
+      "explanation": "Ruangan gelap → pupil midriasis → iris menutup sudut bilik mata depan → TIO melonjak. Tanda khas: mata merah, nyeri hebat, halo, kornea edema, pupil mid-dilated non-reaktif, sering disertai mual muntah."
+    },
+    {
+      "question": "In the patient with acute angle-closure glaucoma, which eye drop lowers intraocular pressure by causing miosis and contracting the ciliary muscle to open the trabecular meshwork?",
+      "options": [
+        "Atropine",
+        "Homatropine",
+        "Phenylephrine",
+        "Tropicamide",
+        "Pilocarpine"
+      ],
+      "answer": 4,
+      "explanation": "Pilocarpine (direct muscarinic agonist) → kontraksi sphincter pupillae (miosis, iris tertarik dari sudut) dan ciliary muscle (trabecular meshwork terbuka). Antimuscarinic dan phenylephrine menyebabkan midriasis dan dapat memperburuk."
+    },
+    {
+      "question": "A 45-year-old teacher has difficulty reading small print and holds books at arm's length, but her distance vision is normal. What is the diagnosis and correction?",
+      "options": [
+        "Myopia; minus spherical lens",
+        "Astigmatism; cylindrical lens",
+        "Presbyopia; plus lens for near vision",
+        "Hypermetropia; minus lens",
+        "Cataract; surgery"
+      ],
+      "answer": 2,
+      "explanation": "Presbyopia: lensa kehilangan elastisitas mulai usia sekitar 40 tahun → amplitudo akomodasi turun. Koreksi dengan lensa plus (adisi) untuk membaca."
+    },
+    {
+      "question": "A 5-year-old boy has an inward-turning eye when focusing on near objects and complains of tired eyes. Cycloplegic refraction shows S +3.00 in both eyes. What is the diagnosis?",
+      "options": [
+        "Hypermetropia with accommodative esotropia",
+        "Myopia",
+        "Presbyopia",
+        "Anisometropia",
+        "Emmetropia"
+      ],
+      "answer": 0,
+      "explanation": "Hypermetropia (lensa plus) memaksa anak berakomodasi terus-menerus; akomodasi disertai konvergensi → esotropia akomodatif dan asthenopia. Koreksi dengan kacamata plus penuh sesuai refraksi sikloplegik."
+    },
+    {
+      "question": "A malnourished 9-month-old infant has night blindness and Bitot's spots on both eyes. What is the correct vitamin A dose per administration?",
+      "options": [
+        "Red capsule, 200,000 IU",
+        "Half a blue capsule, 50,000 IU",
+        "Vitamin A program schedule only (February and August)",
+        "Blue capsule, 100,000 IU",
+        "Antibiotic eye drops without vitamin A"
+      ],
+      "answer": 3,
+      "explanation": "Terapi xerophthalmia (hari 1, hari 2, dan 2 minggu kemudian): < 6 bulan 50.000 IU; 6–11 bulan 100.000 IU (kapsul biru); ≥ 12 bulan 200.000 IU (kapsul merah)."
+    },
+    {
+      "question": "A 70-year-old man has gradually decreasing vision in his right eye over 2 years. VA is 1/300. The pupil appears white, and the iris shadow test is negative. What is the diagnosis and management?",
+      "options": [
+        "Immature cataract; glasses",
+        "Mature cataract; cataract extraction with intraocular lens implantation",
+        "Glaucoma; pilocarpine",
+        "Retinal detachment; laser",
+        "Hypermature cataract; observation"
+      ],
+      "answer": 1,
+      "explanation": "Shadow test negatif = lensa keruh seluruhnya (mature cataract). Shadow test positif = immature. Terapi definitif: ekstraksi lensa (phacoemulsification/SICS) dan pemasangan IOL."
+    },
+    {
+      "question": "A farmer was hit in the eye by a rice stalk 5 days ago and used traditional herbal drops. The cornea now shows a gray-white infiltrate with feathery margins, satellite lesions, and hypopyon. What is the most appropriate treatment?",
+      "options": [
+        "Topical corticosteroid",
+        "Topical acyclovir",
+        "Artificial tears only",
+        "Topical chloramphenicol only",
+        "Topical natamycin (antifungal)"
+      ],
+      "answer": 4,
+      "explanation": "Trauma bahan organik + feathery margin + satellite lesion + hypopyon = fungal keratitis. Terapi natamycin 5% (atau voriconazole); corticosteroid dikontraindikasikan."
+    },
+    {
+      "question": "A 28-year-old woman has progressive hearing loss in both ears that worsened during pregnancy. Her mother had the same problem. The tympanic membranes are intact, and Rinne is negative bilaterally. Which structure is most likely affected?",
+      "options": [
+        "Cochlear hair cells",
+        "Tympanic membrane",
+        "Stapes footplate at the oval window",
+        "Vestibulocochlear nerve",
+        "Eustachian tube"
+      ],
+      "answer": 2,
+      "explanation": "Otosclerosis: fiksasi stapes footplate di oval window oleh tulang baru → conductive hearing loss progresif, membran timpani normal, riwayat keluarga, memburuk saat hamil. Terapi: stapedotomy atau alat bantu dengar."
+    },
+    {
+      "question": "A 45-year-old factory worker exposed to loud machinery for 20 years has bilateral hearing loss and tinnitus. The audiogram shows bilateral sensorineural loss with a notch at 4 kHz. What is the diagnosis?",
+      "options": [
+        "Noise-induced hearing loss",
+        "Otosclerosis",
+        "Meniere disease",
+        "Otitis media with effusion",
+        "Acoustic neuroma"
+      ],
+      "answer": 0,
+      "explanation": "Noise-induced hearing loss: sensorineural bilateral simetris dengan notch khas di 4 kHz (kerusakan outer hair cell di bagian basal cochlea). Pencegahan dengan alat pelindung telinga."
+    },
+    {
+      "question": "A 50-year-old woman has brief (under 1 minute) spinning vertigo when she rolls over in bed or looks up. Hearing is normal. The Dix-Hallpike test provokes torsional nystagmus. What is the most appropriate management?",
+      "options": [
+        "Long-term betahistine and bed rest",
+        "High-dose antibiotics",
+        "Mastoidectomy",
+        "Canalith repositioning (Epley maneuver)",
+        "Low-salt diet and diuretics"
+      ],
+      "answer": 3,
+      "explanation": "BPPV (paling sering posterior semicircular canal): vertigo detik-detik dipicu posisi, Dix-Hallpike positif. Terapi Epley maneuver. Diet rendah garam dan diuretik untuk Meniere disease."
+    },
+    {
+      "question": "One week after a cold, a 38-year-old man develops severe continuous vertigo with nausea and vomiting lasting 3 days. Hearing is normal, with horizontal nystagmus and no other neurological deficit. What is the most likely diagnosis?",
+      "options": [
+        "Meniere disease",
+        "Vestibular neuronitis",
+        "Benign paroxysmal positional vertigo",
+        "Labyrinthitis",
+        "Presbycusis"
+      ],
+      "answer": 1,
+      "explanation": "Vestibular neuronitis: vertigo kontinu berhari-hari setelah infeksi virus, tanpa gangguan pendengaran. Bila disertai hearing loss = labyrinthitis. Meniere episodik dengan tuli fluktuatif."
+    },
+    {
+      "question": "A 3-year-old girl has had fever and right ear pain for one day after a cold. Otoscopy shows a red, hyperemic tympanic membrane that is not bulging, without discharge. Which stage of acute otitis media is this?",
+      "options": [
+        "Occlusion",
+        "Suppuration",
+        "Perforation",
+        "Resolution",
+        "Hyperemia (presuppuration)"
+      ],
+      "answer": 4,
+      "explanation": "Stadium AOM: occlusion (retraksi, pucat) → hyperemia (merah, edema, belum bulging) → suppuration (bulging, nyeri dan demam memuncak) → perforation (otorrhea, nyeri berkurang) → resolution."
+    },
+    {
+      "question": "A 4-year-old boy had high fever and severe ear pain. This morning pus came out of his left ear, and then the pain and fever subsided. Otoscopy shows a small perforation with pulsating discharge. Which stage is this?",
+      "options": [
+        "Hyperemia",
+        "Suppuration",
+        "Perforation",
+        "Occlusion",
+        "Chronic suppurative otitis media"
+      ],
+      "answer": 2,
+      "explanation": "Perforation stage: membran timpani ruptur, sekret keluar (sering berdenyut), dan tekanan lepas sehingga nyeri serta demam mereda. Disebut CSOM bila otorrhea > 2 bulan."
+    },
+    {
+      "question": "A 25-year-old man has had foul-smelling, scanty left ear discharge for years with hearing loss. Otoscopy shows an attic perforation with white keratin debris. What is the definitive management?",
+      "options": [
+        "Mastoidectomy",
+        "Ear drops alone for 2 weeks",
+        "Myringotomy with grommet insertion",
+        "Decongestant and antihistamine",
+        "Hearing aid only"
+      ],
+      "answer": 0,
+      "explanation": "CSOM tipe bahaya (perforasi attic/marginal + cholesteatoma). Cholesteatoma bersifat erosif dan berisiko komplikasi (labyrinthitis, facial palsy, abscess), sehingga terapinya pembedahan (mastoidectomy). Tipe aman (perforasi central) diterapi ear toilet + antibiotik."
+    },
+    {
+      "question": "A 6-year-old boy who snores and breathes through his mouth has reduced hearing without pain or fever. The tympanic membrane is dull and retracted with an air-fluid level, and the tympanogram is flat (type B). What is the diagnosis?",
+      "options": [
+        "Acute otitis media, suppuration stage",
+        "Chronic suppurative otitis media",
+        "Otosclerosis",
+        "Otitis media with effusion",
+        "Bullous myringitis"
+      ],
+      "answer": 3,
+      "explanation": "OME: cairan di telinga tengah tanpa tanda infeksi akut, sering akibat disfungsi Eustachian tube karena adenoid hypertrophy atau rhinitis alergi. Tympanogram type B (datar)."
+    },
+    {
+      "question": "A 22-year-old woman has repeated sneezing, nasal itching, watery rhinorrhea, and itchy eyes every morning, especially when cleaning dusty rooms. The nasal mucosa is pale and livid. Which treatment is most appropriate for persistent symptoms?",
+      "options": [
+        "Long-term topical nasal decongestant",
+        "Intranasal corticosteroid and allergen avoidance",
+        "Oral antibiotics",
+        "Septoplasty",
+        "Avoid perfume and cigarette smoke only"
+      ],
+      "answer": 1,
+      "explanation": "Rhinitis alergi (gatal, bersin, mukosa pucat/livid, pencetus debu). Terapi: hindari alergen + intranasal corticosteroid (atau antihistamin oral). Dekongestan topikal jangka panjang berisiko rhinitis medicamentosa. Bandingkan dengan rhinitis vasomotor: tanpa gatal, mukosa tidak livid, dipicu asap/parfum."
+    },
+    {
+      "question": "A 26-year-old woman with bipolar disorder has had three manic episodes. Her psychiatrist chooses a maintenance mood stabilizer that requires monitoring of serum levels, thyroid function, and renal function. Which drug is this?",
+      "options": [
+        "Fluoxetine",
+        "Haloperidol",
+        "Alprazolam",
+        "Clozapine",
+        "Lithium"
+      ],
+      "answer": 4,
+      "explanation": "Lithium: indeks terapi sempit (pantau kadar serum), efek samping hipotiroidisme dan nephrogenic diabetes insipidus/gangguan ginjal. SSRI tunggal dapat memicu switch ke mania."
+    },
+    {
+      "question": "A 20-year-old man is given IM haloperidol for acute psychosis. Six hours later, his neck twists painfully to one side and his eyes roll upward. What is the most appropriate treatment?",
+      "options": [
+        "Increase the haloperidol dose",
+        "Give IV dantrolene",
+        "Give an anticholinergic (e.g., diphenhydramine IM or trihexyphenidyl)",
+        "Give levodopa",
+        "Give lithium"
+      ],
+      "answer": 2,
+      "explanation": "Acute dystonia (torticollis, oculogyric crisis) akibat blokade D2 di nigrostriatal → ketidakseimbangan dopamine–acetylcholine. Terapi anticholinergic. Dantrolene untuk neuroleptic malignant syndrome."
+    },
+    {
+      "question": "A 50-year-old heavy drinker is hospitalized for a fracture. On day 3 of admission he becomes confused, agitated, tremulous, sweaty, and tachycardic, and he sees insects on the wall. What is the diagnosis?",
+      "options": [
+        "Alcohol withdrawal delirium (delirium tremens)",
+        "Alcohol intoxication",
+        "Schizophrenia",
+        "Wernicke encephalopathy",
+        "Opioid withdrawal"
+      ],
+      "answer": 0,
+      "explanation": "Delirium tremens muncul sekitar 48–96 jam setelah minum terakhir: delirium, tremor, hiperaktivitas autonom, halusinasi visual/taktil. Terapi benzodiazepine (diazepam, chlordiazepoxide) dan thiamine."
+    },
+    {
+      "question": "A chronic alcoholic is brought in confused with nystagmus, bilateral lateral rectus palsy, and an ataxic gait. Hypoglycemia is also found. What should be given first?",
+      "options": [
+        "IV dextrose 40% immediately",
+        "IV haloperidol",
+        "Oral folic acid",
+        "IV thiamine before glucose",
+        "IV naloxone"
+      ],
+      "answer": 3,
+      "explanation": "Wernicke encephalopathy (confusion, ophthalmoplegia, ataxia) akibat defisiensi thiamine. Thiamine IV diberikan sebelum atau bersamaan glukosa, karena glukosa tanpa thiamine dapat memperberat kerusakan (mammillary body). Bila tak diobati → Korsakoff amnesia."
+    },
+    {
+      "question": "After a party, a 19-year-old student says time feels slowed down and he feels very hungry. He has red eyes, dry mouth, and tachycardia, with normal pupils. Which substance did he most likely use?",
+      "options": [
+        "Heroin",
+        "Cannabis",
+        "Alcohol",
+        "Cocaine",
+        "Benzodiazepine"
+      ],
+      "answer": 1,
+      "explanation": "Cannabis intoxication: conjunctival injection, nafsu makan meningkat (munchies), mulut kering, takikardia, distorsi waktu, kadang depersonalisasi/paranoia."
+    },
+    {
+      "question": "A 27-year-old man is brought in agitated and paranoid, with chest pain, dilated pupils, BP 180/110 mmHg, pulse 130, and temperature 38.8°C after snorting a white powder. What is the most likely substance?",
+      "options": [
+        "Heroin",
+        "Cannabis",
+        "Alcohol",
+        "Benzodiazepine",
+        "Cocaine"
+      ],
+      "answer": 4,
+      "explanation": "Stimulan (cocaine/amphetamine): midriasis, takikardia, hipertensi, hipertermia, agitasi, paranoia, nyeri dada (vasospasme koroner). Kebalikan dari opioid (miosis, depresi napas)."
+    },
+    {
+      "question": "A 30-year-old woman has had repeated sudden attacks of palpitations, chest tightness, trembling, and fear of dying that peak within 10 minutes and come without warning. For 2 months she has worried constantly about having another attack. Cardiac workup is normal. What is the diagnosis?",
+      "options": [
+        "Panic disorder",
+        "Generalized anxiety disorder",
+        "Social phobia",
+        "Specific phobia",
+        "Acute stress disorder"
+      ],
+      "answer": 0,
+      "explanation": "Panic disorder: serangan panik berulang tak terduga + ≥ 1 bulan khawatir akan serangan berikutnya atau mengubah perilaku. Social/specific phobia dipicu situasi tertentu; GAD berupa cemas terus-menerus, bukan serangan."
+    },
+    {
+      "question": "A 35-year-old accountant has worried excessively about work, finances, and her children's health almost every day for 8 months. She feels restless, has muscle tension and poor sleep, and cannot control the worry. What is the diagnosis?",
+      "options": [
+        "Panic disorder",
+        "Major depressive disorder",
+        "Generalized anxiety disorder",
+        "Obsessive-compulsive disorder",
+        "Adjustment disorder"
+      ],
+      "answer": 2,
+      "explanation": "GAD: kekhawatiran berlebihan tentang banyak hal, sulit dikendalikan, ≥ 6 bulan, disertai gelisah, tegang otot, gangguan tidur, sulit konsentrasi."
+    },
+    {
+      "question": "A 23-year-old man washes his hands up to 50 times a day because of intrusive thoughts about germs. He knows the thoughts are excessive, but the washing relieves his anxiety. What is the first-line pharmacotherapy?",
+      "options": [
+        "Haloperidol",
+        "Lithium",
+        "Alprazolam alone",
+        "SSRI (e.g., fluvoxamine) combined with CBT (exposure and response prevention)",
+        "Methylphenidate"
+      ],
+      "answer": 3,
+      "explanation": "OCD: obsesi (pikiran intrusif) + kompulsi yang meredakan cemas, dengan insight baik. Terkait serotonin. Terapi lini pertama SSRI dosis tinggi + CBT (ERP); clomipramine sebagai alternatif."
+    },
+    {
+      "question": "For 3 months, a 24-year-old man has believed his movements are controlled by a machine implanted by aliens, and he hears two voices discussing him in the third person. There is no substance use or mood episode. What is the diagnosis?",
+      "options": [
+        "Acute psychotic disorder",
+        "Schizophrenia",
+        "Bipolar disorder, manic episode with psychotic features",
+        "Delusional disorder",
+        "Delirium"
+      ],
+      "answer": 1,
+      "explanation": "Delusion of control dan halusinasi auditorik orang ketiga adalah first-rank symptoms. Durasi ≥ 1 bulan (ICD-10) tanpa gangguan mood/organik → schizophrenia. Delusional disorder tidak disertai halusinasi menonjol."
+    },
+    {
+      "question": "Two weeks after surviving an earthquake that destroyed her house, a 40-year-old woman has flashbacks, nightmares, avoids reminders of the event, feels numb, and is easily startled. What is the most likely diagnosis?",
+      "options": [
+        "Post-traumatic stress disorder",
+        "Major depressive disorder",
+        "Generalized anxiety disorder",
+        "Adjustment disorder",
+        "Acute stress disorder"
+      ],
+      "answer": 4,
+      "explanation": "Gejala trauma (intrusion, avoidance, numbing, hyperarousal) yang berlangsung 3 hari hingga 1 bulan setelah peristiwa = acute stress disorder. Bila > 1 bulan = PTSD."
+    },
+    {
+      "question": "On post-operative day 2 after hip surgery, a 78-year-old woman becomes disoriented and inattentive, with symptoms that fluctuate during the day and worsen at night. She was cognitively normal before surgery. What is the diagnosis?",
+      "options": [
+        "Delirium",
+        "Alzheimer dementia",
+        "Schizophrenia",
+        "Major depressive disorder",
+        "Generalized anxiety disorder"
+      ],
+      "answer": 0,
+      "explanation": "Delirium: onset akut, kesadaran dan atensi berfluktuasi (sering memburuk malam hari/sundowning), dengan pencetus medis (pasca operasi, infeksi, obat). Dementia onset bertahap dengan kesadaran jernih."
+    },
+    {
+      "question": "A patient with HIV works as a factory driver. His employer calls the clinic asking about his diagnosis. The patient has not given consent. What should the doctor do?",
+      "options": [
+        "Disclose the diagnosis because the employer has a right to know",
+        "Disclose only the CD4 count",
+        "Refuse to disclose any information without the patient's consent",
+        "Inform all of his coworkers",
+        "Ask the patient to resign"
+      ],
+      "answer": 2,
+      "explanation": "Prinsip confidentiality: informasi medis hanya dibuka dengan persetujuan pasien, kecuali ada kewajiban hukum atau risiko serius yang spesifik terhadap pihak ketiga. Pekerjaan sebagai sopir tidak membenarkan pembukaan status HIV ke atasan."
+    },
+    {
+      "question": "A fully competent 60-year-old diabetic man refuses a below-knee amputation for gangrene after the doctor clearly explains the risk of death. His family insists the surgery be done. What should the doctor do?",
+      "options": [
+        "Perform the surgery because the family consents",
+        "Sedate the patient and operate",
+        "Seek a court order immediately",
+        "Respect the patient's refusal, document it, and continue to offer alternative care",
+        "Discharge the patient from the hospital"
+      ],
+      "answer": 3,
+      "explanation": "Autonomy: pasien dewasa yang kompeten berhak menolak tindakan meski berisiko fatal. Dokter memastikan pasien memahami konsekuensi, mendokumentasikan penolakan, dan tetap memberi perawatan lain (beneficence). Keluarga tidak bisa menggantikan keputusan pasien kompeten."
+    },
+    {
+      "question": "A 10-year-old boy is brought to the ER by a teacher after a road accident, bleeding heavily and needing urgent surgery. His parents cannot be reached. What is the most appropriate action?",
+      "options": [
+        "Wait until the parents can be contacted",
+        "Proceed with life-saving treatment in the child's best interests",
+        "Ask the teacher to sign consent as legal guardian",
+        "Transfer the child to another hospital",
+        "Obtain consent from the child himself"
+      ],
+      "answer": 1,
+      "explanation": "Dalam keadaan darurat yang mengancam nyawa dan wali tidak dapat dihubungi, dokter boleh bertindak berdasarkan best interests pasien (implied/emergency consent). Guru bukan wali sah; anak 10 tahun belum kompeten memberi consent."
+    }
+  ]
+}

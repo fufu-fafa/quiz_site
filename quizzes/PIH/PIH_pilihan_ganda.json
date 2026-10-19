@@ -1,0 +1,606 @@
+{
+  "title": "PIH – Pilihan Ganda (50 Soal)",
+  "description": "50 soal pilihan ganda Modul PIH (BAB 1–7 dan 9).",
+  "questions": [
+    {
+      "question": "Tridharma Perguruan Tinggi terdiri atas...",
+      "options": [
+        "Pendidikan, pengajaran, dan pembinaan kepribadian mahasiswa",
+        "Pendidikan, penelitian, dan pengembangan karakter nasional",
+        "Pendidikan, penelitian, dan pengabdian kepada masyarakat",
+        "Penelitian, publikasi ilmiah, dan pengembangan kurikulum",
+        "Pengajaran, pengabdian kepada negara, dan penegakan hukum"
+      ],
+      "answer": 2,
+      "explanation": "Tridharma yang wajib diselenggarakan pendidikan tinggi adalah pendidikan, penelitian, dan pengabdian kepada masyarakat."
+    },
+    {
+      "question": "Berikut ciri sesuatu yang tersusun secara sistematis logis, KECUALI...",
+      "options": [
+        "Dapat dipertanggungjawabkan secara rasional",
+        "Mematuhi aturan atau asas-asas logika",
+        "Teratur dan memiliki tujuan yang jelas",
+        "Mengikuti kehendak pihak yang sedang berkuasa",
+        "Tersusun secara runtut dari awal hingga akhir"
+      ],
+      "answer": 3,
+      "explanation": "Ciri sistematis logis: runtut, teratur dan bertujuan, mematuhi asas logika, dan dapat dipertanggungjawabkan secara rasional."
+    },
+    {
+      "question": "Berpikir yuridis adalah...",
+      "options": [
+        "Berpikir empiris berdasarkan kebiasaan yang berulang dalam situasi sosial yang sama",
+        "Berpikir abstrak tentang nilai baik dan buruk berdasarkan hati nurani setiap orang",
+        "Berpikir deskriptif tentang hukum yang berlaku di Indonesia pada saat sekarang ini",
+        "Berpikir kritis berdasarkan kehendak penguasa untuk menjaga ketertiban di wilayahnya",
+        "Berpikir sistematis logis dalam kerangka tertib kaidah hukum untuk memecahkan masalah hukum"
+      ],
+      "answer": 4,
+      "explanation": "Berpikir yuridis = berpikir sistematis logis dalam kerangka tertib kaidah hukum sehingga mampu menghadapi, memahami, dan memecahkan masalah hukum."
+    },
+    {
+      "question": "Tujuan berpikir yuridis adalah...",
+      "options": [
+        "Menetapkan sanksi pidana yang paling berat bagi para pelanggar hukum",
+        "Menetapkan kurikulum pendidikan hukum yang berkarakter nasional",
+        "Menetapkan kaidah agama yang berlaku bagi para penganutnya",
+        "Menetapkan kebiasaan yang telah memperoleh kekuatan mengikat",
+        "Menetapkan hak dan kewajiban hukum para pihak dalam kenyataan konkret"
+      ],
+      "answer": 4,
+      "explanation": "Berpikir yuridis bertujuan menetapkan hak dan kewajiban hukum para pihak dalam kenyataan konkret serta melatih penalaran hukum."
+    },
+    {
+      "question": "Menurut H.F.M. Crombag, penyelesaian konflik melalui perdamaian, perundingan, dan negosiasi termasuk lingkungan karya hukum...",
+      "options": [
+        "Penyelesaian konflik secara formal",
+        "Pencegahan konflik antarwarga",
+        "Penyelesaian konflik secara informal",
+        "Penerapan hukum di luar konflik",
+        "Pengendalian konflik secara preventif"
+      ],
+      "answer": 2,
+      "explanation": "Crombag: penyelesaian konflik informal dilakukan lewat damai, perundingan, dan negosiasi; yang formal lewat peradilan."
+    },
+    {
+      "question": "Pelaksanaan tugas administrasi negara, menurut Crombag, termasuk lingkungan karya hukum...",
+      "options": [
+        "Penyelesaian konflik secara informal",
+        "Penegakan hukum melalui peradilan",
+        "Pencegahan konflik antarwarga",
+        "Penerapan hukum di luar konflik",
+        "Penyelesaian konflik secara formal"
+      ],
+      "answer": 3,
+      "explanation": "Contoh penerapan hukum di luar konflik adalah pelaksanaan tugas administrasi negara."
+    },
+    {
+      "question": "Hukum adalah sublimasi dari proses interaksi dan kenyataan masyarakat yang diendapkan dalam bentuk...",
+      "options": [
+        "Sistem tata krama pergaulan yang penegakannya diserahkan pada individu",
+        "Sistem pengendalian sosial untuk mewujudkan ketertiban dan keadilan",
+        "Sistem perintah penguasa yang dipaksakan tanpa memperhatikan keadilan",
+        "Sistem kepercayaan religius untuk membimbing manusia menuju akhirat",
+        "Sistem kebiasaan tidak tertulis yang hanya berlaku bagi kaum bangsawan"
+      ],
+      "answer": 1,
+      "explanation": "Modul: hukum adalah sublimasi interaksi dan kenyataan masyarakat yang diendapkan dalam bentuk sistem pengendalian sosial untuk mewujudkan ketertiban dan keadilan."
+    },
+    {
+      "question": "Pendidikan hukum secara formal di Indonesia dikenal mulai tahun 1909 dengan didirikannya...",
+      "options": [
+        "Rechtschool oleh Gubernur Jenderal Thomas Raffles",
+        "Rechtshogeschool oleh Gubernur Jenderal Daendels",
+        "Rechtschool oleh Gubernur Jenderal J.B. van Heutsz",
+        "Landraad oleh Gubernur Jenderal J.B. van Heutsz",
+        "Fakultas Hukum oleh pemerintah Hindia Belanda"
+      ],
+      "answer": 2,
+      "explanation": "Rechtschool didirikan tahun 1909 oleh Gubernur Jenderal J.B. van Heutsz. Landraad adalah pengadilan, bukan sekolah."
+    },
+    {
+      "question": "Pembentukan Rechtschool bertujuan mendidik orang Indonesia agar dapat menjadi...",
+      "options": [
+        "Hakim Landraad, pengadilan sehari-hari bagi golongan pribumi",
+        "Pegawai administrasi perkebunan milik pemerintah kolonial",
+        "Advokat yang membela kepentingan golongan pribumi di pengadilan",
+        "Hakim Raad van Justitie bagi golongan Eropa di Hindia Belanda",
+        "Guru hukum di sekolah-sekolah menengah milik pemerintah"
+      ],
+      "answer": 0,
+      "explanation": "Rechtschool bertujuan menghasilkan hakim Landraad (pengadilan bagi golongan pribumi) serta teknisi/ahli hukum."
+    },
+    {
+      "question": "Tujuan politik Belanda membentuk Rechtschool adalah...",
+      "options": [
+        "Mempersiapkan kemerdekaan Indonesia melalui pendidikan hukum nasional",
+        "Menyebarkan ajaran agama melalui lembaga pendidikan hukum formal",
+        "Menyamakan kedudukan hukum golongan pribumi dengan golongan Eropa",
+        "Menggantikan seluruh hukum adat dengan hukum tertulis milik Belanda",
+        "Menjaga ketertiban jajahan demi kelancaran penanaman modal dan industri"
+      ],
+      "answer": 4,
+      "explanation": "Secara politik, Rechtschool dibentuk untuk kepentingan Belanda: menjaga ketertiban dan keamanan jajahan demi penanaman modal dan industri."
+    },
+    {
+      "question": "Target capaian lulusan FH UNPAR adalah sebagai berikut, KECUALI...",
+      "options": [
+        "Sarana pengabdi kepentingan umum",
+        "Sarana pengendalian masyarakat",
+        "Sarana pemusatan kekuasaan negara",
+        "Sarana pendidikan masyarakat",
+        "Sarana pembaharuan masyarakat"
+      ],
+      "answer": 2,
+      "explanation": "Target lulusan FH UNPAR: sarana pengabdi kepentingan umum, pengendalian masyarakat, pembaharuan masyarakat, dan pendidikan masyarakat."
+    },
+    {
+      "question": "Pengantar Ilmu Hukum disebut sebagai mata kuliah dasar atau...",
+      "options": [
+        "Communis doctorum",
+        "Ius constituendum",
+        "Eeuwige wetten",
+        "Freirechtslehre",
+        "Basisleervak"
+      ],
+      "answer": 4,
+      "explanation": "PIH adalah mata kuliah dasar (basisleervak) yang memberi gambaran umum ilmu hukum secara keseluruhan."
+    },
+    {
+      "question": "Sifat mata kuliah Pengantar Ilmu Hukum adalah...",
+      "options": [
+        "Normatif-deskriptif",
+        "Teoretis-analitis",
+        "Deskriptif-analitis",
+        "Empiris-sosiologis",
+        "Historis-komparatif"
+      ],
+      "answer": 1,
+      "explanation": "PIH bersifat teoretis-analitis: uraiannya abstrak dan berlaku umum tentang pengertian-pengertian hukum."
+    },
+    {
+      "question": "Sifat mata kuliah Pengantar Hukum Indonesia adalah...",
+      "options": [
+        "Historis-komparatif",
+        "Deskriptif-analitis",
+        "Teoretis-analitis",
+        "Filosofis-abstrak",
+        "Empiris-sosiologis"
+      ],
+      "answer": 1,
+      "explanation": "PHI bersifat deskriptif-analitis: memaparkan objek apa adanya dan menguraikan unsur-unsurnya."
+    },
+    {
+      "question": "Bagian penting dari materi PIH adalah ajaran hukum umum, yaitu...",
+      "options": [
+        "Prosedur beracara di pengadilan untuk menyelesaikan perkara konkret",
+        "Sejarah perkembangan pendidikan hukum di Indonesia sejak tahun 1909",
+        "Pengertian, hakikat, dan unsur-unsur yang ada pada semua sistem hukum",
+        "Kaidah-kaidah agama yang diakui oleh negara sebagai hukum nasional",
+        "Pasal-pasal yang berlaku dalam hukum positif Indonesia pada saat ini"
+      ],
+      "answer": 2,
+      "explanation": "Ajaran hukum umum dalam PIH mencakup pengertian, hakikat, dan unsur-unsur yang ada pada semua sistem hukum."
+    },
+    {
+      "question": "Hukum positif adalah...",
+      "options": [
+        "Kaidah hukum yang hanya bersumber dari putusan hakim dalam perkara konkret",
+        "Kaidah hukum yang dicita-citakan untuk berlaku pada masa yang akan datang",
+        "Kaidah hukum yang berlaku pada waktu dan tempat tertentu bagi orang tertentu",
+        "Kaidah hukum yang bersifat abadi dan berlaku bagi semua manusia di dunia",
+        "Kaidah hukum yang berasal dari wahyu Tuhan melalui perantaraan para nabi"
+      ],
+      "answer": 2,
+      "explanation": "Hukum positif = kaidah hukum yang pada waktu tertentu, di tempat tertentu, berlaku sebagai hukum bagi orang-orang tertentu."
+    },
+    {
+      "question": "Unsur dasar manusia menurut Prof. Soediman Kartohadiprodjo yang berkaitan dengan akal budi adalah unsur...",
+      "options": [
+        "Raga",
+        "Rasa",
+        "Karsa",
+        "Rasio",
+        "Rukun"
+      ],
+      "answer": 3,
+      "explanation": "Rasio = aspek pikiran manusia (akal budi). Raga = jasmani, Rasa = afektif dan konatif, Rukun = sosialitas."
+    },
+    {
+      "question": "Unsur rukun dalam diri manusia menunjuk pada aspek...",
+      "options": [
+        "Jasmani manusia berupa badan atau tubuh secara fisik",
+        "Afektif dan konatif manusia berupa hati nurani",
+        "Pikiran manusia berupa akal budi untuk menalar",
+        "Sosialitas manusia sebagai makhluk yang hidup berdampingan",
+        "Spiritual manusia berupa keyakinan kepada Tuhan"
+      ],
+      "answer": 3,
+      "explanation": "Unsur rukun adalah aspek sosialitas: manusia sebagai makhluk sosial yang hidup berdampingan dengan manusia lain."
+    },
+    {
+      "question": "Rasa lapar dan haus merupakan contoh bahaya yang...",
+      "options": [
+        "Timbul dari interaksi antaranggota masyarakat",
+        "Timbul dari dalam diri manusia itu sendiri",
+        "Timbul dari luar diri manusia itu sendiri",
+        "Timbul dari pelanggaran terhadap kaidah hukum",
+        "Timbul dari tindakan sewenang-wenang penguasa"
+      ],
+      "answer": 1,
+      "explanation": "Bahaya dari dalam diri: lapar, haus, keinginan bunuh diri. Bahaya dari luar: bencana alam, serangan binatang liar."
+    },
+    {
+      "question": "Ukuran nurani yang dimiliki setiap manusia adalah...",
+      "options": [
+        "Kepastian hukum",
+        "Kemanfaatan sosial",
+        "Kehendak penguasa",
+        "Martabat kemanusiaan",
+        "Kebiasaan masyarakat"
+      ],
+      "answer": 3,
+      "explanation": "Nurani setiap manusia diukur dengan martabat kemanusiaan, yang melahirkan nilai tentang baik dan buruk."
+    },
+    {
+      "question": "Proses yang membuat tuntutan cara berperilaku berlaku umum bagi semua orang dalam situasi sosial yang sama disebut...",
+      "options": [
+        "Generalisasi",
+        "Derogasi",
+        "Objektivasi",
+        "Subsumsi",
+        "Sublimasi"
+      ],
+      "answer": 2,
+      "explanation": "Melalui proses objektivasi, tuntutan cara berperilaku memperoleh kekuatan objektif dan menjadi kaidah/norma."
+    },
+    {
+      "question": "Masyarakat menurut modul adalah...",
+      "options": [
+        "Kumpulan individu yang memiliki agama dan kepercayaan yang sama dalam satu wilayah",
+        "Kelompok orang yang tunduk pada satu penguasa yang berwenang memerintah dan memaksa",
+        "Kumpulan orang yang tinggal di satu wilayah tanpa harus saling berinteraksi satu sama lain",
+        "Kelompok orang yang terikat perjanjian tertulis yang dibuat oleh pejabat berwenang",
+        "Kelompok orang yang menyadari kehadiran masing-masing sehingga terjadi interaksi sosial"
+      ],
+      "answer": 4,
+      "explanation": "Masyarakat = kelompok orang yang menyadari kehadiran masing-masing sehingga terjadi interaksi sosial yang mewujudkan relasi sosial."
+    },
+    {
+      "question": "Fungsi kaidah atau norma menurut modul adalah...",
+      "options": [
+        "Kemanfaatan, keadilan, dan ketertiban",
+        "Larangan, perintah, dan dispensasi",
+        "Pendidikan, penelitian, dan pengabdian",
+        "Kepastian, kekuasaan, dan kesejahteraan",
+        "Perilaku, kewenangan, dan sanksi"
+      ],
+      "answer": 0,
+      "explanation": "Fungsi kaidah: kemanfaatan, keadilan, dan ketertiban. Larangan/perintah/dispensasi adalah isi kaidah perilaku."
+    },
+    {
+      "question": "Kaidah yang mengatur lembaga atau pejabat yang berwenang melaksanakan dan menegakkan kaidah perilaku disebut...",
+      "options": [
+        "Kaidah kewenangan",
+        "Kaidah dispensasi",
+        "Kaidah perilaku",
+        "Kaidah sanksi",
+        "Kaidah kesopanan"
+      ],
+      "answer": 0,
+      "explanation": "Kaidah kewenangan mengatur lembaga/pejabat yang berwenang melaksanakan dan menegakkan kaidah perilaku."
+    },
+    {
+      "question": "Di antara klasifikasi kaidah menurut fungsinya, yang merupakan kaidah pokok adalah...",
+      "options": [
+        "Kaidah kewenangan",
+        "Kaidah agama",
+        "Kaidah izin",
+        "Kaidah sanksi",
+        "Kaidah perilaku"
+      ],
+      "answer": 4,
+      "explanation": "Kaidah perilaku adalah kaidah pokok; kaidah kewenangan dan kaidah sanksi ada sebagai konsekuensinya."
+    },
+    {
+      "question": "Kaidah izin bersifat menderogasi atau mengesampingkan kaidah...",
+      "options": [
+        "Sanksi",
+        "Larangan",
+        "Perintah",
+        "Kewenangan",
+        "Dispensasi"
+      ],
+      "answer": 1,
+      "explanation": "Izin menderogasi larangan, sedangkan dispensasi menderogasi perintah."
+    },
+    {
+      "question": "Menurut J.H.P. Bellefroid, kaidah abadi atau kaidah ilahi yang abadi disebut...",
+      "options": [
+        "Basisleervak",
+        "Ius constitutum",
+        "Lex scripta",
+        "Eeuwige wetten",
+        "Tijdelijk wetten"
+      ],
+      "answer": 3,
+      "explanation": "Bellefroid membagi kaidah menjadi kaidah abadi (eeuwige wetten) dan kaidah tidak abadi (tijdelijk wetten)."
+    },
+    {
+      "question": "Menurut Soediman Kartohadiprodjo, yang termasuk kaidah bukan kaidah sosial adalah...",
+      "options": [
+        "Kaidah kesopanan",
+        "Kaidah kebiasaan",
+        "Kaidah kesusilaan",
+        "Kaidah agama",
+        "Kaidah hukum"
+      ],
+      "answer": 3,
+      "explanation": "Kaidah agama datang dari luar dan tidak disebabkan pergaulan hidup manusia, sehingga bukan kaidah sosial."
+    },
+    {
+      "question": "Menurut J. van Kan, kaidah kesusilaan adalah...",
+      "options": [
+        "Peraturan hidup yang timbul dari perulangan perilaku",
+        "Peraturan hidup yang dibuat oleh pejabat berwenang",
+        "Peraturan hidup yang diakui sebagai perintah Tuhan",
+        "Peraturan hidup yang digariskan oleh suara hati",
+        "Peraturan hidup tentang tata cara bergaul sehari-hari"
+      ],
+      "answer": 3,
+      "explanation": "Van Kan: kesusilaan digariskan suara hati; agama diakui sebagai perintah Tuhan; kesopanan mengatur cara bergaul sehari-hari."
+    },
+    {
+      "question": "W.L.G. Lemaire membagi kaidah dari sudut pandang sosiologi dalam bukunya yang berjudul...",
+      "options": [
+        "Het Recht in Indonesië",
+        "Inleiding tot de Rechtswetenschap",
+        "Notities over de juridische opleiding",
+        "Rhetorica",
+        "Ethica Nicomachea"
+      ],
+      "answer": 0,
+      "explanation": "Lemaire menulis \"Het Recht in Indonesië\"."
+    },
+    {
+      "question": "Menurut Lemaire, kaidah untuk menilai baik/buruk yang berkaitan dengan perasaan menyesal dan bersifat otonom adalah...",
+      "options": [
+        "Kaidah kebiasaan",
+        "Kaidah agama",
+        "Kaidah moral positif",
+        "Kaidah kesopanan",
+        "Kaidah budi nurani"
+      ],
+      "answer": 4,
+      "explanation": "Kaidah budi nurani menilai baik/buruk suatu hal, berkaitan dengan perasaan menyesal, dan bersifat otonom."
+    },
+    {
+      "question": "Dalam bahasa Latin, pertanyaan \"apakah hukum itu?\" adalah...",
+      "options": [
+        "Quo vadis?",
+        "Quid iuris?",
+        "Cui bono?",
+        "Quid pro quo?",
+        "Quid ius?"
+      ],
+      "answer": 4,
+      "explanation": "\"Quid ius?\" = apakah hukum itu? Sedangkan \"Quid iuris?\" = apa yang di sini berlaku sebagai hukum?"
+    },
+    {
+      "question": "Belum adanya definisi hukum yang dapat diterima secara umum disebut belum ada...",
+      "options": [
+        "Communis doctorum",
+        "Basisleervak",
+        "Ius constitutum",
+        "Freirechtslehre",
+        "Quid iuris"
+      ],
+      "answer": 0,
+      "explanation": "Sampai sekarang belum ada communis doctorum (kesepakatan umum para ahli) tentang definisi hukum."
+    },
+    {
+      "question": "Definisi hukum sebagai \"ramalan tentang apa yang akan diputuskan oleh pengadilan\" dikemukakan oleh...",
+      "options": [
+        "Oliver Wendell Holmes Jr.",
+        "H.F.M. Crombag",
+        "Marcus Tullius Cicero",
+        "Thomas Hobbes",
+        "Soediman Kartohadiprodjo"
+      ],
+      "answer": 0,
+      "explanation": "Holmes Jr. mendefinisikan hukum sebagai ramalan tentang apa yang akan diputuskan pengadilan dalam kenyataan."
+    },
+    {
+      "question": "Thomas Hobbes mendefinisikan hukum sebagai...",
+      "options": [
+        "Perintah dari orang yang berkuasa untuk memerintah dan memaksakan perintahnya",
+        "Kaidah yang memberikan kepada setiap orang apa yang menjadi bagian atau haknya",
+        "Kebiasaan yang telah memperoleh kekuatan mengikat dalam kehidupan masyarakat",
+        "Akal tertinggi yang ditanamkan oleh alam untuk menetapkan yang boleh dan tidak",
+        "Ramalan tentang apa yang akan diputuskan oleh pengadilan dalam kenyataan nyata"
+      ],
+      "answer": 0,
+      "explanation": "Hobbes: hukum adalah perintah dari orang yang berkuasa untuk memerintah dan memaksakan perintahnya kepada orang lain."
+    },
+    {
+      "question": "Aliran Legisme timbul sebagai reaksi terhadap...",
+      "options": [
+        "Kelemahan aliran modern yang menggabungkan berbagai sumber hukum",
+        "Kelemahan aliran hukum bebas yang mengabaikan kepastian hukum",
+        "Paham liberalisme di Eropa yang mengutamakan kebebasan individu",
+        "Paham absolutisme di Eropa yang menimbulkan ketidakpastian hukum",
+        "Paham kolonialisme Belanda yang menindas golongan pribumi"
+      ],
+      "answer": 3,
+      "explanation": "Legisme muncul sebagai reaksi terhadap absolutisme (hukum = kehendak penguasa) yang menimbulkan ketidakpastian hukum dan kemelaratan."
+    },
+    {
+      "question": "Dalam aliran Legisme, hakim dipandang sebagai...",
+      "options": [
+        "Pembantu pembuat UU yang ikut merancang peraturan tertulis",
+        "Corong undang-undang yang tidak boleh menafsirkan di luar UU",
+        "Pembentuk hukum utama yang boleh menyimpang dari ketentuan UU",
+        "Penjaga kebiasaan yang menentukan berlakunya hukum adat",
+        "Penafsir kreatif yang bertugas mengisi kekosongan dalam UU"
+      ],
+      "answer": 1,
+      "explanation": "Menurut Legisme, hakim terikat UU (corong UU) dan tidak boleh menafsirkan lain di luar UU."
+    },
+    {
+      "question": "Menurut aliran Hukum Bebas, undang-undang dan kebiasaan berkedudukan sebagai...",
+      "options": [
+        "Sarana pembantu hakim dalam menemukan hukum untuk perkara konkret",
+        "Pedoman yang hanya berlaku apabila dinyatakan tegas oleh pembuat UU",
+        "Kaidah abadi yang tidak dapat diubah oleh pejabat atau badan apa pun",
+        "Sumber hukum utama yang kedudukannya lebih tinggi dari putusan hakim",
+        "Satu-satunya sumber hukum yang wajib diterapkan hakim secara mekanis"
+      ],
+      "answer": 0,
+      "explanation": "Aliran Hukum Bebas: hukum hanya terbentuk oleh peradilan; UU dan kebiasaan hanya sarana pembantu hakim."
+    },
+    {
+      "question": "Tujuan hukum dibahas dengan menggunakan metode...",
+      "options": [
+        "Komparatif, yaitu membandingkan hukum di berbagai negara dunia",
+        "Analitis, yaitu membedah hukum melalui unsur-unsur pokoknya",
+        "Historis, yaitu menelusuri perkembangan hukum dari masa ke masa",
+        "Deskriptif, yaitu memaparkan hukum sebagaimana adanya saat ini",
+        "Sistematis, yaitu memahami hukum sebagai satu keseluruhan utuh"
+      ],
+      "answer": 1,
+      "explanation": "Tujuan hukum menggunakan metode analitis, yaitu membedah hukum melalui unsur/bagian pokoknya."
+    },
+    {
+      "question": "Teori Etis dikemukakan oleh Aristoteles dalam bukunya yang berjudul...",
+      "options": [
+        "Leviathan dan De Cive",
+        "Ethica Nicomachea dan Rhetorica",
+        "De Legibus dan De Republica",
+        "Het Recht in Indonesië",
+        "Politica dan Metaphysica"
+      ],
+      "answer": 1,
+      "explanation": "Teori Etis dikemukakan Aristoteles dalam \"Ethica Nicomachea\" dan \"Rhetorica\"."
+    },
+    {
+      "question": "Menurut Aristoteles, keadilan yang memberikan kepada tiap orang bagian sesuai jasanya (kesebandingan) adalah keadilan...",
+      "options": [
+        "Distributif",
+        "Komutatif",
+        "Vindikatif",
+        "Legalistik",
+        "Protektif"
+      ],
+      "answer": 0,
+      "explanation": "Keadilan distributif = sesuai jasa (kesebandingan); keadilan komutatif = sama banyak tanpa melihat jasa (persamaan)."
+    },
+    {
+      "question": "Asas \"Lex dura, sed tamen scripta\" sejalan dengan...",
+      "options": [
+        "Teori Etis yang menolak perundang-undangan",
+        "Teori Etis yang mengutamakan keadilan individual",
+        "Teori Pengayoman yang menyeimbangkan keduanya",
+        "Teori Utilitas yang menolak cara generalisasi",
+        "Teori Utilitas yang mengutamakan kepastian hukum"
+      ],
+      "answer": 4,
+      "explanation": "\"Hukum itu keras, tetapi memang begitulah bunyinya\" mencerminkan Teori Utilitas yang mementingkan kepastian hukum."
+    },
+    {
+      "question": "Keadilan vindikatif adalah keadilan yang...",
+      "options": [
+        "Memberikan beban dan imbalan secara proporsional sesuai jasanya",
+        "Memberikan perlindungan agar tidak ada perlakuan sewenang-wenang",
+        "Memberikan bagian yang sama banyak tanpa memperhatikan jasanya",
+        "Memberikan hukuman yang sesuai dengan kesalahan yang dilakukan",
+        "Memberikan imbalan yang senilai dengan prestasi yang diberikan"
+      ],
+      "answer": 3,
+      "explanation": "Keadilan vindikatif = ganjaran/hukuman sesuai kesalahan (keseimbangan antara kesalahan dan tanggung jawab)."
+    },
+    {
+      "question": "Menurut modul, hukum hanya dapat mengatur...",
+      "options": [
+        "Perasaan menyesal setelah berbuat salah",
+        "Sikap batin manusia sebagai unsur subjektif",
+        "Keyakinan agama setiap warga negara",
+        "Pikiran manusia sebelum diwujudkan",
+        "Perilaku manusia sebagai unsur objektif"
+      ],
+      "answer": 4,
+      "explanation": "Hukum hanya bisa mengatur perilaku (unsur objektif); sikap batin (unsur subjektif) tidak bisa diperintah atau dilarang."
+    },
+    {
+      "question": "Pasal 359 KUHP mensyaratkan pelakunya memiliki sikap batin berupa...",
+      "options": [
+        "Kesengajaan menghendaki matinya orang lain sebagai tujuan perbuatan",
+        "Kealpaan atau ketidakhati-hatian yang menyebabkan matinya orang lain",
+        "Kesengajaan menganiaya orang lain yang ternyata berakibat kematian",
+        "Kesengajaan merencanakan matinya orang lain sejak jauh-jauh hari",
+        "Ketidaktahuan bahwa perbuatannya dilarang oleh undang-undang"
+      ],
+      "answer": 1,
+      "explanation": "Pasal 338 = sengaja menghendaki kematian; Pasal 351 ayat (3) = sengaja menganiaya; Pasal 359 = kealpaan."
+    },
+    {
+      "question": "Dalam pembuktian sikap batin, istilah \"dinormatifkan\" berarti...",
+      "options": [
+        "Ditetapkan berdasarkan pengakuan pelaku sendiri",
+        "Diukur dengan ukuran menurut orang pada umumnya",
+        "Disimpulkan dari fakta perbuatan dan akibatnya",
+        "Dinilai berdasarkan ketentuan kaidah agama",
+        "Ditentukan berdasarkan keyakinan pribadi hakim"
+      ],
+      "answer": 1,
+      "explanation": "Dinormatifkan = diukur dengan ukuran orang pada umumnya; diobjektifkan = disimpulkan dari fakta perbuatan dan akibat."
+    },
+    {
+      "question": "Unsur yang membedakan hukum kebiasaan dari kebiasaan adalah...",
+      "options": [
+        "Sanksi di akhirat",
+        "Sifat tidak tertulis",
+        "Kesadaran hukum",
+        "Situasi sosial sama",
+        "Perulangan perilaku"
+      ],
+      "answer": 2,
+      "explanation": "Keduanya kaidah tidak tertulis berupa perulangan perilaku; yang membedakan adalah faktor kesadaran hukum."
+    },
+    {
+      "question": "Tokoh yang berpendapat bahwa unsur kebiasaan dan unsur kesadaran hukum muncul pada waktu yang bersamaan adalah...",
+      "options": [
+        "P.W. Kamphuisen",
+        "J. van Kan",
+        "Logemann",
+        "W.L.G. Lemaire",
+        "H. Capitant"
+      ],
+      "answer": 2,
+      "explanation": "Logemann (golongan kedua): keduanya muncul bersamaan. Capitant dan Kamphuisen (golongan pertama): kebiasaan muncul lebih dulu."
+    },
+    {
+      "question": "Kaidah kesopanan dan kaidah hukum memiliki kesamaan dalam hal...",
+      "options": [
+        "Tujuan, yaitu mewujudkan ketertiban dalam masyarakat",
+        "Penegakan, yaitu dilakukan oleh lembaga yang berwenang",
+        "Sasaran, yaitu ditujukan terutama pada sikap batin manusia",
+        "Pencipta, yaitu diwahyukan oleh Tuhan melalui para nabi",
+        "Sanksi, yaitu ditetapkan dan diterapkan secara terorganisir"
+      ],
+      "answer": 0,
+      "explanation": "Kaidah kesopanan dan kaidah hukum sama-sama bertujuan mewujudkan ketertiban; bedanya pada pelaksanaan dan sanksi."
+    },
+    {
+      "question": "Ketentuan UU Perkawinan yang mensyaratkan perkawinan sah menurut hukum agama merupakan contoh hubungan...",
+      "options": [
+        "Saling menguatkan, karena kedua kaidah memakai ukuran yang sama persis",
+        "Saling melemahkan, karena kewajiban satu kaidah dilarang oleh kaidah lain",
+        "Saling menguatkan, karena satu kaidah mewajibkan kepatuhan pada kaidah lain",
+        "Saling melemahkan, karena kaidah hukum mengesampingkan kaidah agama",
+        "Saling meniadakan, karena kaidah agama tidak berlaku dalam hukum negara"
+      ],
+      "answer": 2,
+      "explanation": "Ini bentuk saling menguatkan di mana satu kelompok kaidah (hukum) mewajibkan orang mematuhi kelompok kaidah lain (agama)."
+    }
+  ]
+}

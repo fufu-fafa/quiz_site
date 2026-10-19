@@ -1,0 +1,607 @@
+{
+  "title": "Kuis PHI - Pilihan Ganda Majemuk",
+  "description": "50 soal pilihan ganda majemuk materi PHI.",
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "question": "Pernyataan yang benar tentang pengertian hukum adat adalah ...\n1. Ter Haar: keputusan fungsionaris hukum yang berwibawa\n2. Soepomo: hukum kebiasaan yang tidak tertulis\n3. Hazairin: endapan kesusilaan dalam masyarakat\n4. Istilah adatrecht pertama dicatat oleh Ter Haar",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Istilah adatrecht pertama dicatat Christiaan Snouck Hurgronje dari penelitiannya di Aceh."
+    },
+    {
+      "question": "Yang termasuk corak hukum adat adalah ...\n1. Tradisional\n2. Magis religius\n3. Komunal\n4. Konkret dan kontan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Corak hukum adat: tradisional, keagamaan, kebersamaan, konkret dan kontan, terbuka dan sederhana, dapat berubah."
+    },
+    {
+      "question": "Asas hukum adat menurut R. Soepomo adalah ...\n1. Gotong royong\n2. Individualisme\n3. Persetujuan sebagai dasar kekuasaan umum\n4. Legalitas tertulis",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Asas Soepomo: gotong royong, fungsi sosial manusia dan milik, persetujuan sebagai dasar kekuasaan umum, perwakilan dan permusyawaratan."
+    },
+    {
+      "question": "Pernyataan yang benar tentang penggolongan masyarakat hukum adat adalah ...\n1. Asas genealogis didasarkan pada ikatan tanah\n2. Asas teritorial meliputi masyarakat hukum desa\n3. Parental berarti garis keturunan ibu saja\n4. Patrilineal berarti garis keturunan laki-laki",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Asas teritorial = ikatan tanah; genealogis = keturunan. Parental = kedua garis, matrilineal = garis ibu."
+    },
+    {
+      "question": "Dalam masyarakat hukum adat teritorial, aktivitas kepala desa meliputi ...\n1. Mengangkat residen di wilayahnya\n2. Membentuk ordonansi pemerintah\n3. Menetapkan Wetboek van Strafrecht\n4. Mengurus urusan pertanahan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Aktivitas kepala desa: urusan tanah, tata tertib preventif, dan pemulihan keseimbangan religio-magis yang represif."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kerangka dasar hukum Islam adalah ...\n1. Fiqih adalah wahyu Allah secara langsung\n2. Syariah adalah hasil penalaran manusia\n3. Akhlak secara bahasa berarti jalan ke mata air\n4. Akidah secara bahasa berarti ikatan atau sangkutan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Fiqih = pemahaman manusia; syariah = wahyu Allah dan Sunnah; 'jalan menuju mata air' adalah arti syariah."
+    },
+    {
+      "question": "Yang termasuk tujuan hukum Islam adalah memelihara ...\n1. Agama\n2. Jiwa\n3. Akal\n4. Harta",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Al-maqasid al-khamsah: agama, jiwa, akal, keturunan, dan harta."
+    },
+    {
+      "question": "Yang termasuk ahkam al-mu'amalat adalah ...\n1. Ahkam al-syahsiyat (orang dan keluarga)\n2. Ahkam al-madaniyat (benda)\n3. Ahkam al-dauliyah (internasional)\n4. Ahkam al-ibadah (ibadah)",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Ahkam al-ibadah berdiri sendiri sebagai hubungan manusia dengan Tuhan, bukan bagian muamalat."
+    },
+    {
+      "question": "Ciri-ciri hukum Islam adalah ...\n1. Memiliki struktur berlapis\n2. Membedakan tegas hukum privat dan publik\n3. Berkarakter universal\n4. Hanya mengatur bidang ibadah",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Hukum Islam tidak membedakan privat-publik dan mengatur juga hubungan sosial."
+    },
+    {
+      "question": "Asas hukum Islam menurut Syekh Muhammad Hadhori adalah ...\n1. Sejalan dengan kemaslahatan umat\n2. Menyedikitkan pembebanan\n3. Mewujudkan keadilan\n4. Bertahap dalam menetapkan hukum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Kemaslahatan dan keadilan adalah asas menurut Masjfuk Zuhdi."
+    },
+    {
+      "question": "Yang termasuk asas hukum perdata Islam adalah ...\n1. Asas kebolehan atau mubah\n2. Asas kemaslahatan\n3. Asas hak milik berfungsi sosial\n4. Asas legalitas",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Asas legalitas termasuk asas hukum pidana Islam."
+    },
+    {
+      "question": "Fungsi Sunnah/Hadits terhadap Al-Qur'an adalah ...\n1. Memperkuat ketetapan Al-Qur'an\n2. Merinci yang digariskan Al-Qur'an\n3. Menetapkan hukum yang belum diatur\n4. Tidak mungkin bertentangan dengan Al-Qur'an",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Ketiga fungsi tersebut ada dalam modul, dan tidak mungkin ada kontradiksi antara Al-Qur'an dan Sunnah."
+    },
+    {
+      "question": "Pernyataan yang benar tentang sumber hukum Islam adalah ...\n1. Ijma' merupakan sumber hukum yang pertama\n2. Qiyas dilakukan sebelum memeriksa Al-Qur'an\n3. Ayat zhanny tidak memerlukan penafsiran\n4. Ayat jelas berlaku pada bidang akidah dan ibadah",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Urutannya Al-Qur'an, Sunnah, ra'yu; ayat zhanny justru terbuka berbagai tafsir."
+    },
+    {
+      "question": "Pernyataan yang benar tentang pembagian kekuasaan di Indonesia adalah ...\n1. Indonesia mengenal kekuasaan inspektif\n2. Indonesia sepenuhnya memisahkan kekuasaan\n3. Pasal 20 ayat (2): RUU disetujui bersama Presiden-DPR\n4. Montesquieu: yudikatif bagian dari eksekutif",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Indonesia menganut distribution of power, bukan pemisahan murni; yudikatif sebagai bagian eksekutif adalah pandangan Locke."
+    },
+    {
+      "question": "Hak istimewa (octrooi) VOC meliputi ...\n1. Monopoli pelayaran dan perdagangan\n2. Membentuk angkatan perang\n3. Mencetak uang\n4. Membentuk Volksraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Volksraad dibentuk tahun 1918 pada masa Hindia Belanda."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kebijakan Daendels adalah ...\n1. Menghapus sistem kerja paksa\n2. Rodi pembuatan jalan Anyer-Panarukan\n3. Membagi Jawa menjadi 19 prefektur\n4. Hukum pribumi berlaku bila tidak bertentangan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Penghapusan kerja paksa dan 19 prefektur adalah kebijakan Raffles; Daendels membagi Jawa menjadi 9 prefektur."
+    },
+    {
+      "question": "Kebijakan Thomas Stamford Raffles adalah ...\n1. Menghapus sistem kerja paksa\n2. Menerapkan land-rent system\n3. Membagi wilayah menjadi 19 prefektur\n4. Mengurangi kekuasaan bupati",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya kebijakan Raffles pada masa Inggris."
+    },
+    {
+      "question": "Peraturan yang berlaku di Hindia Belanda sejak 1 Mei 1848 adalah ...\n1. Reglement op de Rechterlijke Organisatie (RO)\n2. Algemene Bepalingen van Wetgeving (AB)\n3. Burgerlijk Wetboek (BW)\n4. Wetboek van Strafrecht (WvS)",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "WvS baru berlaku 1 Januari 1918 berdasarkan S.1915:732."
+    },
+    {
+      "question": "Pernyataan yang benar tentang masa Regerings Reglement adalah ...\n1. RR diundangkan melalui S.1855:2\n2. Pasal 109 RR lama membagi tiga golongan\n3. WvS untuk semua golongan ditetapkan S.1915:732\n4. RR lama bercorak unifikasi dalam hukum perdata",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "RR lama membagi dua golongan (Eropa dan Bumiputra) dan hukum perdatanya dualistis."
+    },
+    {
+      "question": "Kesimpulan yang benar dari Pasal 131 IS adalah ...\n1. Memuat perintah untuk melakukan kodifikasi\n2. Menutup kemungkinan unifikasi hukum\n3. Ordonansi tidak boleh menyimpangi hukum adat\n4. Hukum perdata tetap bercorak dualistis",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Pasal 131 IS tidak memerintahkan kodifikasi, membuka unifikasi, dan membolehkan ordonansi menyimpangi hukum adat."
+    },
+    {
+      "question": "Menurut Pasal 163 ayat (2) IS, yang tunduk pada ketentuan golongan Eropa adalah ...\n1. Semua orang Belanda\n2. Semua orang Jepang\n3. Anak sah atau diakui dari golongan tersebut\n4. Semua orang Arab dan India",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Orang Arab dan India termasuk golongan Timur Asing non-Cina."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hukum perdata golongan Timur Asing adalah ...\n1. S.1917:129 berlaku bagi seluruh Timur Asing\n2. S.1925:92 memberlakukannya di Kalimantan Barat\n3. Adopsi dan kongsi tunduk pada BW\n4. S.1924:556 mencabut S.1855:79",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "S.1917:129 khusus untuk TA Cina, dan adopsi serta kongsi tetap tunduk hukum adat Cina."
+    },
+    {
+      "question": "Pernyataan yang benar tentang masa pendudukan Jepang adalah ...\n1. Pasal 3 Osamu Seirei 1/1942 adalah pasal peralihan\n2. Pasal 131 dan 163 IS masih berlaku\n3. Residentiegerecht dihapuskan\n4. Tihoo Hooin berasal dari Landraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya sesuai materi masa Jepang."
+    },
+    {
+      "question": "Pernyataan yang benar tentang perkembangan setelah kemerdekaan adalah ...\n1. UU 1/1946 mengubah gulden menjadi rupiah\n2. UU 73/1958 hanya berlaku di Jawa\n3. UU 19/1964 menghapus Peradilan Adat dan Desa\n4. UU Darurat 1/1951 menghapus Pengadilan Agama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "UU 73/1958 memberlakukan KUHP di seluruh RI; UU Darurat 1/1951 justru mempertahankan Pengadilan Agama."
+    },
+    {
+      "question": "Pernyataan yang benar tentang penundukan sukarela berdasarkan S.1917:12 adalah ...\n1. Penundukan menyebabkan seseorang pindah golongan\n2. Wanita bersuami boleh tunduk pada seluruh hukum Eropa\n3. Penundukan sebagian mencakup hukum keluarga\n4. Mengirim wesel termasuk penundukan diam-diam",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Penundukan tidak memindahkan golongan; wanita bersuami dilarang; penundukan sebagian hanya hukum kekayaan dan waris wasiat."
+    },
+    {
+      "question": "Pernyataan yang benar tentang wewenang Mahkamah Konstitusi adalah ...\n1. Menguji Perda terhadap undang-undang\n2. Memutus pembubaran partai politik\n3. Menguji undang-undang terhadap PP\n4. Memutus perselisihan hasil pemilu",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Pengujian peraturan di bawah UU terhadap UU adalah wewenang MA; MK menguji UU terhadap UUD 1945."
+    },
+    {
+      "question": "Unsur Rule of Law menurut A.V. Dicey adalah ...\n1. Peradilan administrasi yang berdiri sendiri\n2. Pemisahan kekuasaan negara\n3. Tindakan pemerintah berdasar undang-undang\n4. Persamaan di hadapan hukum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Tiga pernyataan pertama adalah ciri Rechtsstaat; Rule of Law: supremasi hukum, persamaan di hadapan hukum, konstitusi sebagai konsekuensi hak individu."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Peradilan Gubernemen adalah ...\n1. Dibentuk dan dijalankan atas nama Raja/Ratu Belanda\n2. Terdiri atas Peradilan Sipil, Peradilan Militer, dan Peradilan Agama\n3. Berada di bawah Gubernur Jenderal\n4. Mencakup Peradilan Adat dan Peradilan Swapraja",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Peradilan Adat dan Swapraja termasuk Peradilan Non-Gubernemen."
+    },
+    {
+      "question": "Empat pilar badan peradilan (rechtspraak) di Hindia Belanda meliputi ...\n1. Gouvernementspraak yang terdapat di seluruh wilayah Hindia Belanda\n2. Inheemsche Rechtspraak di Daerah Langsung Daerah Seberang\n3. Zelfbestuursrechtspraak di Daerah Tidak Langsung, kecuali Swapraja Paku Alaman dan Pontianak\n4. Dorpsrechtspraak yang selalu berdiri sendiri dan tidak pernah menjadi bagian peradilan lain",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Dorpsrechtspraak ada yang berdiri sendiri dan ada yang menjadi bagian Peradilan Gubernemen, Swapraja, atau Adat."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Residentiegerecht adalah ...\n1. Dipimpin hakim tunggal dan dibantu panitera\n2. Putusannya dapat diajukan banding ke Hoogereschthof\n3. Berwenang mengadili perkara pidana dengan pelaku golongan Eropa\n4. Diketuai sarjana hukum dengan anggota pegawai pemerintah",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Banding Residentiegerecht diajukan ke Raad van Justitie; susunan ketua sarjana hukum dan anggota pegawai pemerintah adalah ciri Landraad."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Hoogereschthof adalah ...\n1. Berkedudukan di Semarang\n2. Putusannya disebut arrest\n3. Hanya memeriksa banding dari Residentiegerecht\n4. Mengadili tingkat pertama dan terakhir perkara pidana anggota Volksraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Hoogereschthof berkedudukan di Batavia dan memeriksa kasasi dari Raad van Justitie."
+    },
+    {
+      "question": "Pernyataan yang benar tentang peradilan golongan Bumiputra di Jawa dan Madura adalah ...\n1. Districtsgerecht dipimpin wedana sebagai hakim tunggal\n2. Regentschapsgerecht berkedudukan di kota kabupaten dan dipimpin bupati\n3. Putusan Districtsgerecht dapat diajukan banding ke Regentschapsgerecht\n4. Putusan Regentschapsgerecht dapat diajukan banding ke Landraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Susunannya: Districtsgerecht, Regentschapsgerecht, Landraad, lalu banding ke Raad van Justitie."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Peradilan Adat (Inheemsche Rechtspraak) adalah ...\n1. Terdapat di Jawa dan Madura\n2. Kleine Rapat berfungsi sebagai pengadilan banding atas Groote Rapat\n3. Di berbagai daerah dikenal dengan sebutan Surambi\n4. Residen berwenang membatalkan putusan atau memerintahkan pemeriksaan ulang",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Peradilan Adat hanya di Daerah Langsung Daerah Seberang, dikenal sebagai Rapat; Groote Rapat adalah banding atas Kleine Rapat."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Peradilan Swapraja di Jawa dan Madura adalah ...\n1. Terdapat di Surakarta, Mangkunegara, dan Yogyakarta\n2. Terdapat di Kadipaten Paku Alaman\n3. Surambi di Yogyakarta berfungsi sebagai pengadilan agama\n4. Pradata di Mangkunegaran berfungsi sebagai pengadilan agama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Paku Alaman tidak memiliki Peradilan Swapraja; Pradata adalah pengadilan umum."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Peradilan Agama (Godsdienstige Rechtspraak) masa Hindia Belanda adalah ...\n1. Raad Agama (Priesterraad) terdapat di setiap Landraad\n2. Hoof voor Islamieten Zaken menjadi pengadilan banding di Batavia\n3. Di Kalimantan Selatan disebut Kadigerecht dengan Opperkadigerecht di Banjarmasin\n4. Eksekusi putusannya tidak memerlukan penguatan dari Landraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Jika para pihak tidak menyetujui putusan, eksekusi memerlukan penguatan Landraad setempat."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kekuasaan kehakiman adalah ...\n1. Kekuasaan kehakiman harus merdeka, bebas dari campur tangan pihak mana pun\n2. Hakim objektif berarti menilai berdasarkan fakta, bukti, dan hukum yang berlaku\n3. Hakim imparsial berarti tidak memihak salah satu pihak\n4. Pasal 24 UUD 1945 menyatakan kekuasaan kehakiman hanya dilaksanakan oleh Mahkamah Agung",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Setelah amandemen, kekuasaan kehakiman dilaksanakan oleh MA beserta peradilan di bawahnya dan Mahkamah Konstitusi."
+    },
+    {
+      "question": "Pernyataan yang benar tentang lingkungan peradilan menurut UU No. 48 Tahun 2009 adalah ...\n1. Peradilan Anak menangani anak berusia 12-21 tahun\n2. Pengadilan Pajak adalah pengadilan tingkat pertama dan terakhir\n3. Peradilan Militer termasuk dalam Peradilan Umum\n4. Mahkamah Konstitusi merupakan lembaga tersendiri dalam kekuasaan kehakiman",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Peradilan Anak: 8-18 tahun dan belum menikah; Peradilan Militer adalah lingkungan tersendiri di bawah MA."
+    },
+    {
+      "question": "Kewenangan Mahkamah Konstitusi menurut Pasal 24C ayat (1) UUD 1945 meliputi ...\n1. Menguji undang-undang terhadap UUD 1945\n2. Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan UUD\n3. Memutus pembubaran partai politik\n4. Memutus perselisihan hasil pemilihan umum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya kewenangan MK; MK juga wajib memutus pendapat DPR atas dugaan pelanggaran hukum Presiden dan/atau Wakil Presiden."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hak menguji (judicial review) adalah ...\n1. Uji formal menguji prosedur pembentukan suatu peraturan\n2. Uji material menguji tata cara pembentukan suatu peraturan\n3. Judicial review dilakukan oleh kekuasaan kehakiman\n4. Executive review dilakukan oleh legislatif terhadap produk hukum yang dibuatnya",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Uji material menguji isi; legislative review dilakukan legislatif, executive review oleh eksekutif."
+    },
+    {
+      "question": "Asas dasar hukum acara Mahkamah Konstitusi meliputi ...\n1. Ius curia novit: pengadilan boleh menolak perkara jika hukumnya kurang jelas\n2. Audi et alteram partem: hanya pemohon yang wajib didengar dalam persidangan\n3. Hakim konstitusi bersifat pasif dan tidak menggali bukti\n4. Persidangan terbuka untuk umum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Ius curia novit melarang menolak perkara; audi et alteram partem mendengar para pihak secara seimbang; hakim aktif menggali bukti."
+    },
+    {
+      "question": "Pernyataan yang benar tentang istilah Hukum Tata Negara adalah ...\n1. Staatsrecht adalah istilah yang digunakan di Belanda\n2. Droit Constitutionnel di Prancis dibedakan dari Droit Administratif\n3. Verfassungsrecht di Jerman dibedakan dari Verwaltungsrecht\n4. Diritto Costituzionale adalah istilah yang digunakan di Inggris",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Diritto Costituzionale adalah istilah Italia; di Inggris dipakai State Law/Constitutional Law."
+    },
+    {
+      "question": "Pernyataan yang benar tentang pandangan ahli mengenai HTN adalah ...\n1. Logemann menyatakan HTN adalah hukum mengenai hubungan antarnegara dalam pergaulan internasional\n2. Van Vollenhoven menyatakan HTN mengatur masyarakat hukum atasan dan bawahan menurut tingkatannya\n3. Burkens menyatakan objek ilmu HTN adalah penerobosan negara dengan hukum\n4. Donner menyatakan objek ilmu HTN adalah penerobosan negara dengan hukum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Logemann: HTN adalah hukum mengenai organisasi negara; Burkens: sistem pengambilan keputusan dalam negara."
+    },
+    {
+      "question": "Pernyataan yang benar tentang sumber hukum dalam HTN adalah ...\n1. Pancasila adalah sumber hukum material (welbron)\n2. UUD 1945 termasuk sumber hukum formal (kenbron)\n3. Dicey membedakan the law of constitution dan convention of the constitution\n4. Sumber hukum HTN meliputi hukum tertulis, hukum tidak tertulis, yurisprudensi, dan doktrin",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempat pernyataan sesuai modul."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hubungan HTN dengan ilmu kenegaraan lainnya adalah ...\n1. Ilmu Negara memandang negara secara abstrak, umum, dan universal\n2. HTN memandang negara secara abstrak dan terlepas dari hukum positif\n3. Hukum Administrasi Negara merupakan bagian dari HTN dalam arti luas\n4. HTN mempelajari negara dalam keadaan bergerak atau dinamis",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "HTN memandang negara secara khusus dan praktis terkait hukum positif, dan mempelajari negara dalam keadaan diam."
+    },
+    {
+      "question": "Pernyataan yang benar tentang sistem pemerintahan adalah ...\n1. Presidensial: Kepala Negara sekaligus Kepala Pemerintahan\n2. Parlementer: menteri bertanggung jawab dan dapat diberhentikan melalui mosi parlemen\n3. Referendum: Presiden dan menteri dipilih oleh parlemen\n4. Referendum fakultatif: undang-undang harus disetujui rakyat sebelum diberlakukan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Yang demikian adalah referendum obligatoir; fakultatif dilakukan setelah undang-undang berlaku."
+    },
+    {
+      "question": "Pernyataan yang benar tentang asas otonomi daerah adalah ...\n1. Dekonsentrasi adalah pelimpahan wewenang pemerintah kepada instansi di bawahnya sebagai perangkat pusat\n2. Desentralisasi dicontohkan dengan pelayanan dinas perhubungan di setiap daerah\n3. Tugas pembantuan disertai pembiayaan, sarana, prasarana, dan sumber daya manusia\n4. Medebewind adalah penyerahan wewenang kepada daerah otonom untuk mengatur diri secara mandiri",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Desentralisasi dicontohkan penyusunan Perda; medebewind adalah penugasan dari pusat ke daerah."
+    },
+    {
+      "question": "Pernyataan yang benar tentang asas perundang-undangan adalah ...\n1. Lex superior berlaku pada peraturan yang setingkat dalam hierarki\n2. Lex posterior berlaku pada peraturan yang berbeda tingkat dalam hierarki\n3. Lex specialis hanya berlaku pada peraturan yang berbeda tingkat dalam hierarki\n4. Lex posterior mengesampingkan peraturan lama pada tingkat hierarki yang sama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Lex superior untuk beda tingkat; lex posterior dan lex specialis berlaku pada tingkat hierarki yang sama."
+    },
+    {
+      "question": "Pernyataan yang benar tentang negara hukum adalah ...\n1. Rechtsstaat dikenal dalam sistem Civil Law\n2. Rule of Law dikenal dalam sistem Common Law\n3. Indonesia adalah negara hukum berdasarkan Pasal 1 ayat (3) UUD 1945\n4. Persamaan di hadapan hukum merupakan ciri khas Rechtsstaat",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Persamaan di hadapan hukum adalah unsur Rule of Law."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kedaulatan adalah ...\n1. Kedaulatan Raja: kekuasaan tertinggi berasal dari aturan hukum yang tumbuh dalam masyarakat\n2. Kedaulatan Negara: kekuasaan tertinggi pada negara dan tidak diperoleh dari siapa pun\n3. Kedaulatan Tuhan: kekuasaan tertinggi berasal dari rakyat\n4. Pasal 1 ayat (2) UUD 1945: kedaulatan di tangan rakyat dan dilaksanakan menurut UUD",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Kedaulatan Hukum berasal dari aturan hukum; Kedaulatan Tuhan dari Tuhan; Kedaulatan Rakyat dari rakyat."
+    },
+    {
+      "question": "Pernyataan yang benar tentang UU Nomor 19 Tahun 1964 tentang Pokok-Pokok Kekuasaan Kehakiman adalah ...\n1. Menghapus semua Peradilan Adat dan Peradilan Desa\n2. Lingkungan peradilan terdiri atas Peradilan Umum, Agama, Militer, dan Tata Usaha Negara\n3. Semua pengadilan berpuncak di Mahkamah Agung\n4. Diganti dengan UU Nomor 14 Tahun 1970 pada masa Orde Lama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "UU 14/1970 menggantikan UU 19/1964 pada masa Orde Baru."
+    }
+  ]
+}

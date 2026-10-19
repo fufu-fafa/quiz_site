@@ -1,0 +1,108 @@
+{
+  "blocks": [
+    {
+      "name": "DMS",
+      "quizzes": [
+        {
+          "title": "DMS 2025 — 72 Soal",
+          "description": "72 soal ujian DMS 2025 (soal 33, 36, 38 tidak ada). Kunci disusun manual, bukan kunci resmi.",
+          "count": 72,
+          "file": "quizzes/DMS/DMS_2025.json"
+        },
+        {
+          "title": "Dermato-Musculo-Skeletal (DMS) — 50 High-Yield Questions",
+          "description": "50 soal topik paling sering muncul di formative DMS.",
+          "count": 50,
+          "file": "quizzes/DMS/DMS_High_Yield_50_soal.json"
+        },
+        {
+          "title": "Paket Soal Formative DMS 1 — Kunci Jawaban",
+          "description": "40 soal Paket Formative DMS 1 beserta kunci dan pembahasan.",
+          "count": 40,
+          "file": "quizzes/DMS/Kunci_Formative_DMS_1.json"
+        },
+        {
+          "title": "Paket Soal Formative DMS 2 — Kunci Jawaban",
+          "description": "40 soal Paket Formative DMS 2 beserta kunci dan pembahasan.",
+          "count": 40,
+          "file": "quizzes/DMS/Kunci_Formative_DMS_2.json"
+        }
+      ]
+    },
+    {
+      "name": "NBSS",
+      "quizzes": [
+        {
+          "title": "NBSS High-Yield Practice — 50 Soal",
+          "description": "50 soal topik paling sering muncul di Quiz + Formative NBSS 1–5.",
+          "count": 50,
+          "file": "quizzes/NBSS/NBSS_High_Yield_50_soal.json"
+        },
+        {
+          "title": "Kasus Klinis NBSS — 50 Soal",
+          "description": "50 vignette klinis: neurology, eye, ENT, psychiatry, ethics.",
+          "count": 50,
+          "file": "quizzes/NBSS/NBSS_Kasus_Klinis_50_soal.json"
+        },
+        {
+          "title": "Spinal Cord & Tracts — 50 Soal",
+          "description": "50 soal spinal cord: anatomi, tracts, reflex, dan sindrom lesi.",
+          "count": 50,
+          "file": "quizzes/NBSS/NBSS_Spinal_Cord_Tracts_50_soal.json"
+        },
+        {
+          "title": "Spinal Cord & Tracts II — 50 Soal Baru",
+          "description": "50 soal set kedua: meninges, embryology, reflex circuit, brainstem tracts, autonomic.",
+          "count": 50,
+          "file": "quizzes/NBSS/NBSS_Spinal_Cord_Tracts_II_50_soal.json"
+        }
+      ]
+    },
+    {
+      "name": "PHI",
+      "quizzes": [
+        {
+          "title": "Kuis PHI - Pilihan Ganda",
+          "description": "50 soal pilihan ganda materi PHI.",
+          "count": 50,
+          "file": "quizzes/PHI/kuis_PHI_pilihan_ganda.json"
+        },
+        {
+          "title": "Kuis PHI - Pilihan Ganda Majemuk",
+          "description": "50 soal pilihan ganda majemuk materi PHI.",
+          "count": 50,
+          "file": "quizzes/PHI/kuis_PHI_pilihan_ganda_majemuk.json"
+        },
+        {
+          "title": "Kuis PHI - Pilihan Ganda Sebab-Akibat",
+          "description": "50 soal sebab-akibat materi PHI.",
+          "count": 50,
+          "file": "quizzes/PHI/kuis_PHI_sebab_akibat.json"
+        }
+      ]
+    },
+    {
+      "name": "PIH",
+      "quizzes": [
+        {
+          "title": "PIH – Pilihan Ganda (50 Soal)",
+          "description": "50 soal pilihan ganda Modul PIH (BAB 1–7 dan 9).",
+          "count": 50,
+          "file": "quizzes/PIH/PIH_pilihan_ganda.json"
+        },
+        {
+          "title": "PIH – Pilihan Ganda Majemuk (50 Soal)",
+          "description": "50 soal pilihan ganda majemuk materi PIH.",
+          "count": 50,
+          "file": "quizzes/PIH/PIH_pilihan_ganda_majemuk.json"
+        },
+        {
+          "title": "PIH – Pilihan Ganda Sebab-Akibat (50 Soal)",
+          "description": "50 soal sebab-akibat materi PIH.",
+          "count": 50,
+          "file": "quizzes/PIH/PIH_sebab_akibat.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "title": "PIH – Pilihan Ganda Sebab-Akibat (50 Soal)",
+  "description": "50 soal sebab-akibat materi PIH.",
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "question": "Teori Pengayoman berusaha mewujudkan keadilan vindikatif\nSEBAB\nMetode sistematis memahami hukum sebagai satu keseluruhan yang utuh beserta elemen dan sub-elemennya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pengertian metode sistematis tidak berhubungan dengan keadilan vindikatif."
+    },
+    {
+      "question": "Kaidah izin bersifat menderogasi kaidah perintah\nSEBAB\nKaidah dispensasi bersifat menderogasi kaidah larangan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: izin menderogasi larangan, dispensasi menderogasi perintah."
+    },
+    {
+      "question": "Teori Utilitas memerlukan kaidah hukum yang ditetapkan dalam perundang-undangan dan diterapkan secara konsisten\nSEBAB\nKebahagiaan sebanyak-banyaknya bagi sebanyak mungkin orang hanya dapat diwujudkan dalam masyarakat yang tertib",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; ketertiban dibutuhkan untuk kebahagiaan, dan ketertiban memerlukan perundang-undangan yang konsisten."
+    },
+    {
+      "question": "Menurut J. van Kan, kaidah agama adalah peraturan hidup yang digariskan oleh suara hati\nSEBAB\nJ. van Kan membagi keseluruhan kaidah ke dalam dua golongan besar",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: yang digariskan suara hati adalah kesusilaan, dan van Kan membagi kaidah ke dalam 4 kelompok."
+    },
+    {
+      "question": "Dalam Teori Pengayoman, melindungi secara aktif berarti mencegah tindakan sewenang-wenang\nSEBAB\nKeadilan protektif adalah memberikan hukuman yang sesuai dengan kesalahan yang dilakukan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: mencegah kesewenang-wenangan adalah perlindungan pasif, dan hukuman sesuai kesalahan adalah keadilan vindikatif."
+    },
+    {
+      "question": "Pendidikan hukum formal di Indonesia dimulai tahun 1924 dengan berdirinya Rechtschool\nSEBAB\nRechtschool bertujuan mendidik orang Indonesia agar dapat menjadi hakim Landraad",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: Rechtschool berdiri tahun 1909; tahun 1924 adalah awal pendidikan tinggi hukum. Alasan benar."
+    },
+    {
+      "question": "Kaidah dispensasi bersifat menderogasi atau mengesampingkan kaidah perintah\nSEBAB\nKaidah dispensasi termasuk pembagian kaidah yang ditinjau dari fungsinya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: dispensasi termasuk pembagian kaidah perilaku menurut isinya, bukan fungsinya."
+    },
+    {
+      "question": "Sanksi kaidah agama diwujudkan di akhirat\nSEBAB\nKaidah kesopanan dan kaidah hukum sama-sama bertujuan mewujudkan ketertiban dalam masyarakat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi tujuan kaidah kesopanan dan hukum tidak berhubungan dengan sanksi kaidah agama."
+    },
+    {
+      "question": "Pasal 359 KUHP mensyaratkan pelaku yang menghendaki kematian korban\nSEBAB\nPasal 338 KUHP mensyaratkan pelaku yang memiliki sikap batin sengaja menghendaki kematian korban",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: Pasal 359 mensyaratkan kealpaan. Alasan benar."
+    },
+    {
+      "question": "Menurut Soediman Kartohadiprodjo, kaidah hukum tidak termasuk kaidah sosial\nSEBAB\nKaidah sosial adalah kaidah yang bangkit dari dan di dalam, serta disebabkan oleh pergaulan hidup manusia",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: kaidah hukum termasuk kaidah sosial bersama kesopanan dan kesusilaan. Alasan benar."
+    },
+    {
+      "question": "Para pembentuk undang-undang sebaiknya mencari landasan dalam kaidah bukan hukum\nSEBAB\nUndang-undang yang tidak mendapat dukungan atau tidak berlandaskan kaidah bukan hukum tidak akan bertahan lama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar, dan alasan menjelaskan mengapa pembentuk UU perlu mencari landasan pada kaidah bukan hukum."
+    },
+    {
+      "question": "Kaidah termasuk kebutuhan pokok manusia dalam kehidupan bermasyarakat\nSEBAB\nKaidah merupakan sarana yang relatif mutlak diperlukan bagi terwujudnya ketertiban agar manusia dapat hidup secara wajar",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; kaidah menjadi kebutuhan pokok justru karena diperlukan untuk mewujudkan ketertiban."
+    },
+    {
+      "question": "Rechtschool pada awalnya bukan perguruan tinggi, melainkan sekolah menengah kejuruan\nSEBAB\nMasa studi di Rechtschool hanya berlangsung selama 3 tahun",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: masa studi Rechtschool 6 tahun (3 tahun dasar, 3 tahun keahlian hukum)."
+    },
+    {
+      "question": "Pertanyaan \"Quid ius?\" digeser menjadi \"Quid iuris?\", yaitu apa yang di sini berlaku sebagai hukum positif\nSEBAB\nPara tokoh mendefinisikan hukum secara berbeda-beda sehingga \"Quid ius?\" tidak dapat dijawab dengan satu jawaban yang sama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; karena definisi hukum berbeda-beda, pertanyaannya digeser menjadi \"Quid iuris?\"."
+    },
+    {
+      "question": "Pendidikan tinggi memiliki kewajiban untuk menyelenggarakan Tridharma\nSEBAB\nRechtschool didirikan oleh Gubernur Jenderal J.B. van Heutsz pada tahun 1909",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pendirian Rechtschool bukan penyebab kewajiban Tridharma."
+    },
+    {
+      "question": "Aliran Hukum Bebas berpendapat bahwa undang-undang tidak pernah lengkap dan bukan satu-satunya sumber hukum\nSEBAB\nAliran Hukum Bebas timbul karena kelemahan pemikiran aliran Legisme yang hanya bertumpu pada peraturan tertulis",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; pandangan Hukum Bebas lahir sebagai reaksi atas kelemahan Legisme."
+    },
+    {
+      "question": "Kaidah agama diciptakan oleh manusia melalui interaksi dalam masyarakat\nSEBAB\nKaidah agama bertujuan memberikan jalan dan membimbing manusia dalam aspek religi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: kaidah agama diciptakan Tuhan dan diwahyukan melalui nabi. Alasan benar."
+    },
+    {
+      "question": "Golongan pertama berpendapat bahwa unsur kebiasaan dan unsur kesadaran hukum muncul bersamaan\nSEBAB\nMenurut golongan kedua, kebiasaan bukanlah sebab timbulnya hukum, melainkan ciri dari adanya hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: yang berpendapat muncul bersamaan adalah golongan kedua (Logemann). Alasan benar."
+    },
+    {
+      "question": "Aliran Hukum Bebas menjadikan undang-undang sebagai satu-satunya sumber hukum\nSEBAB\nAliran Hukum Bebas timbul karena kelemahan aliran Legisme yang hanya bertumpu pada peraturan tertulis",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: Hukum Bebas justru menganggap UU bukan satu-satunya sumber hukum. Alasan benar."
+    },
+    {
+      "question": "Dalam aliran Legisme, hakim disebut sebagai corong undang-undang\nSEBAB\nAliran Legisme lebih mengutamakan keadilan daripada kepastian hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: Legisme mengutamakan kepastian hukum, sedangkan keadilannya lemah."
+    },
+    {
+      "question": "Aliran Legisme menempatkan keadilan sebagai tujuan utama hukum\nSEBAB\nDalam aliran Legisme, hakim bebas menyimpang dari undang-undang demi keadilan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: Legisme bertujuan kepastian hukum dan hakim terikat UU (corong UU)."
+    },
+    {
+      "question": "Rasa lapar dan rasa haus merupakan bahaya yang timbul dari dalam diri manusia\nSEBAB\nNaluri self-preservasi hanya melindungi manusia dari bahaya yang datang dari luar dirinya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: naluri self-preservasi melindungi dari bahaya yang timbul dari dalam maupun luar diri."
+    },
+    {
+      "question": "Kaidah kewenangan dan kaidah sanksi merupakan konsekuensi dari keberadaan kaidah perilaku\nSEBAB\nKaidah perilaku merupakan kaidah pokok yang perlu dilaksanakan, ditegakkan, dan dipaksakan berlakunya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; kaidah kewenangan dan sanksi ada untuk melaksanakan dan menegakkan kaidah perilaku sebagai kaidah pokok."
+    },
+    {
+      "question": "Sanksi merupakan faktor eksternal yang mendorong orang untuk taat kepada kaidah\nSEBAB\nLogemann berpendapat bahwa unsur kebiasaan dan unsur kesadaran hukum muncul pada waktu yang bersamaan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pendapat Logemann tidak menjelaskan sanksi sebagai faktor eksternal."
+    },
+    {
+      "question": "Teori Etis dikemukakan oleh Aristoteles dalam buku Ethica Nicomachea dan Rhetorica\nSEBAB\n\"Lex dura, sed tamen scripta\" berarti hukum sering terasa keras, tetapi memang begitulah bunyinya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi asas lex dura berkaitan dengan Teori Utilitas, bukan alasan lahirnya Teori Etis."
+    },
+    {
+      "question": "Pengantar Ilmu Hukum merupakan ilmu yang berdiri sendiri\nSEBAB\nPengantar Ilmu Hukum bersifat deskriptif-analitis seperti Pengantar Hukum Indonesia",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: PIH bukan ilmu yang berdiri sendiri dan bersifat teoretis-analitis."
+    },
+    {
+      "question": "Kesadaran hukum merupakan faktor eksternal yang mendorong ketaatan pada kaidah\nSEBAB\nKesadaran hukum datang dari dalam diri manusia untuk mendorong agar orang taat kepada kaidah",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: kesadaran hukum adalah faktor internal. Alasan benar."
+    },
+    {
+      "question": "Kaidah sanksi merupakan kaidah pokok dalam klasifikasi kaidah menurut fungsinya\nSEBAB\nKaidah perilaku lahir sebagai konsekuensi dari keberadaan kaidah sanksi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: kaidah pokok adalah kaidah perilaku, dan justru kaidah sanksi yang lahir sebagai konsekuensinya."
+    },
+    {
+      "question": "Pendidikan tinggi hukum di Indonesia baru ada sejak tahun 1924\nSEBAB\nMenurut H.F.M. Crombag, pencegahan konflik antarwarga termasuk lingkungan karya hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pendapat Crombag tidak menjelaskan sejarah pendidikan tinggi hukum di Indonesia."
+    },
+    {
+      "question": "Manusia memiliki naluri self-preservasi untuk mempertahankan eksistensinya di dunia\nSEBAB\nKaidah izin bersifat menderogasi atau mengesampingkan kaidah larangan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi tidak ada hubungan sebab-akibat antara naluri self-preservasi dan derogasi kaidah."
+    },
+    {
+      "question": "Kaidah kesusilaan bertujuan mewujudkan manusia yang ideal\nSEBAB\nSanksi kaidah kesusilaan ditetapkan dan diterapkan secara terorganisir",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: sanksi kaidah kesusilaan tidak terorganisir; sanksi yang terorganisir adalah ciri kaidah hukum."
+    },
+    {
+      "question": "Pelaksanaan dan penegakan kaidah kesopanan dilakukan oleh lembaga yang berwenang\nSEBAB\nSanksi kaidah kesopanan ditetapkan dan diterapkan secara terorganisir",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: kaidah kesopanan diserahkan pada individu dan sanksinya tidak terorganisir."
+    },
+    {
+      "question": "Teori Utilitas sejalan dengan aliran Hukum Bebas\nSEBAB\nTeori Utilitas mementingkan kepastian hukum yang memerlukan peraturan yang berlaku umum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: Teori Utilitas sejalan dengan aliran Legisme. Alasan benar."
+    },
+    {
+      "question": "Mata kuliah Pengantar Ilmu Hukum bersifat teoretis-analitis\nSEBAB\nPengantar Ilmu Hukum menguraikan hukum yang berlaku di Indonesia pada saat sekarang",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: hukum yang berlaku di Indonesia adalah objek PHI, sedangkan PIH menguraikan ilmu hukum yang universal."
+    },
+    {
+      "question": "Mata kuliah Pengantar Hukum Indonesia bersifat teoretis-analitis\nSEBAB\nObjek Pengantar Hukum Indonesia adalah hukum yang berlaku di Indonesia",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: PHI bersifat deskriptif-analitis. Alasan benar."
+    },
+    {
+      "question": "Thomas Hobbes mendefinisikan hukum sebagai perintah dari orang yang berkuasa untuk memerintah dan memaksa\nSEBAB\nOliver Wendell Holmes Jr. mendefinisikan hukum sebagai ramalan tentang apa yang akan diputuskan pengadilan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi definisi Holmes Jr. bukan penyebab definisi Hobbes."
+    },
+    {
+      "question": "Hukum dapat melarang sikap batin seseorang walaupun belum diwujudkan dalam perilaku\nSEBAB\nSikap batin merupakan unsur objektif dalam perbuatan manusia",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: selama sikap batin belum diwujudkan dalam perilaku, belum ada persoalan hukum; sikap batin adalah unsur subjektif."
+    },
+    {
+      "question": "Teori Etis menolak perundang-undangan sebagai sumber hukum\nSEBAB\nPerundang-undangan mengatur secara menggeneralisasi sehingga dapat memperlakukan hal yang berbeda secara sama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; generalisasi dalam perundang-undangan dianggap menimbulkan ketidakadilan, maka Teori Etis menolaknya."
+    },
+    {
+      "question": "Teori Etis bekerja dengan cara menggeneralisasi\nSEBAB\nTeori Etis sejalan dengan aliran Legisme yang mementingkan kepastian hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: Teori Etis bekerja dengan mengindividualisasi dan sejalan dengan aliran Hukum Bebas."
+    },
+    {
+      "question": "Kaidah kewenangan merupakan kaidah pokok dalam klasifikasi kaidah menurut fungsinya\nSEBAB\nKaidah kewenangan mengatur lembaga atau pejabat yang berwenang menegakkan kaidah perilaku",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan salah: kaidah pokok adalah kaidah perilaku. Alasan benar sesuai pengertian kaidah kewenangan."
+    },
+    {
+      "question": "Teori Pengayoman merupakan kombinasi dari Teori Etis dan Teori Utilitas\nSEBAB\nTeori Etis dan Teori Utilitas sama-sama lebih mengutamakan kepastian hukum daripada keadilan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: Teori Etis mengutamakan keadilan, Teori Utilitas mengutamakan kepastian hukum."
+    },
+    {
+      "question": "Hukum tidak dapat mengatur atau melarang sikap batin seseorang\nSEBAB\nSikap batin merupakan unsur objektif yang tampak dari luar diri seseorang",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: sikap batin adalah unsur subjektif yang tidak bisa diketahui orang lain."
+    },
+    {
+      "question": "Menurut Soediman Kartohadiprodjo, kaidah agama tidak termasuk kaidah sosial\nSEBAB\nMenurut J. van Kan, kaidah kesopanan timbul dalam kelompok tertentu mengenai cara bergaul sehari-hari",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pendapat van Kan tentang kesopanan bukan alasan pembagian kaidah menurut Soediman."
+    },
+    {
+      "question": "Dalam pembuktian, sikap batin pelaku harus diobjektifkan dan dinormatifkan\nSEBAB\nSikap batin merupakan unsur subjektif yang tidak dapat diketahui secara langsung oleh orang lain",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; karena sikap batin subjektif, pembuktiannya harus melalui fakta objektif dan ukuran orang pada umumnya."
+    },
+    {
+      "question": "Faktor kesadaran hukum membedakan hukum kebiasaan dari kebiasaan\nSEBAB\nKebiasaan merupakan kaidah tertulis, sedangkan hukum kebiasaan merupakan kaidah tidak tertulis",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: kebiasaan dan hukum kebiasaan sama-sama kaidah tidak tertulis."
+    },
+    {
+      "question": "Keadilan distributif memberikan kepada tiap orang bagian sesuai dengan jasanya\nSEBAB\nMenurut Aristoteles, keadilan selalu berarti setiap orang memperoleh bagian yang sama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pernyataan benar. Alasan salah: menurut Teori Etis, keadilan tidak selalu berarti tiap orang memperoleh bagian yang sama."
+    },
+    {
+      "question": "Pengantar Ilmu Hukum merupakan mata kuliah dasar atau basisleervak\nSEBAB\nIus constituendum adalah kaidah hukum yang dicita-citakan untuk berlaku di masa depan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pengertian ius constituendum tidak menjelaskan kedudukan PIH sebagai basisleervak."
+    },
+    {
+      "question": "Pasal 338, Pasal 351 ayat (3), dan Pasal 359 KUHP memuat ancaman pidana yang berbeda walaupun perbuatan dan akibatnya sama\nSEBAB\nKetiga pasal tersebut mensyaratkan bentuk sikap batin pelaku yang berbeda-beda",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar; perbedaan ancaman pidana disebabkan perbedaan sikap batin (sengaja membunuh, sengaja menganiaya, kealpaan)."
+    },
+    {
+      "question": "Sudah terdapat communis doctorum tentang definisi hukum\nSEBAB\nPara tokoh mendefinisikan hukum dengan rumusan yang sama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Keduanya salah: belum ada communis doctorum karena definisi hukum para tokoh berbeda-beda."
+    },
+    {
+      "question": "Pendidikan tinggi hukum berupaya menumbuhkan kemampuan berpikir yuridis pada mahasiswanya\nSEBAB\nBerpikir yuridis diperlukan untuk menghadapi, memahami, dan memecahkan masalah hukum yang terjadi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab-akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Keduanya benar, dan alasan menjelaskan mengapa pendidikan tinggi hukum menumbuhkan kemampuan berpikir yuridis."
+    }
+  ]
+}

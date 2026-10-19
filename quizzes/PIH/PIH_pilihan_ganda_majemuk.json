@@ -1,0 +1,607 @@
+{
+  "title": "PIH – Pilihan Ganda Majemuk (50 Soal)",
+  "description": "50 soal pilihan ganda majemuk materi PIH.",
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "question": "Pernyataan yang benar tentang aliran Hukum Bebas adalah...\n1. Undang-undang adalah satu-satunya sumber hukum\n2. Kekuatan kepastian hukumnya sangat kuat\n3. Hakim terikat UU dan tidak boleh menyimpang\n4. Keadilan yang dimaksud adalah kegunaan sosial sebesar-besarnya",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Hukum Bebas menganggap UU tidak lengkap dan bukan satu-satunya sumber hukum, kepastian hukumnya lemah, dan hakim bebas menyimpang dari UU."
+    },
+    {
+      "question": "Menurut Prof. Soediman Kartohadiprodjo, yang termasuk unsur dasar manusia adalah...\n1. Unsur raga\n2. Unsur rasa\n3. Unsur rasio\n4. Unsur karsa",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Empat unsur dasar manusia: raga, rasa, rasio, dan rukun. Karsa tidak termasuk."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hukum dan sikap batin adalah...\n1. Hukum dapat melarang sikap batin seseorang\n2. Perilaku manusia adalah manifestasi sikap batin\n3. Sikap batin merupakan unsur objektif\n4. Hukum bersifat normatif",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Hukum tidak bisa mengatur sikap batin, dan sikap batin adalah unsur subjektif."
+    },
+    {
+      "question": "Pernyataan yang benar tentang aliran Modern adalah...\n1. Merupakan sintesis aliran Legisme dan aliran Hukum Bebas\n2. Hukum terbentuk sebagai hasil karya pembuat undang-undang\n3. Penerapan undang-undang sering menuntut interpretasi\n4. Hukum juga terbentuk melalui kebiasaan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya merupakan inti aliran Modern."
+    },
+    {
+      "question": "Menurut H.F.M. Crombag, yang termasuk lingkungan karya hukum adalah...\n1. Penyelesaian konflik secara formal\n2. Pembentukan undang-undang oleh parlemen\n3. Pencegahan konflik antarwarga\n4. Penegakan kaidah agama oleh pemuka agama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Empat lingkungan karya Crombag: penyelesaian konflik formal, pencegahan konflik, penyelesaian konflik informal, dan penerapan hukum di luar konflik."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Teori Utilitas adalah...\n1. Cara kerjanya mengindividualisasi\n2. Mementingkan faktor kepastian hukum\n3. Sejalan dengan aliran Hukum Bebas\n4. Bertujuan mewujudkan kebahagiaan sebanyak-banyaknya bagi sebanyak mungkin orang",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Teori Utilitas bekerja dengan menggeneralisasi dan sejalan dengan aliran Legisme."
+    },
+    {
+      "question": "Yang termasuk bahaya yang timbul dari luar diri manusia adalah...\n1. Bencana alam\n2. Rasa lapar\n3. Serangan binatang liar\n4. Rasa haus",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Bencana alam dan serangan binatang liar berasal dari luar diri; lapar dan haus berasal dari dalam diri."
+    },
+    {
+      "question": "Yang merupakan ciri sesuatu yang tersusun secara sistematis logis adalah...\n1. Runtut\n2. Teratur dan bertujuan\n3. Mematuhi aturan atau asas logika\n4. Secara rasional dapat dipertanggungjawabkan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya adalah ciri sistematis logis menurut modul."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Teori Etis adalah...\n1. Tujuan hukum adalah mewujudkan keadilan\n2. Perundang-undangan diterima sebagai sumber hukum utama\n3. Cara kerjanya mengindividualisasi\n4. Sejalan dengan aliran Legisme",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Teori Etis menolak perundang-undangan sebagai sumber hukum dan sejalan dengan aliran Hukum Bebas."
+    },
+    {
+      "question": "Pernyataan yang benar tentang perbedaan kaidah agama dan kaidah hukum adalah...\n1. Kaidah agama diciptakan Tuhan dan diwahyukan melalui nabi\n2. Kaidah hukum diciptakan manusia melalui interaksi\n3. Sanksi kaidah agama diwujudkan di akhirat\n4. Sanksi kaidah hukum diwujudkan setelah kematian",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Sanksi kaidah hukum diwujudkan secara nyata saat yang bersangkutan masih hidup."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kaidah atau norma adalah...\n1. Kaidah berfungsi sebagai pedoman perilaku manusia\n2. Kaidah berisi keharusan dan larangan berperilaku\n3. Kaidah termasuk kebutuhan pokok manusia\n4. Kaidah pada umumnya tidak diciptakan oleh manusia",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Modul menyatakan kaidah yang mengatur perilaku manusia pada umumnya diciptakan oleh manusia sendiri melalui interaksi."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Pengantar Ilmu Hukum adalah...\n1. PIH merupakan ilmu yang berdiri sendiri\n2. PIH bersifat deskriptif-analitis\n3. Objek PIH adalah hukum yang berlaku di Indonesia\n4. PIH merupakan mata kuliah dasar (basisleervak)",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "PIH bukan ilmu yang berdiri sendiri, bersifat teoretis-analitis, dan objeknya ilmu hukum yang universal. Hanya nomor 4 yang benar."
+    },
+    {
+      "question": "Pernyataan yang benar tentang aliran Legisme adalah...\n1. Tujuan utamanya adalah mewujudkan keadilan\n2. Hakim dipandang sebagai corong undang-undang\n3. Kebiasaan selalu berlaku sebagai hukum tanpa syarat\n4. Timbul sebagai reaksi terhadap paham absolutisme",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Legisme mengutamakan kepastian hukum, dan kebiasaan hanya berlaku jika secara tegas dinyatakan oleh UU."
+    },
+    {
+      "question": "Pernyataan yang benar tentang derogasi antarkaidah adalah...\n1. Kaidah izin menderogasi kaidah larangan\n2. Kaidah izin menderogasi kaidah perintah\n3. Kaidah dispensasi menderogasi kaidah perintah\n4. Kaidah dispensasi menderogasi kaidah larangan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Izin mengesampingkan larangan, dispensasi mengesampingkan perintah."
+    },
+    {
+      "question": "Pernyataan yang benar tentang tujuan pendidikan menurut modul adalah...\n1. Pendidikan hanya membina pribadi tanpa unsur pengajaran\n2. Kegiatan pendidikan dilakukan tanpa berdasarkan kurikulum\n3. Pendidikan tinggi merupakan jenjang sebelum sekolah menengah\n4. Pengajaran bertujuan menumbuhkan kemampuan bekerja di masyarakat",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Tujuan pendidikan mencakup pembinaan pribadi dan pengajaran, dilakukan berdasarkan kurikulum, dan pendidikan tinggi adalah kelanjutan SMA."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Rechtschool adalah...\n1. Didirikan pada tahun 1924\n2. Didirikan oleh Gubernur Jenderal J.B. van Heutsz\n3. Sejak awal berbentuk perguruan tinggi\n4. Bertujuan menghasilkan hakim Landraad",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Rechtschool didirikan tahun 1909 oleh van Heutsz, awalnya sekolah menengah kejuruan, dan bertujuan menghasilkan hakim Landraad. Tahun 1924 adalah awal pendidikan tinggi hukum."
+    },
+    {
+      "question": "Menjawab pertanyaan \"Quid iuris?\", yang berlaku sebagai hukum antara lain...\n1. Peraturan perundang-undangan\n2. Putusan pengadilan yang dibuat hakim\n3. Kebiasaan\n4. Kehendak pribadi penguasa",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Yang berlaku sebagai hukum: perundang-undangan, putusan pengadilan, dan kebiasaan."
+    },
+    {
+      "question": "Pernyataan yang benar tentang pembuktian sikap batin adalah...\n1. Sikap batin harus diobjektifkan\n2. Sikap batin harus dinormatifkan\n3. Diobjektifkan berarti disimpulkan dari fakta perbuatan dan akibat\n4. Dinormatifkan berarti diukur menurut keyakinan pribadi hakim",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Dinormatifkan berarti diukur dengan ukuran menurut orang pada umumnya, bukan keyakinan pribadi hakim."
+    },
+    {
+      "question": "Pernyataan yang benar tentang klasifikasi kaidah menurut J.H.P. Bellefroid adalah...\n1. Kaidah dibagi ke dalam dua golongan besar\n2. Kaidah abadi disebut eeuwige wetten\n3. Kaidah positif termasuk kaidah yang tidak abadi\n4. Kaidah agama termasuk ke dalam kaidah abadi",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Kaidah agama (kaidah ketuhanan positif) termasuk kaidah positif, bagian dari kaidah tidak abadi."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hubungan antarkaidah adalah...\n1. Saling melemahkan terjadi bila kaidah memakai ukuran yang sama\n2. Larangan membunuh dalam agama dan hukum bersifat saling melemahkan\n3. UU yang tidak berlandaskan kaidah bukan hukum akan bertahan lama\n4. Saling melemahkan terjadi bila yang diwajibkan satu kaidah dilarang kaidah lain",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Ukuran yang sama dan larangan membunuh adalah contoh saling menguatkan; UU tanpa landasan kaidah bukan hukum tidak akan bertahan lama."
+    },
+    {
+      "question": "Orang yang memiliki kesadaran hukum memahami bahwa...\n1. Ada kaidah yang mengatur perilakunya\n2. Kepatuhan pada kaidah berkaitan dengan ketertiban dan keadilan\n3. Kepatuhan pada kaidah itu adil, perlu, dan sesuai martabat manusia\n4. Tuntutan kepatuhan berakar pada penghormatan martabat manusia",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya termasuk pemahaman orang yang memiliki kesadaran hukum."
+    },
+    {
+      "question": "Yang termasuk jenis keadilan dalam Teori Pengayoman adalah...\n1. Keadilan distributif\n2. Keadilan komutatif\n3. Keadilan vindikatif\n4. Keadilan protektif",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Teori Pengayoman mencakup keadilan distributif, komutatif, vindikatif, dan protektif."
+    },
+    {
+      "question": "Pernyataan yang benar tentang perlindungan dalam Teori Pengayoman adalah...\n1. Melindungi secara aktif berarti mencegah tindakan sewenang-wenang\n2. Kedamaian sejati terwujud jika hak bergantung pada kekuatan\n3. Keadilan protektif berarti ganjaran sesuai kesalahan\n4. Melindungi secara pasif berarti mencegah tindakan sewenang-wenang",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Mencegah kesewenang-wenangan = perlindungan pasif; kedamaian sejati justru saat hak tidak bergantung pada kekuatan; ganjaran sesuai kesalahan = keadilan vindikatif."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hubungan PIH dan PHI adalah...\n1. PIH menguraikan ilmu hukum yang bersifat universal\n2. PHI bersifat teoretis-analitis\n3. PIH merupakan pendahuluan untuk mempelajari PHI\n4. Objek PIH adalah hukum yang berlaku di Indonesia",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "PHI bersifat deskriptif-analitis, dan hukum yang berlaku di Indonesia adalah objek PHI."
+    },
+    {
+      "question": "Menurut W.L.G. Lemaire, yang termasuk golongan kaidah bukan kaidah hukum adalah...\n1. Kaidah agama\n2. Kaidah budi nurani\n3. Kaidah moral positif\n4. Kaidah kesopanan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Bukan kaidah hukum menurut Lemaire: agama, budi nurani, moral positif, kesopanan, dan kebiasaan."
+    },
+    {
+      "question": "Pernyataan yang benar tentang pembagian kaidah menurut J. van Kan adalah...\n1. Van Kan membagi kaidah ke dalam dua golongan besar\n2. Kaidah agama menurut van Kan digariskan oleh suara hati\n3. Kaidah kesusilaan menurut van Kan mengatur cara bergaul sehari-hari\n4. Kaidah hukum termasuk salah satu dari empat kelompok kaidah",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Van Kan membagi 4 kelompok (agama, kesusilaan, kesopanan, hukum). Dua golongan besar adalah pembagian Bellefroid; suara hati = kesusilaan; cara bergaul = kesopanan."
+    },
+    {
+      "question": "Hubungan saling menguatkan antara kaidah hukum dan kaidah bukan hukum terjadi apabila...\n1. Kedua kaidah mengatur masalah yang sama dengan ukuran yang sama\n2. Satu kaidah mewajibkan orang mematuhi kaidah yang lain\n3. Satu kaidah menggunakan ukuran yang berlaku di kaidah lain\n4. Misalnya larangan mencuri dalam kaidah agama, hukum, dan kesusilaan",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Ketiga bentuk saling menguatkan beserta contoh larangan mencuri semuanya benar."
+    },
+    {
+      "question": "Pernyataan yang benar tentang rumusan pasal KUHP dalam modul adalah...\n1. Pasal 338 KUHP mensyaratkan sikap batin kealpaan\n2. Pasal 359 KUHP mensyaratkan pelaku menghendaki kematian\n3. Pasal 351 ayat (3) KUHP diancam pidana maksimum 15 tahun\n4. Ketiga pasal merumuskan perbuatan dan akibat yang sama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Pasal 338 = sengaja; Pasal 359 = kealpaan; Pasal 351 ayat (3) maksimum 7 tahun. Ketiganya sama perbuatan dan akibatnya."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kaidah kesopanan dan kaidah hukum adalah...\n1. Tujuan kaidah kesopanan berbeda dari kaidah hukum\n2. Pelaksanaan kaidah kesopanan diserahkan pada individu\n3. Sanksi kaidah kesopanan diterapkan secara terorganisir\n4. Penegakan kaidah hukum melibatkan lembaga berwenang",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Keduanya sama-sama bertujuan mewujudkan ketertiban, dan sanksi kaidah kesopanan tidak terorganisir."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hukum kebiasaan adalah...\n1. Unsur materiilnya tampak dari perulangan perilaku\n2. Kebiasaan biasa juga memiliki unsur kesadaran hukum\n3. Unsur psikologisnya berupa keyakinan akan adanya kewajiban\n4. Hukum kebiasaan merupakan kaidah tertulis",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Kesadaran hukum hanya ada pada hukum kebiasaan, bukan kebiasaan biasa; keduanya kaidah tidak tertulis."
+    },
+    {
+      "question": "Yang termasuk kaidah perilaku jika ditinjau dari isinya adalah...\n1. Kaidah kewenangan\n2. Kaidah sanksi\n3. Kaidah kesopanan\n4. Kaidah dispensasi",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Isi kaidah perilaku: larangan, perintah, izin, dispensasi. Kewenangan dan sanksi adalah klasifikasi menurut fungsi."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kaidah kesusilaan adalah...\n1. Sasaran utamanya adalah sikap batin seseorang\n2. Sanksinya ditetapkan secara terorganisir\n3. Menuntut perilaku demi kepentingan pelaku sendiri\n4. Bertujuan melindungi kepentingan orang lain",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Sanksi kesusilaan tidak terorganisir; melindungi kepentingan orang lain adalah ciri kaidah hukum."
+    },
+    {
+      "question": "Yang termasuk target capaian lulusan FH UNPAR adalah...\n1. Sarana pengabdi kepentingan umum\n2. Sarana pengendalian masyarakat\n3. Sarana pembaharuan masyarakat\n4. Sarana pendidikan masyarakat",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya adalah target capaian lulusan FH UNPAR."
+    },
+    {
+      "question": "Yang ingin diwujudkan oleh Teori Pengayoman adalah...\n1. Ketertiban dan keteraturan\n2. Kedamaian sejati\n3. Kesejahteraan dan keadilan sosial\n4. Kekuasaan mutlak penguasa",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Teori Pengayoman juga mewujudkan keadilan serta pemeliharaan dan pengembangan akhlak, bukan kekuasaan mutlak."
+    },
+    {
+      "question": "Pernyataan yang benar tentang golongan pendapat mengenai kesadaran hukum adalah...\n1. Logemann termasuk golongan pertama\n2. Menurut Capitant, kebiasaan dan kesadaran hukum muncul bersamaan\n3. Menurut golongan kedua, kebiasaan adalah sumber timbulnya hukum\n4. Menurut golongan pertama, kebiasaan muncul lebih dulu lalu bersifat obligatoir",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Logemann adalah golongan kedua (muncul bersamaan; kebiasaan hanya ciri hukum). Capitant termasuk golongan pertama."
+    },
+    {
+      "question": "Pernyataan yang benar tentang keadilan menurut Aristoteles adalah...\n1. Keadilan distributif memberi bagian sesuai jasanya\n2. Keadilan komutatif memberi bagian sesuai jasanya\n3. Keadilan komutatif memberi bagian sama banyak tanpa melihat jasa\n4. Keadilan distributif memberi bagian sama banyak tanpa melihat jasa",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Distributif = kesebandingan (sesuai jasa); komutatif = persamaan (sama banyak)."
+    },
+    {
+      "question": "Pernyataan yang benar tentang definisi hukum menurut para tokoh adalah...\n1. Cicero: hukum adalah akal tertinggi yang ditanamkan oleh alam\n2. Hobbes: hukum adalah ramalan tentang putusan pengadilan\n3. Holmes Jr.: hukum adalah ramalan tentang putusan pengadilan\n4. Cicero: hukum adalah perintah dari orang yang berkuasa",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Ramalan putusan pengadilan adalah definisi Holmes Jr.; perintah orang yang berkuasa adalah definisi Hobbes."
+    },
+    {
+      "question": "Pernyataan yang benar tentang Teori Pengayoman adalah...\n1. Hanya mengutamakan kepastian hukum\n2. Dikemukakan Aristoteles dalam buku Rhetorica\n3. Melindungi secara pasif berarti menciptakan kondisi yang manusiawi\n4. Merupakan kombinasi Teori Etis dan Teori Utilitas",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 3,
+      "explanation": "Teori Pengayoman menyeimbangkan keadilan dan kepastian; menciptakan kondisi manusiawi adalah perlindungan aktif. Rhetorica terkait Teori Etis."
+    },
+    {
+      "question": "Ditinjau dari fungsinya, kaidah terdiri atas...\n1. Kaidah perilaku\n2. Kaidah kewenangan\n3. Kaidah sanksi\n4. Kaidah dispensasi",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Menurut fungsinya: kaidah perilaku, kewenangan, dan sanksi. Dispensasi termasuk pembagian menurut isi."
+    },
+    {
+      "question": "Ditinjau dari isinya, kaidah perilaku terdiri atas...\n1. Larangan\n2. Perintah\n3. Izin\n4. Dispensasi",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Kaidah perilaku menurut isinya terdiri dari larangan, perintah, izin, dan dispensasi."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kelemahan Teori Etis dan Teori Utilitas adalah...\n1. Mengabaikan kepastian hukum tidak memengaruhi ketertiban\n2. Keduanya terlalu berat sebelah antara keadilan dan kepastian\n3. Mengabaikan keadilan membuat hukum terpisah dari kekuasaan\n4. Keadilan hanya dapat diwujudkan dengan baik dalam ketertiban",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Mengabaikan kepastian mengganggu ketertiban, dan mengabaikan keadilan membuat hukum identik dengan kekuasaan."
+    },
+    {
+      "question": "Pernyataan yang benar tentang kaidah bukan hukum menurut Lemaire adalah...\n1. Kaidah moral positif adalah kesusilaan yang dipatuhi dan dihayati\n2. Kaidah kebiasaan adalah kaidah untuk menilai baik dan buruk\n3. Kaidah kesopanan berkaitan dengan tata krama dan keluwesan\n4. Kaidah budi nurani adalah tuntutan melakukan hal yang sama",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 1,
+      "explanation": "Menilai baik/buruk = budi nurani; tuntutan melakukan hal yang sama = kebiasaan."
+    },
+    {
+      "question": "Menurut Soediman Kartohadiprodjo, yang termasuk kaidah sosial adalah...\n1. Kaidah agama\n2. Kaidah kesopanan\n3. Kaidah yang datang dari luar pergaulan hidup\n4. Kaidah hukum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Kaidah sosial: kesopanan, kesusilaan, hukum. Kaidah agama datang dari luar pergaulan hidup sehingga bukan kaidah sosial."
+    },
+    {
+      "question": "Pernyataan yang benar tentang faktor ketaatan pada norma adalah...\n1. Sanksi merupakan faktor internal\n2. Sanksi merupakan faktor eksternal\n3. Kesadaran hukum merupakan faktor eksternal\n4. Kesadaran hukum merupakan faktor internal",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Sanksi datang dari luar (eksternal), kesadaran hukum datang dari dalam diri (internal)."
+    },
+    {
+      "question": "Pernyataan yang benar tentang hukum positif adalah...\n1. Ius constitutum adalah hukum positif\n2. Ius constituendum adalah hukum yang dicita-citakan\n3. Hukum positif Indonesia juga berlaku bagi orang Indonesia di luar negeri\n4. Ius constituendum adalah hukum yang berlaku sekarang",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Ius constituendum adalah hukum yang dicita-citakan di masa depan, bukan yang berlaku sekarang."
+    },
+    {
+      "question": "Yang termasuk fungsi kaidah atau norma menurut modul adalah...\n1. Pemusatan kekuasaan\n2. Keadilan\n3. Penghukuman\n4. Ketertiban",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Fungsi kaidah: kemanfaatan, keadilan, dan ketertiban."
+    },
+    {
+      "question": "Yang termasuk Tridharma Perguruan Tinggi adalah...\n1. Pendidikan\n2. Penelitian\n3. Pengabdian kepada masyarakat\n4. Penegakan hukum",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 0,
+      "explanation": "Tridharma: pendidikan, penelitian, dan pengabdian kepada masyarakat. Penegakan hukum tidak termasuk."
+    },
+    {
+      "question": "Pernyataan yang benar tentang pendidikan tinggi hukum di Indonesia adalah...\n1. Sudah ada sejak tahun 1909\n2. Baru ada sejak tahun 1924\n3. Kurikulumnya sejak awal sepenuhnya berkarakter nasional\n4. Kurikulumnya awalnya dipengaruhi pola ajar Rechtschool",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 2,
+      "explanation": "Tahun 1909 adalah berdirinya Rechtschool (sekolah menengah); kurikulum awal masih dipengaruhi Rechtschool."
+    },
+    {
+      "question": "Untuk mengemban profesi hukum dengan baik, diperlukan...\n1. Pengetahuan tentang hukum\n2. Kemampuan berpikir tajam, cepat, dan lincah\n3. Kecermatan dan ketekunan\n4. Komitmen moral",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Profesi hukum menuntut pengetahuan hukum, intelektual tinggi (tajam, cepat, lincah, cermat, tekun), dan komitmen moral."
+    },
+    {
+      "question": "Yang termasuk kriteria pelanggaran hukum adalah...\n1. Melanggar undang-undang\n2. Melanggar hak orang lain\n3. Melanggar kesusilaan\n4. Melanggar moral positif",
+      "options": [
+        "Nomor 1, 2, dan 3 benar",
+        "Nomor 1 dan 3",
+        "Nomor 2 dan 4",
+        "Nomor 4 saja",
+        "Semua benar"
+      ],
+      "answer": 4,
+      "explanation": "Keempatnya adalah kriteria pelanggaran hukum menurut modul."
+    }
+  ]
+}

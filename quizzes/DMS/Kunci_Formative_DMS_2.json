@@ -1,0 +1,479 @@
+{
+  "title": "Paket Soal Formative DMS 2 - Kunci Jawaban",
+  "description": "40 soal Paket Formative DMS 2 beserta kunci dan pembahasan.",
+  "questions": [
+    {
+      "question": "Medical students are studying pharmacology about acetaminophen paracetamol.Which of the following is the correct statement about this drug?",
+      "options": [
+        "It is safe for pregnant woman",
+        "It has anti-inflammation effect which is equal to ibuprofen",
+        "It should be given carefully for patient with peptic ulcer",
+        "The drug-bound protein is high",
+        "It selectively inhibits cyclooxygenase enzyme"
+      ],
+      "answer": 0,
+      "explanation": "Paracetamol aman untuk ibu hamil pada dosis terapi. Efek anti-inflamasinya lemah, aman untuk peptic ulcer, protein binding rendah, dan tidak selektif COX."
+    },
+    {
+      "question": "A 1-year-old girl suffered rash on her cheeks since 2 weeks ago. She looks uncomfortable and has difficulties, with no history of contact with any irritant or allergen. Her father has allergic rhinitis and her grandfather has asthma. Which of the following diagnoses is most likely?",
+      "options": [
+        "Nummular dermatitis",
+        "Atopic dermatitis",
+        "Infectious eczematoid dermatitis",
+        "Autosensitization dermatitis",
+        "Irritant dermatitis"
+      ],
+      "answer": 1,
+      "explanation": "Bayi dengan ruam di pipi + riwayat atopi keluarga (allergic rhinitis, asthma) = atopic dermatitis."
+    },
+    {
+      "question": "A 15-year-old female came with complaints of some pustules and comedo on her face, neck and upper arm. This complaint will be worsening just about her period time. There is no fever and itching. Which of the following is the most likely mechanism of this disease?",
+      "options": [
+        "It is a chronic inflammation and hypertrophy of sebaceous gland",
+        "It is always correlated with foods and psychological factor",
+        "It is a hyperplasia soft tissue of the skin",
+        "It is an inflammatory disease of the pilosebaceous follicles",
+        "It is a cell type mediated hypersensitivity reaction"
+      ],
+      "answer": 3,
+      "explanation": "Acne vulgaris adalah penyakit inflamasi pilosebaceous follicle, memburuk menjelang menstruasi (pengaruh hormon)."
+    },
+    {
+      "question": "A woman in her 50s comes to the surgical clinic with the chief complaints of a lump in the right arm that has grown in the last 6 months. After physical examination, the lesion was found in the form of a lump measuring 6cm in diameter forming like a white cauliflower gray and easily bleed. Biopsy was performed on the lesion with a microscopic picture of atypic tumor cells with cytoplasm containing keratin. Which is the most appropriate diagnosis for lesions in these patients?",
+      "options": [
+        "Neuroencrine carcinoma",
+        "Squamous cell carcinoma",
+        "Porocarcinoma",
+        "Basal cell carcinoma",
+        "Malignant Melanoma"
+      ],
+      "answer": 1,
+      "explanation": "Massa cauliflower yang mudah berdarah dengan sel atipik berisi keratin = squamous cell carcinoma."
+    },
+    {
+      "question": "A 35 year old woman stationary in her car at a roundabout is shunted in the rear of her car by another vehicle. She is taken to the local emergency department where she is assessed and found to have sustained no bony fracture or serious internal injury. X-rays of her cervical spine are normal. She is discharged with paracetamol tablets for mild aching in her neck. What is the most likely pathological basis of her pain?",
+      "options": [
+        "Vertebral microfractures",
+        "Soft tissue inflammation",
+        "Psychosomatic pain",
+        "Neuropathic pain",
+        "Cervical cord oedema"
+      ],
+      "answer": 1,
+      "explanation": "Whiplash injury dengan X-ray normal: nyeri berasal dari soft tissue inflammation (otot/ligamen leher)."
+    },
+    {
+      "question": "A 69 year old man presents with progressive erosion of articular cartilage, followed by subchondral sclerosis and formation of osteophytes, occurring in the joints of the hands as well as the vertebrae for over a decade. On examination the joints were tender but not swollen. What is the most likely explanation for this condition:",
+      "options": [
+        "Lyme disease",
+        "Osteoarthritis",
+        "Osteoporosis",
+        "Rheumatoid arthritis",
+        "Remote fractures"
+      ],
+      "answer": 1,
+      "explanation": "Erosi cartilage, lalu subchondral sclerosis dan osteophyte di tangan dan vertebra, tidak bengkak = osteoarthritis."
+    },
+    {
+      "question": "A 68 year old woman visits her GP with pain in her hips and knees over the last few months. She is an active woman who has become frustrated because the pain restricts her exercise. Paracetamol gives some relief. Examination shows reduced movements of the hips and moderate effusions of both knees.What is the most likely diagnosis?",
+      "options": [
+        "Polymyalgia rheumatica",
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Gout",
+        "Fibromyalgia"
+      ],
+      "answer": 2,
+      "explanation": "Lansia aktif dengan nyeri hips/knees, membaik dengan paracetamol, ROM berkurang, efusi lutut = osteoarthritis."
+    },
+    {
+      "question": "X drug is one of the Non Steroid Antiinflammation group, which is inhibit cyclooxygenase enzyme and arachidonic acid. Which of the following is the most possible for drug X:",
+      "options": [
+        "Ibuprofen",
+        "Prednison",
+        "Diclofenac",
+        "Ketorolac",
+        "Piroxicam"
+      ],
+      "answer": 2,
+      "explanation": "Diclofenac menghambat COX dan juga menurunkan ketersediaan arachidonic acid bebas (mekanisme ganda). Prednisone bukan NSAID."
+    },
+    {
+      "question": "Jim Shaw, a 19 year old medical student has a fractured radius. He is concerned that his healed fracture wont be strong enough for football. You tell him that he has particular cells that make osteoid and promote mineralisation in fracture healing leading to bone strength. These cells are:",
+      "options": [
+        "Osteoblasts",
+        "Osteocytes",
+        "Chrondocytes",
+        "Chrondoblasts",
+        "Osteoclasts"
+      ],
+      "answer": 0,
+      "explanation": "Osteoblast membuat osteoid dan memineralisasinya, sehingga tulang yang sembuh menjadi kuat."
+    },
+    {
+      "question": "Mrs. Backy, 56 years old woman went to orthopedic OPD. She had low back pain and the doctor diagnosed her as osteoporosis of her vertebral bone. During the development of vertebral column, cells of schleromote surround the spinal cord and notochord. The notochord will regress and form:",
+      "options": [
+        "Vertebral body",
+        "Annulus fibrosus",
+        "Nucleus pulposus",
+        "Ribs",
+        "Vertebral arch"
+      ],
+      "answer": 2,
+      "explanation": "Notochord mengalami regresi dan menetap sebagai nucleus pulposus."
+    },
+    {
+      "question": "A 22-year-old male has had persistent low back pain for 4 years. It does not seem to be related to anything in particular, and he is now concerned because his right eye is red and painful and the vision is decreasing. Which of the following is your probable diagnosis of his systemic disease?",
+      "options": [
+        "Ankylosing spondylitis.",
+        "Rheumatoid arthritis.",
+        "Sarcoidosis.",
+        "Tuberculosis of the spine",
+        "Reiters syndrome"
+      ],
+      "answer": 0,
+      "explanation": "Pria muda dengan low back pain kronik + anterior uveitis = ankylosing spondylitis."
+    },
+    {
+      "question": "A 52-year-old woman with a history of eczema and heavy alcohol use begins taking ibuprofen to control hip and knee pain due to osteoarthritis. Over the course of 6 month, as the pain worsens, she increases her dosage to a high level (600 mg four times daily). What toxicity is most likely occurring in this patient?",
+      "options": [
+        "Gastric ulceration",
+        "Necrotizing fasciitis",
+        "Confusion and ataxia",
+        "Blurred vision",
+        "Abnormal heart rhythms"
+      ],
+      "answer": 0,
+      "explanation": "NSAID dosis tinggi jangka panjang + alkohol meningkatkan risiko gastric ulceration."
+    },
+    {
+      "question": "A teenage boy had a burn injury on his lower right extremity and a scar formed after the wound healed. The boy complained that there was no hair growth in the scar area. In the above case, which skin accessory that was injured?",
+      "options": [
+        "Stratum lucidum",
+        "Stratum reticulare",
+        "Stratum corneum",
+        "Epidermis"
+      ],
+      "answer": 1,
+      "explanation": "Hair follicle (adneksa kulit) tertanam di dermis bagian dalam (stratum reticulare). Scar tanpa rambut berarti lapisan ini ikut rusak."
+    },
+    {
+      "question": "A 38-year-old man complains of weakness, noted especially on getting up from chairs and climbing stairs. The problem has been present for at least 10 years and has been very slowly progressive. During the past two years, he noted weakness of the arms, particularly on attempting to lift and hold objects over his head. There are no other complaints. He states that several members of his family have a similar problem. On examination there is weakness and wasting of the muscles of the pelvic girdle and weakness of the shoulder girdle. The reflexes are hyperactive and equal, and the sensory examination is normal. The weakness is secondary to involvement of:",
+      "options": [
+        "Peripheral nerves.",
+        "Muscles.",
+        "Spinal cord",
+        "Myoneural junctions."
+      ],
+      "answer": 1,
+      "explanation": "Kelemahan pelvic dan shoulder girdle dengan wasting, progresif lambat, riwayat keluarga, sensori normal = muscular dystrophy (limb-girdle), yaitu kelainan di muscles."
+    },
+    {
+      "question": "You are a GP. A 45 year old lady presents to your clinic with a history of symmetrical joint stiffness in the mornings, particularly involving the fingers, wrists and knees. Examination of the joints showed some minor swelling of the finger joints and tenderness of the wrist. Radiology of the hands showed erosions at the margins of the articular surfaces. Which of the following would be the most likely diagnosis?",
+      "options": [
+        "Systemic lupus erythematosis",
+        "Rheumatoid arthritis",
+        "Reiters disease",
+        "Pyrophosphate arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": 1,
+      "explanation": "Morning stiffness simetris di jari, wrist, lutut + erosi marginal = rheumatoid arthritis."
+    },
+    {
+      "question": "A hypothetical patient has gout associated with accelerated purine biosynthesis de novo. Uric acid excretion decreases when a mixture of uracil and nicotinamide is administered. What probably is the cause of the accelerated purine biosynthesis de novo?",
+      "options": [
+        "Increased availability of PP-ribose-P.",
+        "Increased availability of glycine",
+        "Decreased feedback inhibition by UTP and NAD",
+        "Increased availability of glutamine",
+        "Increased availability of tetrahydrofolate coenzymes."
+      ],
+      "answer": 0,
+      "explanation": "Uracil dan nicotinamide memakai PRPP; ekskresi uric acid turun menandakan penyebabnya ketersediaan PRPP yang berlebih."
+    },
+    {
+      "question": "An 86 year old woman falls while going to the bathroom at night. On examination in the Emergency Department, she is lying flat with her right leg held in external rotation and it is shortened compared to the other leg. Any movement of the right leg causes extreme pain. The diagnosis most likely to explain her symptoms and signs is:",
+      "options": [
+        "Dislocation right hip",
+        "Fracture lumbar vertebrae",
+        "Fractured sacrum",
+        "Fracture symphysis pubis",
+        "Fractured right neck of femur"
+      ],
+      "answer": 4,
+      "explanation": "Lansia jatuh, tungkai shortened + externally rotated = fractured neck of femur."
+    },
+    {
+      "question": "A 40 year old man awakens with very severe pain in the right first metatarsophalangeal joint. Examination of an aspirate from the joint shows needle like negatively charged birefringent crystals. The MOST APPROPRIATE therapy for this attack is:",
+      "options": [
+        "Colchicine 1 mg every hour for 4-6 doses.",
+        "Phenylbutazone in therapeutic doses.",
+        "Allopurinol 300 mg and colchicine 1.5 mg daily.",
+        "Indomethacin 200-300 mg daily in divided doses.",
+        "Aspirin 4-6 gm daily in divided doses"
+      ],
+      "answer": 3,
+      "explanation": "Gout akut: NSAID dosis penuh (indomethacin). Colchicine tiap jam menyebabkan toksisitas GI; allopurinol tidak dimulai saat serangan akut; aspirin dapat mengubah kadar urate."
+    },
+    {
+      "question": "A 38-year-old teacher presents with pain and swelling of his left ankle for 2 days. He is a moderate beer drinker. He explains that his joints are often painful and stiff in the mornings, but this passes off within a few minutes. On examination he is moderately overweight and is afebrile. He is in severe pain; the ankle is swollen, hot and tender to move. After the acute pain has settled, he is prescribed allopurinol. What is the mechanism of action of allopurinol?",
+      "options": [
+        "Decreased production of uric acid",
+        "Increased biliary secretion of uric acid",
+        "Increased metabolism of uric acid",
+        "Increased renal excretion of uric acid",
+        "Blockade of uric acid on the synovium"
+      ],
+      "answer": 0,
+      "explanation": "Allopurinol = xanthine oxidase inhibitor, sehingga produksi uric acid turun."
+    },
+    {
+      "question": "An 80-year-old lady complains of joint pain over the knees and hands. Investigations show an ANA value of 1:80, and the RF is negative. The most likely cause is:",
+      "options": [
+        "Systemic lupus erythematosus.",
+        "Gout.",
+        "Polymyalgia rheumatic.",
+        "Osteoarthritis.",
+        "Sero-negative rheumatoid arthritis."
+      ],
+      "answer": 3,
+      "explanation": "Pada lansia, ANA titer rendah (1:80) tidak bermakna; nyeri lutut dan tangan paling mungkin osteoarthritis."
+    },
+    {
+      "question": "A 38-year-old teacher presents with pain and swelling of his left ankle for 2 days. He is a moderate beer drinker. He explains that his joints are often painful and stiff in the mornings, but this passes off within a few minutes. On examination he is moderately overweight and is afebrile. He is in severe pain; the ankle is swollen, hot and tender to move. What is the most likely diagnosis?",
+      "options": [
+        "Septic arthritis",
+        "Gout",
+        "Psoriatic arthropathy",
+        "Rheumatoid arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": 1,
+      "explanation": "Pria, peminum beer, overweight, monoarthritis akut ankle yang panas dan afebris = gout."
+    },
+    {
+      "question": "A 69-year-old woman was diagnosed with bone metastases. Recently she had developed severe pain and was hospitalised for further treatment. Which of the following analgesics is most appropriate for managing this patient?",
+      "options": [
+        "Morphine",
+        "Codeine",
+        "Aspirin",
+        "Diclofenac"
+      ],
+      "answer": 0,
+      "explanation": "Nyeri berat akibat bone metastases termasuk step 3 WHO analgesic ladder, jadi pilih opioid kuat (morphine)."
+    },
+    {
+      "question": "A 6-year-old child gives a one-day history of leg pain and fever. Walking does not aggravate her pain. Physical examination shows tenderness over the upper tibia. There is no pain on passive joint movement, and there is a full range of movement in the knee. X-ray of the tibia is normal and the white blood count is 18 x 109/L. At this stage it is decided to admit the child to hospital. What is the most likely diagnosis?",
+      "options": [
+        "Osgood-Schlatter disease",
+        "Osteomyelitis",
+        "Osteosarcoma",
+        "Septic arthritis",
+        "Acute leukaemia"
+      ],
+      "answer": 1,
+      "explanation": "Anak dengan demam, nyeri tekan tibia proksimal, sendi bebas, X-ray awal normal, leukositosis = acute osteomyelitis."
+    },
+    {
+      "question": "A 25 year old skateboarder suffers a closed injury to his wrist when he falls landing on his outstretched hand. X- rays reveal a slightly displaced fracture through the waist of the scaphoid and he is placed in a plaster for a total of 3 months. After removal of the plaster and mobilisation, he continues to complain of pain and stiffness in his wrist despite physiotherapy. What is the most likely complication?",
+      "options": [
+        "Avascular necrosis",
+        "Reflex sympathetic dystrophy",
+        "Non-union",
+        "Secondary osteoarthritis",
+        "Nerve damage"
+      ],
+      "answer": 0,
+      "explanation": "Fraktur waist scaphoid yang displaced berisiko avascular necrosis pada proximal pole (suplai darah retrograde). Non-union juga mungkin terjadi."
+    },
+    {
+      "question": "A 6-year-old boy fell from a tree sustaining a displaced fracture of the lateral humeral condyle. The treatment of choice is:",
+      "options": [
+        "Closed reduction and a long arm cast.",
+        "Closed reduction and percutaneous pin fixation.",
+        "Open reduction and internal fixation.",
+        "Skeletal traction.",
+        "No reduction, but encourage early active range of motion."
+      ],
+      "answer": 2,
+      "explanation": "Fraktur lateral humeral condyle yang displaced bersifat intra-artikular dan tidak stabil, sehingga perlu open reduction and internal fixation."
+    },
+    {
+      "question": "Following a fight a victim is noted to be bleeding profusely from a knife stab wound in the anterior part of the mid-thigh. You are likely to help him most by:",
+      "options": [
+        "Applying direct pressure to bleeding site",
+        "Applying a tourniquet above the stab wound",
+        "Applying pressure to the femoral artery just below the inguinal ligament.",
+        "Elevating his injured lower extremity.",
+        "Applying a hemostat to the bleeding vessel."
+      ],
+      "answer": 0,
+      "explanation": "Perdarahan dari luka tusuk: tindakan pertama dan paling efektif adalah direct pressure pada lokasi perdarahan."
+    },
+    {
+      "question": "You are working in the pathology lab looking at sections of bone from the cortex of the distal femur which was removed during a knee replacement. You see a structure that has highly organized concentric lamellae of bone encircling a central canal with a capillary in it. How were these structures formed?",
+      "options": [
+        "By endochondral ossification",
+        "By intramembranous bone formation",
+        "By bone remodeling",
+        "By appositional growth beneath the periosteum"
+      ],
+      "answer": 2,
+      "explanation": "Osteon (Haversian system) terbentuk melalui bone remodeling."
+    },
+    {
+      "question": "When skeletal muscles are engaged in intense work, the level of ATP may decrease. The relationship between adenine nucleotide levels which can then lead to enhanced rates of glycolysis is:",
+      "options": [
+        "ADP levels decrease in proportion to those of ATP.",
+        "AMP levels increase to a greater extent than ATP decreases.",
+        "AMP levels decrease in proportion to those of ATP.",
+        "AMP levels decrease more than ATP levels.",
+        "ADP levels decrease more than ATP levels."
+      ],
+      "answer": 1,
+      "explanation": "Melalui adenylate kinase, AMP naik jauh lebih besar dibanding penurunan ATP; AMP mengaktifkan PFK-1 sehingga glycolysis meningkat."
+    },
+    {
+      "question": "A worker comes to you for an opinion regarding the work relatedness of her tendonitis. You conclude that her problem is not work related. You should:",
+      "options": [
+        "Submit a physicians first report to workers compensation.",
+        "Document your findings in a letter to the Workers Compensation Board.",
+        "Call her supervisor to report possible fraud.",
+        "Contact the employer.",
+        "Advise the worker of your findings and reasons and document your opinion in the medical record."
+      ],
+      "answer": 4,
+      "explanation": "Jika keluhan bukan akibat kerja, jelaskan temuan dan alasannya kepada pekerja lalu dokumentasikan di rekam medis."
+    },
+    {
+      "question": "A 46 year old woman presents to her GP with a 3 month history of pain and stiffness in multiple joints. It takes her 2 hours in the morning before her joints loosen up. You suspect rheumatoid arthritis. Which distribution of joint involvement would most strongly support your diagnosis?",
+      "options": [
+        "First carpometacarpal and distal interphalangeal joints",
+        "Distal and proximal interphalangeal joint",
+        "Proximal interphalangeal and metacarpophalangeal joints",
+        "Wrists and distal interphalangeal joints"
+      ],
+      "answer": 2,
+      "explanation": "RA khas mengenai PIP dan MCP (DIP biasanya tidak terlibat)."
+    },
+    {
+      "question": "A 50 year old man with hypertension and IHD was admitted for treatment of congestive heart failure. Four days later, he developed sudden onset of painful swelling of his right knee. Clinically he was afebrile with no rashes. The right knee was tender and swollen with mild redness and warmth. The heart failure had improved. How would you confirm this diagnosis?",
+      "options": [
+        "X-ray of the knee",
+        "Joint aspirate cultures and blood cultures",
+        "ANA and anti-DNA",
+        "Joint aspirate for crystals",
+        "Rheumatoid factor"
+      ],
+      "answer": 3,
+      "explanation": "Pasien CHF yang mendapat diuretik lalu monoarthritis akut: konfirmasi gout dengan aspirasi sendi untuk mencari kristal."
+    },
+    {
+      "question": "A patient presents with dislocation of the temporomandibular joint. Spasm of which of the following muscles might be responsible for this condition?",
+      "options": [
+        "Masseter",
+        "Temporalis",
+        "Lateral pterygoid",
+        "Medial pterygoid"
+      ],
+      "answer": 2,
+      "explanation": "Lateral pterygoid menarik condyle mandibula ke anterior; spasmenya dapat menyebabkan dislokasi TMJ."
+    },
+    {
+      "question": "A fracture of the middle third of the shaft of the humerus has been diagnosed. Damage to the radial nerve is suspected. If this is so, the patient will probably be unable to:",
+      "options": [
+        "Oppose the thumb of the middle finger.",
+        "Extend the wrist against gravity.",
+        "Feel a pinprick on the lateral side of the forearm.",
+        "Contract the triceps muscle"
+      ],
+      "answer": 1,
+      "explanation": "Cedera radial nerve di mid-shaft humerus menyebabkan wrist drop (tidak bisa extend wrist melawan gravitasi). Triceps biasanya masih berfungsi."
+    },
+    {
+      "question": "A sixteen-year-old girl who has bat ears wants to have her ears operated to look more beautiful. She feels that she will get more confidence to socialize. What are the moral principles of bioethics in this case?",
+      "options": [
+        "Autonomy",
+        "Quality of Life",
+        "Non-maleficence",
+        "Beneficence",
+        "Justice"
+      ],
+      "answer": 0,
+      "explanation": "Keinginan pasien sendiri untuk operasi estetik demi percaya diri berkaitan dengan prinsip autonomy."
+    },
+    {
+      "question": "A 50 year old man with hypertension and IHD was admitted for treatment of congestive heart failure. Four days later, he developed sudden onset of painful swelling of his right knee. Clinically he was afebrile with no rashes. The right knee was tender and swollen with mild redness and warmth. The heart failure had improved. What is the most likely diagnosis for the right knee symptoms and signs?",
+      "options": [
+        "Acute gout",
+        "Exacerbation of osteoarthritis",
+        "Haemarthrosis",
+        "Septic arthritis",
+        "Reactive arthritis"
+      ],
+      "answer": 0,
+      "explanation": "Diuretik pada CHF menurunkan ekskresi urate dan memicu acute gout (afebris, monoarthritis akut)."
+    },
+    {
+      "question": "A 21 year-old university student is brought to the emergency department by his friends after he sprained his right ankle during a friendly football game. He hops to the examination table and refuses to walk because of the pain in his ankle. The ankle is swollen with an ecchymosis. The anterior joint line is tender and there is lateral malleolar pain. The foot examination is normal. Which one of the following is the best next step in management?",
+      "options": [
+        "Rest, ice, compression, elevation",
+        "Referral to Orthopedic clinic",
+        "X-ray of foot and ankle",
+        "Plaster cast of the ankle",
+        "Joint aspiration"
+      ],
+      "answer": 2,
+      "explanation": "Ottawa ankle rules: tidak bisa menumpu + nyeri malleolus merupakan indikasi X-ray foot and ankle."
+    },
+    {
+      "question": "A 56 year old female attends rheumatology clinic for bilateral knee pain that has progressed over last 2 years and is worse over last 3 months. Examination reveals pain on full flexion of right knee more than the left but there is no warmth or redness. Which of the following investigations is the most appropriate?",
+      "options": [
+        "X-ray knees",
+        "MRI of the knees",
+        "Rheumatoid factor",
+        "Antinuclear antibodies",
+        "Serum urate levels"
+      ],
+      "answer": 0,
+      "explanation": "Gejala sesuai osteoarthritis lutut; pemeriksaan awal yang tepat adalah X-ray knees."
+    },
+    {
+      "question": "A 22-year-old male has had persistent low back pain for 4 years. It does not seem to be related to anything in particular, and he is now concerned because his right eye is red and painful and the vision is decreasing. Your most important diagnostic test to establish the diagnosis of this disease is:",
+      "options": [
+        "X-ray of the chest.",
+        "HLA typing.",
+        "Chlamydial antibody titers.",
+        "Scalene node biopsy",
+        "HLA-B27 typing"
+      ],
+      "answer": 4,
+      "explanation": "Ankylosing spondylitis berkaitan kuat dengan HLA-B27, jadi HLA-B27 typing lebih spesifik daripada HLA typing umum."
+    },
+    {
+      "question": "Following a traffic accident, a patient is brought with an injured right knee. On examination, movement of the tibia posteriorly in relation to the femur is exaggerated. The MOST LIKELY structure to have been damaged is the:",
+      "options": [
+        "Lateral meniscus",
+        "Posterior cruciate ligament",
+        "Medial collateral ligament",
+        "Medial meniscus",
+        "Anterior cruciate ligament"
+      ],
+      "answer": 1,
+      "explanation": "Tibia bergeser ke posterior berlebihan (posterior drawer) = posterior cruciate ligament rusak."
+    },
+    {
+      "question": "A 20 year old woman came to the clinic with complain of boil in her left lower leg. The pus were gram stained and found gram positive cocci arranged in cluster, with coagulase test negative, and novobiocin susceptibility test showed sensitive. Which of the following mechanisms is best describe for the bacteria to colonize and cause boil?",
+      "options": [
+        "It was introduced to hair follicles by physical barrier disruption, such as scratch",
+        "The bacteria were influence by environmental change and secretes toxin that split hyaluronic acid",
+        "It secretes toxin and enzymes that destruct physical barrier of the skin",
+        "The number of colony were increase, because of environmental change, thus initiate inflammation reaction",
+        "The bacteria metabolizes the triglycerides and initiate inflammation reaction"
+      ],
+      "answer": 0,
+      "explanation": "Coagulase-negative + novobiocin-sensitive = S. epidermidis, flora normal kulit. Bakteri ini masuk ke hair follicle melalui kerusakan barrier fisik (garukan) dan menyebabkan boil."
+    }
+  ]
+}

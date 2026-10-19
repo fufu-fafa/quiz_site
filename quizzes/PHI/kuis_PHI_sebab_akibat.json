@@ -1,0 +1,607 @@
+{
+  "title": "Kuis PHI - Pilihan Ganda Sebab-Akibat",
+  "description": "50 soal sebab-akibat materi PHI.",
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "question": "Penundukan secara sukarela tidak menyebabkan seseorang berpindah golongan penduduk\nSEBAB\nPenundukan secara sukarela hanya dapat dilakukan oleh golongan Eropa terhadap hukum adat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Penundukan sukarela dilakukan golongan Bumiputra dan Timur Asing terhadap hukum perdata Eropa."
+    },
+    {
+      "question": "Menurut Hazairin, hukum adat adalah keseluruhan peraturan yang menjelma dalam keputusan para fungsionaris hukum\nSEBAB\nHazairin memandang hukum adat sebagai endapan kesusilaan yang kebenarannya telah mendapat pengakuan umum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Definisi keputusan fungsionaris hukum dikemukakan oleh Ter Haar."
+    },
+    {
+      "question": "Hukum adat bersifat terbuka terhadap unsur dari luar selama tidak bertentangan dengan jiwanya\nSEBAB\nIstilah adatrecht pertama kali dicatat oleh Snouck Hurgronje berdasarkan penelitiannya di Aceh tahun 1891-1892",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi asal-usul istilah adatrecht tidak menjelaskan sifat terbuka hukum adat."
+    },
+    {
+      "question": "Corak hukum perdata pada masa Indische Staatsregeling bersifat unifikasi\nSEBAB\nPasal 131 IS membuka kemungkinan unifikasi hukum apabila dianggap perlu untuk kepentingan umum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Corak hukum perdata masa IS tetap dualistis; unifikasi hanya dibuka sebagai kemungkinan."
+    },
+    {
+      "question": "VOC dibubarkan oleh Pemerintah Belanda pada 31 Desember 1799\nSEBAB\nVOC memperoleh hak octrooi dari Staten-Generaal, antara lain hak mencetak uang",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pembubaran VOC disebabkan utang, korupsi, dan terbatasnya hukum yang berlaku, bukan hak octrooi."
+    },
+    {
+      "question": "Mahkamah Konstitusi berwenang memutus kasasi atas perkara pidana\nSEBAB\nMahkamah Konstitusi berada di bawah Mahkamah Agung sebagai salah satu lingkungan peradilan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Kasasi adalah wewenang MA; MK adalah lembaga tersendiri dalam kekuasaan kehakiman, bukan di bawah MA."
+    },
+    {
+      "question": "Thomas Stamford Raffles menghapus sistem kerja paksa di Nusantara\nSEBAB\nInggris menyerahkan kembali wilayah Nusantara kepada Belanda berdasarkan Konvensi London 1814",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi penyerahan kembali Nusantara bukan penyebab penghapusan kerja paksa."
+    },
+    {
+      "question": "Sunnah/Hadits merupakan sumber hukum Islam kedua setelah Al-Qur'an\nSEBAB\nIjma' dilakukan oleh para mujtahid setelah Nabi Muhammad SAW wafat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi waktu terjadinya ijma' bukan alasan kedudukan Sunnah sebagai sumber kedua."
+    },
+    {
+      "question": "Mahkamah Agung berwenang menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang\nSEBAB\nSetelah amandemen UUD 1945, Mahkamah Agung merupakan satu-satunya pelaksana kekuasaan kehakiman",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Setelah amandemen, kekuasaan kehakiman dilaksanakan oleh MA beserta peradilan di bawahnya dan oleh Mahkamah Konstitusi."
+    },
+    {
+      "question": "Indonesia merupakan negara hukum\nSEBAB\nPasal 1 ayat (2) UUD 1945 menyatakan bahwa Negara Indonesia adalah negara hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Negara hukum ditegaskan dalam Pasal 1 ayat (3); Pasal 1 ayat (2) mengatur kedaulatan rakyat."
+    },
+    {
+      "question": "Berdasarkan Pasal 109 RR Baru, penduduk Hindia Belanda dibagi menjadi dua golongan\nSEBAB\nPasal 109 RR Baru menghapus golongan Timur Asing dari penggolongan penduduk",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Pasal 109 RR Baru justru membagi penduduk menjadi tiga golongan: Eropa, Timur Asing, dan Bumiputra."
+    },
+    {
+      "question": "Executive review merupakan pengujian yang dilakukan oleh kekuasaan kehakiman\nSEBAB\nJudicial review adalah pengujian oleh kekuasaan kehakiman terhadap produk hukum legislatif maupun eksekutif",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Executive review dilakukan oleh eksekutif terhadap produk hukum dalam lingkup kewenangannya."
+    },
+    {
+      "question": "VOC hanya berperan sebagai perusahaan dagang dan tidak menjalankan kekuasaan publik\nSEBAB\nVOC memperoleh hak membuat perjanjian dengan penguasa setempat dan hak mencetak uang",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Dengan hak octrooi, VOC juga menjalankan kekuasaan publik."
+    },
+    {
+      "question": "Minuman lain yang memabukkan diharamkan sebagaimana khamr melalui qiyas\nSEBAB\nIllat atau alasan hukum pengharaman khamr adalah sifatnya yang memabukkan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Qiyas menyamakan hukum perkara baru dengan perkara yang sudah ada hukumnya karena kesamaan illat."
+    },
+    {
+      "question": "Corak hukum perdata yang ditetapkan Pasal 11 AB bersifat dualistis\nSEBAB\nPasal 11 AB memerintahkan hakim memberlakukan hukum perdata Eropa bagi golongan Eropa dan hukum perdata adat bagi golongan lainnya",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Pembedaan hukum perdata berdasarkan golongan penduduk itulah yang membuat coraknya dualistis."
+    },
+    {
+      "question": "Masyarakat hukum adat parental menarik garis keturunan dari pihak perempuan saja\nSEBAB\nPenggolongan masyarakat hukum adat secara genealogis didasarkan pada wilayah tempat tinggal",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Parental menarik garis dari kedua pihak; asas genealogis didasarkan pada pertalian keturunan, sedangkan wilayah adalah asas teritorial."
+    },
+    {
+      "question": "UU Nomor 1 Tahun 1946 mengubah istilah gulden menjadi rupiah dalam Wetboek van Strafrecht\nSEBAB\nPada 25 Maret 1946 Pengadilan Agama dipindahkan dari Kementerian Kehakiman ke Kementerian Agama",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar sebagai perkembangan pasca kemerdekaan, tetapi tidak berhubungan sebab-akibat."
+    },
+    {
+      "question": "Peradilan Adat (Inheemsche Rechtspraak) hanya terdapat di Daerah Langsung Daerah Seberang\nSEBAB\nPeradilan Agama di Kalimantan Selatan disebut Kadigerecht",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi nama Peradilan Agama di Kalimantan Selatan tidak menjelaskan letak Peradilan Adat."
+    },
+    {
+      "question": "Sejak 1 September 1925, seluruh golongan Timur Asing Cina di Hindia Belanda tunduk pada hukum perdata Eropa\nSEBAB\nS. 1924:557 telah memberlakukan hukum perdata Eropa bagi golongan Timur Asing Cina termasuk di Kalimantan Barat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "S. 1924:557 justru mengecualikan Kalimantan Barat; Kalimantan Barat baru tercakup melalui S. 1925:92."
+    },
+    {
+      "question": "Pasal 131 IS dan Pasal 163 IS dihapuskan melalui Dekrit Presiden 5 Juli 1959\nSEBAB\nDekrit Presiden 5 Juli 1959 memberlakukan kembali UUD Sementara 1950",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Kedua pasal dihapus melalui UU Kewarganegaraan 1959 yang diperkuat Instruksi Presidium Kabinet No. 30/1966; Dekrit 5 Juli 1959 memberlakukan kembali UUD 1945."
+    },
+    {
+      "question": "Ahkam al-jinayat mengatur hubungan manusia dengan Tuhannya\nSEBAB\nAhkam al-jinayat merupakan bagian dari ahkam al-ibadah",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Ahkam al-jinayat adalah bagian ahkam al-mu'amalat yang mengatur perbuatan terlarang dan sanksinya."
+    },
+    {
+      "question": "Orang Bumiputra yang beragama Kristen tetap termasuk golongan Bumiputra\nSEBAB\nPasal 3 S. 1848:10 mempersamakan orang Bumiputra Kristen dengan golongan Eropa",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pasal 3 S. 1848:10 justru menyatakan Bumiputra Kristen tidak dipersamakan dengan golongan Eropa."
+    },
+    {
+      "question": "Asas lex posterior derogat legi priori berlaku bagi peraturan yang berbeda tingkat dalam hierarki\nSEBAB\nLex posterior derogat legi priori berarti peraturan yang lebih tinggi mengesampingkan peraturan yang lebih rendah",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Lex posterior berarti peraturan baru mengesampingkan yang lama dan berlaku bagi peraturan setingkat; makna peraturan lebih tinggi mengesampingkan yang lebih rendah adalah lex superior."
+    },
+    {
+      "question": "Pendapat fiqih dapat berbeda antara satu ahli hukum Islam dengan ahli lainnya\nSEBAB\nFiqih merupakan hasil pemahaman atau interpretasi manusia terhadap syariah",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Karena merupakan hasil pemahaman manusia, fiqih dapat beragam; syariah bersumber langsung dari wahyu."
+    },
+    {
+      "question": "Dalam sistem pemerintahan parlementer, Kepala Negara sekaligus menjadi Kepala Pemerintahan\nSEBAB\nPemerintahan dalam sistem parlementer dipimpin oleh Perdana Menteri yang mengepalai kabinet",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Dalam sistem parlementer, Kepala Negara hanya simbol pemersatu; yang memimpin pemerintahan adalah Perdana Menteri."
+    },
+    {
+      "question": "Dalam sistem pemerintahan presidensial, menteri-menteri diangkat dan bertanggung jawab kepada Presiden\nSEBAB\nMenurut Sri Soemantri, sistem pemerintahan referendum lazim disebut sistem pemerintahan campuran",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi pendapat tentang sistem referendum tidak menjelaskan prinsip sistem presidensial."
+    },
+    {
+      "question": "Penundukan sukarela kepada seluruh hukum perdata Eropa oleh laki-laki yang telah beristri tidak memerlukan izin istri\nSEBAB\nPenundukan secara sukarela dilakukan dengan menyampaikan pernyataan kepada kepala pemerintahan setempat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Bagi laki-laki beristri diperlukan izin istri karena akibat penundukan mengikat kehidupan keluarga."
+    },
+    {
+      "question": "Sejak 1 Januari 1918, hukum pidana material di Hindia Belanda bercorak unifikasi\nSEBAB\nWetboek van Strafrecht berdasarkan S. 1915:732 diberlakukan bagi semua golongan penduduk",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Satu kodifikasi pidana untuk semua golongan berarti unifikasi hukum pidana material."
+    },
+    {
+      "question": "Statuta van Batavia diumumkan pertama kali pada tahun 1766\nSEBAB\nStatuta van Batavia disusun oleh Thomas Stamford Raffles pada masa pemerintahan Inggris",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Statuta Batavia diumumkan VOC pada 1642; tahun 1766 adalah pembaruan menjadi Nieuwe Bataviase Statuten."
+    },
+    {
+      "question": "Mahkamah Konstitusi wajib memutus pendapat DPR mengenai dugaan pelanggaran hukum oleh Presiden dan/atau Wakil Presiden\nSEBAB\nPengadilan Pajak merupakan pengadilan tingkat pertama dan terakhir",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi tidak saling berkaitan."
+    },
+    {
+      "question": "Ijma' dapat dilakukan ketika Nabi Muhammad SAW masih hidup\nSEBAB\nIjma' merupakan kesepakatan para mujtahid pada suatu masa mengenai suatu hukum",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Ijma' dilakukan setelah Nabi Muhammad SAW wafat."
+    },
+    {
+      "question": "Masyarakat hukum adat patrilineal menarik garis keturunan dari pihak laki-laki\nSEBAB\nMasyarakat hukum adat teritorial terdiri atas masyarakat hukum desa, wilayah, dan serikat desa",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi penggolongan teritorial tidak menjelaskan penggolongan genealogis."
+    },
+    {
+      "question": "Hoogereschthof berkedudukan di Surabaya\nSEBAB\nPutusan Hoogereschthof disebut vonnis",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Hoogereschthof berkedudukan di Batavia dan putusannya disebut arrest."
+    },
+    {
+      "question": "Dalam hukum Islam, jawaban atas suatu persoalan hukum harus terlebih dahulu dicari dalam Al-Qur'an\nSEBAB\nSeluruh ayat Al-Qur'an bersifat qath'i sehingga tidak membutuhkan penafsiran",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Ayat Al-Qur'an ada yang qath'i dan ada yang zhanny, yaitu mengandung berbagai penafsiran."
+    },
+    {
+      "question": "Residentiegerecht berwenang mengadili perkara pidana dengan pelaku golongan Eropa\nSEBAB\nResidentiegerecht merupakan pengadilan tertinggi di Hindia Belanda",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Residentiegerecht setingkat Landraad; pengadilan tertinggi adalah Hoogereschthof."
+    },
+    {
+      "question": "Dalam hukum adat, apabila barang sudah diterima pembeli tetapi harganya belum dibayar, hubungan tersebut dianggap utang piutang dan bukan jual beli\nSEBAB\nHukum adat bercorak kontan, yaitu prestasi dan kontra prestasi harus dilaksanakan pada saat yang bersamaan",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Karena corak kontan menuntut prestasi dan kontra prestasi serentak, transaksi yang belum dibayar tidak dianggap jual beli."
+    },
+    {
+      "question": "Pasal 131 IS dan Pasal 163 IS tetap berlaku pada masa pendudukan Jepang\nSEBAB\nPasal 3 Osamu Seirei Nomor 1 Tahun 1942 menyatakan hukum dan undang-undang pemerintah dahulu tetap sah sementara waktu asal tidak bertentangan dengan aturan pemerintah militer",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Pasal 3 Osamu Seirei 1/1942 adalah ketentuan peralihan yang membuat kedua pasal IS tersebut tetap berlaku."
+    },
+    {
+      "question": "Hoogereschthof merupakan pengadilan tertinggi di Hindia Belanda\nSEBAB\nRaad van Justitie di Daerah Seberang berkedudukan di Padang, Medan, dan Makassar",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 1,
+      "explanation": "Keduanya benar, tetapi kedudukan Raad van Justitie bukan alasan Hoogereschthof menjadi pengadilan tertinggi."
+    },
+    {
+      "question": "Pasal 131 IS memerintahkan pembentuk ordonansi untuk melakukan kodifikasi hukum\nSEBAB\nPasal 131 ayat (1) IS menyatakan bahwa hukum perdata dan hukum pidana material dan formal ditulis dan ditetapkan dalam ordonansi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Pasal 131 IS menganut asas hukum tertulis, tetapi tidak memuat perintah kodifikasi."
+    },
+    {
+      "question": "Hukum adat bercorak rumit dan memerlukan banyak administrasi\nSEBAB\nSebagian besar hukum adat berbentuk tertulis dan telah dikodifikasi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Hukum adat bercorak sederhana dan kebanyakan tidak tertulis."
+    },
+    {
+      "question": "Peradilan Gubernemen diselenggarakan atas nama penguasa setempat\nSEBAB\nPeradilan Gubernemen berada di bawah Gubernur Jenderal",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Peradilan Gubernemen diselenggarakan atas nama Raja/Ratu Belanda; atas nama penguasa setempat adalah ciri Peradilan Non-Gubernemen."
+    },
+    {
+      "question": "Burgerlijk Wetboek dan Wetboek van Koophandel mulai berlaku di Hindia Belanda pada 1 Mei 1848\nSEBAB\nPemberlakuan kodifikasi tersebut didasarkan pada asas unifikasi bagi seluruh golongan penduduk",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pemberlakuannya didasarkan asas konkordansi dan berlaku bagi golongan Eropa, bukan unifikasi bagi semua golongan."
+    },
+    {
+      "question": "Pembidangan hukum Islam tidak membedakan antara hukum privat dan hukum publik\nSEBAB\nDalam bidang hukum privat hukum Islam terdapat segi hukum publik, dan dalam bidang hukum publik terdapat segi hukum privat",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Modul menyebut saling melekatnya segi privat dan publik sebagai alasan tidak adanya pembedaan."
+    },
+    {
+      "question": "Pada masa pendudukan Jepang, Residentiegerecht tetap dipertahankan\nSEBAB\nBerdasarkan Gunseirei Nomor 14 Tahun 1942, Jepang pada dasarnya tetap menggunakan lembaga peradilan Hindia Belanda",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 3,
+      "explanation": "Lembaga peradilan Hindia Belanda tetap dipakai, kecuali Residentiegerecht yang dihapuskan."
+    },
+    {
+      "question": "Seseorang yang membeli karcis kereta api dianggap tunduk secara diam-diam pada hukum perdata Eropa\nSEBAB\nPerbuatan tersebut merupakan perbuatan hukum yang hanya dikenal dalam hukum Eropa",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Penundukan diam-diam terjadi karena seseorang melakukan perbuatan yang hanya dikenal dalam hukum Eropa."
+    },
+    {
+      "question": "Orang Jepang di Hindia Belanda tunduk pada ketentuan bagi golongan Eropa\nSEBAB\nTerdapat perjanjian dagang tahun 1896 antara Belanda dan Jepang yang dimuat dalam S. 1898:49",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "Perjanjian dagang tersebut menjadi dasar orang Jepang dimasukkan ke golongan Eropa menurut Pasal 163 ayat (2) IS."
+    },
+    {
+      "question": "Herman Willem Daendels diangkat sebagai Gubernur Jenderal oleh Raja Willem I\nSEBAB\nDaendels bertugas melindungi Nusantara dari serangan Perancis",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 4,
+      "explanation": "Daendels diangkat oleh Louis Napoleon dan bertugas melindungi Nusantara dari serangan Inggris."
+    },
+    {
+      "question": "Hukum adat bercorak magis religius\nSEBAB\nHukum adat hanya berlaku bagi masyarakat yang beragama Islam",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Corak magis religius berkaitan dengan kepercayaan pada yang gaib; hukum adat tidak terbatas pada pemeluk Islam."
+    },
+    {
+      "question": "Mahkamah Agung tidak berwenang menguji undang-undang terhadap UUD 1945\nSEBAB\nKewenangan menguji undang-undang terhadap UUD 1945 diberikan kepada Mahkamah Konstitusi",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 0,
+      "explanation": "MA menguji peraturan di bawah UU terhadap UU, sedangkan pengujian UU terhadap UUD adalah wewenang MK."
+    },
+    {
+      "question": "Pasal 109 RR membedakan penduduk Hindia Belanda menjadi golongan Eropa dan golongan Bumiputra\nSEBAB\nPasal 109 RR membedakan penduduk berdasarkan agama Kristen dan non-Kristen",
+      "options": [
+        "Pernyataan dan alasan benar, keduanya menunjukkan hubungan sebab akibat",
+        "Pernyataan dan alasan benar, keduanya tidak menunjukkan hubungan sebab-akibat",
+        "Pernyataan benar dan alasan salah",
+        "Pernyataan salah dan alasan benar",
+        "Pernyataan dan alasan salah"
+      ],
+      "answer": 2,
+      "explanation": "Pembeda Pasal 109 RR adalah golongan yang menjajah dan yang dijajah; pembedaan Kristen dan non-Kristen berasal dari Pasal 6-10 AB."
+    }
+  ]
+}

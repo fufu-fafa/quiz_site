@@ -1,0 +1,606 @@
+{
+  "title": "Kuis PHI - Pilihan Ganda",
+  "description": "50 soal pilihan ganda materi PHI.",
+  "questions": [
+    {
+      "question": "Teori residu yang menyatakan Hukum Administrasi Negara adalah sisa hukum nasional setelah dikurangi HTN, hukum perdata, dan hukum pidana materiil dikemukakan oleh ...",
+      "options": [
+        "Logemann",
+        "J. Barents",
+        "Oppenheim",
+        "W.F. Prins",
+        "A.M. Donner"
+      ],
+      "answer": 2,
+      "explanation": "Oppenheim mengemukakan teori residu tentang HAN."
+    },
+    {
+      "question": "Istilah adatrecht pertama kali dicatat berdasarkan penelitian di Aceh tahun 1891-1892 oleh ...",
+      "options": [
+        "R. Soepomo",
+        "Christiaan Snouck Hurgronje",
+        "Hazairin",
+        "Cornelis van Vollenhoven",
+        "Ter Haar"
+      ],
+      "answer": 1,
+      "explanation": "Snouck Hurgronje mencatat istilah adatrecht dari penelitiannya di Aceh."
+    },
+    {
+      "question": "Hukum adat sebagai endapan kesusilaan dalam masyarakat yang kebenarannya telah diakui umum merupakan pendapat ...",
+      "options": [
+        "Hazairin",
+        "Ter Haar",
+        "Soerjono Soekanto",
+        "Koentjaraningrat",
+        "R. Soepomo"
+      ],
+      "answer": 0,
+      "explanation": "Hazairin: hukum adat adalah renapan/endapan kesusilaan. Ter Haar menekankan keputusan fungsionaris hukum, Soepomo hukum kebiasaan tidak tertulis."
+    },
+    {
+      "question": "Menurut corak konkret dan kontan, jika barang sudah diterima pembeli tetapi harga belum dibayar, perbuatan itu merupakan ...",
+      "options": [
+        "Sewa menyewa",
+        "Tukar menukar",
+        "Jual beli",
+        "Utang piutang",
+        "Hibah"
+      ],
+      "answer": 3,
+      "explanation": "Dalam hukum adat, jual beli harus kontan; bila pembayaran belum dilakukan, hubungannya menjadi utang piutang."
+    },
+    {
+      "question": "Perumpamaan bahwa HTN adalah kerangka manusia dan Ilmu Politik adalah daging di sekitarnya dikemukakan oleh ...",
+      "options": [
+        "Burkens",
+        "J. Barents",
+        "Oppenheim",
+        "A.V. Dicey",
+        "Logemann"
+      ],
+      "answer": 1,
+      "explanation": "J. Barents memakai perumpamaan kerangka dan daging untuk menunjukkan HTN dan Ilmu Politik berkaitan tetapi tidak boleh dicampur."
+    },
+    {
+      "question": "Dalam masyarakat hukum adat teritorial, penyelenggaraan hukum dan pemulihan keseimbangan berdasar pandangan religio-magis oleh kepala desa bersifat ...",
+      "options": [
+        "Administratif",
+        "Konsultatif",
+        "Preventif",
+        "Represif",
+        "Legislatif"
+      ],
+      "answer": 3,
+      "explanation": "Tata tertib sosial dan hukum bersifat preventif, sedangkan pemulihan keseimbangan religio-magis bersifat represif."
+    },
+    {
+      "question": "Fiqih sering diterjemahkan ke dalam bahasa Inggris sebagai ...",
+      "options": [
+        "Islamic theology",
+        "Islamic tradition",
+        "Islamic jurisprudence",
+        "Islamic philosophy",
+        "Islamic legislation"
+      ],
+      "answer": 2,
+      "explanation": "Fiqih = Islamic jurisprudence (hasil pemahaman manusia), sedangkan syariah sering diterjemahkan Islamic law."
+    },
+    {
+      "question": "Berikut yang bukan termasuk al-maqasid al-khamsah (lima tujuan hukum Islam) adalah memelihara ...",
+      "options": [
+        "Akal",
+        "Agama",
+        "Jiwa",
+        "Kekuasaan",
+        "Harta"
+      ],
+      "answer": 3,
+      "explanation": "Lima tujuan hukum Islam: memelihara agama, jiwa, akal, keturunan, dan harta."
+    },
+    {
+      "question": "Ahkam al-jinayat dalam ruang lingkup hukum Islam mengatur tentang ...",
+      "options": [
+        "Perbuatan yang dilarang beserta ancaman sanksinya",
+        "Utang piutang, sewa menyewa, jual beli, dan waris",
+        "Tata cara beracara, alat bukti, saksi, dan sumpah",
+        "Hubungan antarnegara dalam keadaan damai dan perang",
+        "Lembaga negara, kepemimpinan, dan perundang-undangan"
+      ],
+      "answer": 0,
+      "explanation": "Al-jinayat = pidana; al-dauliyah = internasional; al-qadha wa al-murafat = acara; al-madaniyat = benda; al-dusturiyah = tata negara."
+    },
+    {
+      "question": "Ayat Al-Qur'an yang ketentuan hukumnya tidak membutuhkan penafsiran lagi disebut ayat ...",
+      "options": [
+        "Qath'i",
+        "Zhanny",
+        "Samar",
+        "Mutasyabih",
+        "Mansukh"
+      ],
+      "answer": 0,
+      "explanation": "Qath'i tidak perlu ditafsirkan; zhanny mengandung berbagai penafsiran."
+    },
+    {
+      "question": "Dalam qiyas tentang khamr, illat (alasan hukum) yang membuat minuman lain dapat disamakan hukumnya adalah sifat ...",
+      "options": [
+        "Berbau tajam",
+        "Diperjualbelikan",
+        "Berwarna",
+        "Memabukkan",
+        "Hasil fermentasi"
+      ],
+      "answer": 3,
+      "explanation": "Khamr diharamkan karena memabukkan, sehingga minuman lain yang memabukkan diberi hukum yang sama."
+    },
+    {
+      "question": "Fatwa Majelis Ulama Indonesia tentang vaksinasi dan kehalalan produk dalam modul dicontohkan sebagai bentuk ...",
+      "options": [
+        "Sunnah",
+        "Ijma'",
+        "Istihsan",
+        "Qiyas",
+        "Rukhshah"
+      ],
+      "answer": 1,
+      "explanation": "Kesepakatan para ahli hukum Islam melalui MUI dicontohkan sebagai ijma'."
+    },
+    {
+      "question": "Rukhshah yang disebabkan oleh dharurah merupakan pelaksanaan asas ...",
+      "options": [
+        "Mewujudkan keadilan",
+        "Bertahap dalam menetapkan hukum",
+        "Menyedikitkan pembebanan",
+        "Sejalan dengan kemaslahatan umat",
+        "Meniadakan kesempitan dan kesukaran"
+      ],
+      "answer": 4,
+      "explanation": "Asas meniadakan kesempitan dan kesukaran dilaksanakan lewat rukhshah, misalnya musafir boleh berbuka puasa."
+    },
+    {
+      "question": "Kumpulan plakat VOC yang disusun dan diumumkan di Batavia pada tahun 1642 dikenal sebagai ...",
+      "options": [
+        "Statuta Batavia",
+        "Indische Staatsregeling",
+        "Algemene Bepalingen",
+        "Regerings Reglement",
+        "Compendium Freijer"
+      ],
+      "answer": 0,
+      "explanation": "Plakat-plakat VOC dihimpun menjadi Statuta Batavia (1642), lalu diperbarui pada 1766."
+    },
+    {
+      "question": "Contoh pelaksanaan asas desentralisasi menurut materi adalah ...",
+      "options": [
+        "Pengujian undang-undang oleh MK",
+        "Penyusunan Peraturan Daerah",
+        "Pengangkatan menteri oleh Presiden",
+        "Dana bantuan operasional kesehatan",
+        "Pelayanan kantor pajak di daerah"
+      ],
+      "answer": 1,
+      "explanation": "Desentralisasi dicontohkan dengan penyusunan Perda; kantor pajak = dekonsentrasi; dana BOK = tugas pembantuan."
+    },
+    {
+      "question": "Daendels diangkat sebagai Gubernur Jenderal di Nusantara oleh ...",
+      "options": [
+        "Willem van Oranje",
+        "Lord Minto",
+        "Louis Napoleon",
+        "Johan van Oldenbarnevelt",
+        "Karl V"
+      ],
+      "answer": 2,
+      "explanation": "Louis Napoleon menjadi Raja Belanda pada 1806 dan mengangkat Daendels untuk mempertahankan Nusantara dari Inggris."
+    },
+    {
+      "question": "Pada masa Inggris, Court of Circuit berwenang mengadili ...",
+      "options": [
+        "Perkara nikah, talak, dan rujuk bagi penduduk yang beragama Islam",
+        "Pelanggaran ringan dan perdata dengan nilai sampai 20 ropyen",
+        "Perkara pidana tanpa hukuman mati dan perdata di atas 50 ropyen",
+        "Perkara pidana yang diancam hukuman mati dengan sistem juri",
+        "Perkara perdata dengan bupati, jaksa, dan penghulu sebagai hakim"
+      ],
+      "answer": 3,
+      "explanation": "Court of Circuit adalah pengadilan keliling untuk pidana dengan ancaman hukuman mati dan memakai sistem juri."
+    },
+    {
+      "question": "Kodifikasi hukum seperti BW dan WvK mulai berlaku di Hindia Belanda pada ...",
+      "options": [
+        "15 Juli 1830",
+        "1 Januari 1854",
+        "1 Januari 1918",
+        "1 Mei 1848",
+        "1 Januari 1926"
+      ],
+      "answer": 3,
+      "explanation": "Berdasarkan S.1847:23, kodifikasi berlaku 1 Mei 1848 sesuai asas konkordansi."
+    },
+    {
+      "question": "Pasal 11 AB yang memberlakukan hukum perdata Eropa bagi golongan Eropa dan hukum adat bagi golongan lain menunjukkan corak hukum ...",
+      "options": [
+        "Dualistis",
+        "Sentralistis",
+        "Konkordansi",
+        "Kodifikasi",
+        "Unifikasi"
+      ],
+      "answer": 0,
+      "explanation": "Pembedaan hukum berdasarkan golongan penduduk menunjukkan corak dualistis."
+    },
+    {
+      "question": "Menurut John Locke, kekuasaan federatif adalah kekuasaan yang menangani ...",
+      "options": [
+        "Pelaksanaan pemerintahan sehari-hari",
+        "Penegakan hukum melalui pengadilan",
+        "Pengawasan terhadap keuangan negara",
+        "Pembentukan peraturan perundang-undangan",
+        "Urusan luar negeri atau diplomatik"
+      ],
+      "answer": 4,
+      "explanation": "Locke membagi kekuasaan menjadi legislatif, eksekutif, dan federatif (urusan luar negeri)."
+    },
+    {
+      "question": "Unifikasi hukum pidana di Hindia Belanda melalui Wetboek van Strafrecht berlaku sejak ...",
+      "options": [
+        "1 Januari 1918",
+        "1 Januari 1926",
+        "1 Mei 1848",
+        "1 Januari 1920",
+        "26 Februari 1946"
+      ],
+      "answer": 0,
+      "explanation": "WvS ditetapkan dengan S.1915:732 dan berlaku bagi semua golongan sejak 1 Januari 1918."
+    },
+    {
+      "question": "Asas kedaulatan rakyat di Indonesia ditegaskan dalam ...",
+      "options": [
+        "Pasal 1 ayat (2) UUD 1945",
+        "Pasal 7B ayat (1) UUD 1945",
+        "Pasal 1 ayat (1) UUD 1945",
+        "Pasal 1 ayat (3) UUD 1945",
+        "Pasal 24C ayat (1) UUD 1945"
+      ],
+      "answer": 0,
+      "explanation": "Pasal 1 ayat (2): kedaulatan di tangan rakyat; ayat (1): negara kesatuan; ayat (3): negara hukum."
+    },
+    {
+      "question": "Pasal 163 Indische Staatsregeling mengatur tentang ...",
+      "options": [
+        "Politik hukum pemerintah Hindia Belanda",
+        "Penundukan diri secara sukarela pada hukum Eropa",
+        "Susunan organisasi pengadilan Hindia Belanda",
+        "Penggolongan penduduk Hindia Belanda",
+        "Pembentukan Volksraad sebagai lembaga legislatif"
+      ],
+      "answer": 3,
+      "explanation": "Pasal 163 IS mengatur penggolongan penduduk; Pasal 131 IS mengatur politik hukum."
+    },
+    {
+      "question": "Menurut Kleintjes, seseorang dianggap \"berasal dari Eropa\" apabila memenuhi faktor ...",
+      "options": [
+        "Keturunan dari Eropa DAN kelahiran di Eropa",
+        "Agama Kristen dan kemampuan berbahasa Belanda",
+        "Hukum keluarga yang sama dengan hukum Belanda",
+        "Kewarganegaraan negara yang terletak di Eropa",
+        "Keturunan dari Eropa ATAU kelahiran di Eropa"
+      ],
+      "answer": 0,
+      "explanation": "Kleintjes mensyaratkan ius sanguinis DAN ius soli; Carpentier Alting cukup salah satunya (ATAU)."
+    },
+    {
+      "question": "Berdasarkan S.1917:129, golongan Timur Asing Cina tunduk pada hukum perdata Eropa, kecuali dalam hal ...",
+      "options": [
+        "Hibah dan wasiat",
+        "Kepailitan dan dagang",
+        "Perkawinan dan waris",
+        "Jual beli dan sewa",
+        "Adopsi dan kongsi"
+      ],
+      "answer": 4,
+      "explanation": "Adopsi dan kongsi tetap tunduk pada hukum adat Cina."
+    },
+    {
+      "question": "Pasal 3 Osamu Seirei Nomor 1 Tahun 1942 berfungsi sebagai ...",
+      "options": [
+        "Dasar pembentukan pengadilan militer Jepang",
+        "Dasar penggolongan penduduk masa Jepang",
+        "Ketentuan peralihan untuk mencegah kekosongan hukum",
+        "Aturan pelaksana keamanan dan ketertiban umum",
+        "Penghapusan seluruh hukum Hindia Belanda"
+      ],
+      "answer": 2,
+      "explanation": "Pasal 3 OS 1/1942 menyatakan hukum dan badan pemerintah lama tetap sah sementara selama tidak bertentangan dengan aturan militer."
+    },
+    {
+      "question": "Menurut modul, Pasal 131 dan Pasal 163 IS dihapuskan melalui ...",
+      "options": [
+        "Dekrit Presiden 5 Juli 1959",
+        "UU Kewarganegaraan Tahun 1959",
+        "UU Nomor 1 Tahun 1946",
+        "UU Darurat Nomor 1 Tahun 1951",
+        "UU Nomor 19 Tahun 1964"
+      ],
+      "answer": 1,
+      "explanation": "Pasal 131 dan 163 IS dihapus lewat UU Kewarganegaraan 1959, diperkuat Instruksi Presidium Kabinet No. 30/1966."
+    },
+    {
+      "question": "Menurut Pasal 6 ayat (1) S.1898:158 tentang perkawinan campuran, perkawinan dilaksanakan berdasarkan hukum ...",
+      "options": [
+        "Pihak perempuan (istri)",
+        "Agama kedua mempelai",
+        "Tempat perkawinan dilangsungkan",
+        "Golongan yang lebih tinggi",
+        "Pihak laki-laki (suami)"
+      ],
+      "answer": 4,
+      "explanation": "Pasal 6 ayat (1) menetapkan hukum pihak suami; kaidah penunjuk ini disebut hukum perselisihan."
+    },
+    {
+      "question": "Contoh penundukan diri secara diam-diam pada hukum perdata Eropa adalah ...",
+      "options": [
+        "Membuat akta notaris waris",
+        "Menikah dengan pria Bumiputra",
+        "Menyusun wasiat di depan saksi",
+        "Membeli karcis kereta api",
+        "Mengajukan pernyataan ke residen"
+      ],
+      "answer": 3,
+      "explanation": "Penundukan diam-diam terjadi karena melakukan perbuatan yang hanya dikenal hukum Eropa, seperti membeli karcis kereta api atau mengirim wesel."
+    },
+    {
+      "question": "Kekuasaan inspektif dalam sistem ketatanegaraan Indonesia dijalankan oleh ...",
+      "options": [
+        "Komisi Pemilihan Umum",
+        "Mahkamah Konstitusi",
+        "Badan Pemeriksa Keuangan",
+        "Menteri Keuangan",
+        "Dewan Perwakilan Daerah"
+      ],
+      "answer": 2,
+      "explanation": "BPK menjalankan kekuasaan inspektif (pengawasan keuangan negara); Menteri Keuangan mengelola keuangan."
+    },
+    {
+      "question": "Referendum obligatoir berarti ...",
+      "options": [
+        "Parlemen menyetujui UU tanpa perlu keterlibatan rakyat",
+        "UU harus memperoleh persetujuan rakyat sebelum diberlakukan",
+        "Sejumlah rakyat dapat meminta referendum setelah UU berlaku",
+        "Presiden dan menteri dipilih langsung oleh rakyat melalui pemilu",
+        "Menteri bertanggung jawab kepada parlemen dan dapat dimosi"
+      ],
+      "answer": 1,
+      "explanation": "Obligatoir: persetujuan rakyat sebelum UU berlaku; fakultatif: referendum dapat diminta setelah UU berlaku."
+    },
+    {
+      "question": "Mahkamah Agung berwenang menguji ...",
+      "options": [
+        "Rancangan undang-undang sebelum disahkan DPR",
+        "Peraturan di bawah undang-undang terhadap undang-undang",
+        "Putusan Mahkamah Konstitusi terhadap UUD 1945",
+        "Undang-undang terhadap Undang-Undang Dasar 1945",
+        "Ketetapan MPR terhadap Undang-Undang Dasar 1945"
+      ],
+      "answer": 1,
+      "explanation": "MA menguji peraturan di bawah UU terhadap UU (Pasal 24A ayat 1); MK menguji UU terhadap UUD 1945."
+    },
+    {
+      "question": "Asas praesumptio iustae causa dalam hukum acara Mahkamah Konstitusi berarti ...",
+      "options": [
+        "Tindakan penguasa dianggap sah sampai dinyatakan batal",
+        "Para pihak harus didengar secara seimbang dalam persidangan",
+        "Pengadilan tidak boleh menolak perkara karena hukumnya tidak jelas",
+        "Persidangan dilakukan cepat, sederhana, dan berbiaya ringan",
+        "Hakim wajib aktif menggali bukti dari saksi dan ahli"
+      ],
+      "answer": 0,
+      "explanation": "Praesumptio iustae causa = praduga keabsahan; ius curia novit = tidak boleh menolak perkara; audi et alteram partem = mendengar kedua pihak."
+    },
+    {
+      "question": "Peradilan Non-Gubernemen pada masa Hindia Belanda terdiri atas ...",
+      "options": [
+        "Peradilan Eropa, Peradilan Bumiputra, dan Peradilan Agama",
+        "Krijgsraad, Zee Krijgsraad, dan Hoog Militair Gerechtshof",
+        "Peradilan Sipil, Peradilan Militer, dan Peradilan Agama",
+        "Peradilan Adat, Peradilan Swapraja, dan Peradilan Desa",
+        "Landraad, Raad van Justitie, dan Hoogereschthof"
+      ],
+      "answer": 3,
+      "explanation": "Peradilan Non-Gubernemen tidak dibentuk atas nama Raja/Ratu Belanda: Peradilan Adat, Swapraja, dan Desa. Sipil, Militer, dan Agama adalah Peradilan Gubernemen."
+    },
+    {
+      "question": "Pengadilan tertinggi di Hindia Belanda yang berkedudukan di Batavia dan putusannya disebut arrest adalah ...",
+      "options": [
+        "Raad van Justitie",
+        "Magistraatsgerecht",
+        "Landraad",
+        "Residentiegerecht",
+        "Hoogereschthof"
+      ],
+      "answer": 4,
+      "explanation": "Hoogereschthof memeriksa kasasi dari Raad van Justitie dan mengawasi seluruh pengadilan di bawahnya."
+    },
+    {
+      "question": "Raad van Justitie bagi golongan Eropa di Jawa dan Madura terdapat di ...",
+      "options": [
+        "Batavia, Medan, dan Surabaya",
+        "Yogyakarta, Semarang, dan Surabaya",
+        "Padang, Medan, dan Makassar",
+        "Batavia, Bandung, dan Surabaya",
+        "Batavia, Semarang, dan Surabaya"
+      ],
+      "answer": 4,
+      "explanation": "Di Jawa-Madura: Batavia, Semarang, Surabaya; di Daerah Seberang: Padang, Medan, Makassar."
+    },
+    {
+      "question": "Districtsgerecht bagi golongan Bumiputra di Jawa dan Madura dipimpin oleh ...",
+      "options": [
+        "Residen bersama jaksa dan penghulu",
+        "Bupati sebagai hakim tunggal",
+        "Wedana sebagai hakim tunggal",
+        "Seorang ketua dan dua orang anggota",
+        "Sarjana hukum bersama pegawai pemerintah"
+      ],
+      "answer": 2,
+      "explanation": "Districtsgerecht dipimpin wedana; Regentschapsgerecht dipimpin bupati (atau patih); Landraad diketuai sarjana hukum."
+    },
+    {
+      "question": "Groote Rapat dalam susunan Peradilan Adat berfungsi sebagai ...",
+      "options": [
+        "Pengadilan tingkat rendah yang tingkatannya sama dengan pengadilan tingkat desa di wilayahnya",
+        "Pengadilan banding atas Kleine Rapat dan pengadilan desa, atau pengadilan tingkat pertama jika tidak ada pengadilan lain",
+        "Pengadilan agama yang menangani perkara nikah, talak, rujuk, dan waris bagi orang Islam",
+        "Pengadilan desa yang diketuai kepala desa dan berdiri mandiri di luar Peradilan Adat",
+        "Pengadilan keliling yang khusus mengadili perkara pidana berancaman hukuman mati dengan juri"
+      ],
+      "answer": 1,
+      "explanation": "Groote Rapat adalah pengadilan tingkat tinggi dalam Peradilan Adat; Kleine Rapat setingkat pengadilan desa."
+    },
+    {
+      "question": "Pengadilan tertinggi dalam susunan pengadilan di Kasunanan Surakarta Hadiningrat adalah ...",
+      "options": [
+        "Kleine Rapat",
+        "Pradata",
+        "Opperkadigerecht",
+        "Surambi",
+        "Pradata Gede"
+      ],
+      "answer": 4,
+      "explanation": "Surakarta memiliki Pradata (umum), Surambi (agama), dan Pradata Gede sebagai pengadilan tertinggi."
+    },
+    {
+      "question": "Yang termasuk kewenangan Mahkamah Konstitusi menurut Pasal 24C ayat (1) UUD 1945 adalah ...",
+      "options": [
+        "Menguji peraturan di bawah undang-undang terhadap undang-undang",
+        "Memutus kasasi atas perkara pidana dan perdata dari pengadilan tinggi",
+        "Mengadili perkara kepailitan dan penundaan kewajiban pembayaran utang",
+        "Memutus pembubaran partai politik serta perselisihan hasil pemilihan umum",
+        "Mengadili perkara tindak pidana militer dari lingkungan peradilan militer"
+      ],
+      "answer": 3,
+      "explanation": "MK: uji UU terhadap UUD, sengketa kewenangan lembaga negara, pembubaran parpol, perselisihan hasil pemilu; menguji peraturan di bawah UU adalah kewenangan MA."
+    },
+    {
+      "question": "Peradilan Anak dalam lingkungan Peradilan Umum menangani perkara yang melibatkan anak berusia ...",
+      "options": [
+        "10 sampai 17 tahun dan sudah pernah menikah",
+        "12 sampai 21 tahun dan belum pernah menikah",
+        "8 sampai 18 tahun dan belum pernah menikah",
+        "7 sampai 16 tahun dan belum pernah menikah",
+        "8 sampai 18 tahun tanpa memandang status pernikahan"
+      ],
+      "answer": 2,
+      "explanation": "Menurut modul, Peradilan Anak menangani anak berusia 8-18 tahun yang belum pernah menikah."
+    },
+    {
+      "question": "Upaya hukum yang dapat ditempuh terhadap putusan Pengadilan Pajak, yang merupakan pengadilan tingkat pertama dan terakhir, adalah ...",
+      "options": [
+        "Perlawanan ke Pengadilan Negeri setempat",
+        "Banding ke Pengadilan Tinggi Tata Usaha Negara",
+        "Peninjauan Kembali ke Mahkamah Agung",
+        "Kasasi ke Mahkamah Konstitusi",
+        "Banding ke Pengadilan Tinggi di wilayah hukumnya"
+      ],
+      "answer": 2,
+      "explanation": "Terhadap putusan Pengadilan Pajak dapat ditempuh PK ke Mahkamah Agung."
+    },
+    {
+      "question": "Staatsrecht in engere zin berarti ...",
+      "options": [
+        "Hukum negara dalam arti luas yang mencakup HTN dan Hukum Administrasi",
+        "Hukum administrasi yang dibedakan dari konstitusi dalam sistem Prancis",
+        "Hukum negara dalam arti sempit yang hanya mencakup Hukum Tata Negara",
+        "Hukum konstitusi yang hanya dikenal dalam sistem hukum Inggris",
+        "Hukum antarnegara yang berlaku dalam sistem hukum Jerman"
+      ],
+      "answer": 2,
+      "explanation": "In ruimere zin = HTN + Hukum Administrasi; in engere zin = HTN saja."
+    },
+    {
+      "question": "Dalam sistem pemerintahan parlementer, menteri-menteri ...",
+      "options": [
+        "Dipilih oleh parlemen dan bertanggung jawab langsung kepada rakyat",
+        "Berkedudukan sama kuat dengan parlemen dan tidak dapat dijatuhkan",
+        "Diangkat oleh Presiden dan bertanggung jawab langsung kepada Presiden",
+        "Dipimpin oleh Kepala Negara yang sekaligus menjadi Kepala Pemerintahan",
+        "Bertanggung jawab kepada parlemen dan dapat diberhentikan melalui mosi"
+      ],
+      "answer": 4,
+      "explanation": "Pada sistem parlementer, kabinet di bawah Perdana Menteri dan dapat dijatuhkan parlemen; kedudukan eksekutif lebih rendah dari parlemen."
+    },
+    {
+      "question": "Menurut Van Vollenhoven dan Oppenheim, Hukum Administrasi Negara mempelajari negara dalam keadaan ...",
+      "options": [
+        "Diam atau statis",
+        "Terikat pada konstitusi semata",
+        "Terlepas dari hukum positif",
+        "Abstrak dan universal",
+        "Bergerak atau dinamis"
+      ],
+      "answer": 4,
+      "explanation": "HTN mempelajari negara dalam keadaan diam (struktur), HAN negara dalam keadaan bergerak (aktivitas)."
+    },
+    {
+      "question": "Asas yang digunakan ketika terdapat pertentangan antara peraturan yang berbeda tingkat dalam hierarki adalah ...",
+      "options": [
+        "Lex superior derogat legi inferiori",
+        "Ius curia novit",
+        "Lex posterior derogat legi priori",
+        "Lex specialis derogat legi generali",
+        "Audi et alteram partem"
+      ],
+      "answer": 0,
+      "explanation": "Lex superior untuk beda tingkat; lex posterior dan lex specialis untuk peraturan setingkat."
+    },
+    {
+      "question": "Pengakuan akan adanya kebebasan dan kemerdekaan (freedom to be free) sebagai substansi HAM terdapat dalam Pembukaan UUD 1945 ...",
+      "options": [
+        "Alinea ketiga",
+        "Pasal 28A batang tubuh",
+        "Alinea kedua",
+        "Alinea keempat",
+        "Alinea pertama"
+      ],
+      "answer": 4,
+      "explanation": "Alinea pertama memuat freedom to be free; alinea kedua negara adil; ketiga persamaan politik; keempat perlindungan HAM di berbagai bidang."
+    },
+    {
+      "question": "Peraturan pada masa pendudukan Jepang yang berlaku umum mengenai pelaksanaan pemerintahan di Jawa dan Madura disebut ...",
+      "options": [
+        "Tomi Kanrei",
+        "Osamu Seirei",
+        "Tihoo Hooin",
+        "Saiko Hooin",
+        "Osamu Kanrei"
+      ],
+      "answer": 1,
+      "explanation": "Osamu Seirei berlaku umum di Jawa-Madura; Osamu Kanrei adalah peraturan pelaksananya; Tomi Kanrei berlaku di luar Jawa-Madura."
+    },
+    {
+      "question": "Pada masa Jepang, Kaikyoo Kootoo Hooin berasal dari ...",
+      "options": [
+        "Districtgerecht (Pengadilan Kewedanaan)",
+        "Landgerecht (Hakim Kepolisian)",
+        "Landraad (Pengadilan Negeri)",
+        "Regentschaptgerecht (Pengadilan Kabupaten)",
+        "Hoof voor Islamietishe Zaken (Mahkamah Islam Tinggi)"
+      ],
+      "answer": 4,
+      "explanation": "Kaikyoo Kootoo Hooin berasal dari Mahkamah Islam Tinggi; Landgerecht menjadi Keizai Hooin, Regentschaptgerecht menjadi Ken Hooin, Districtgerecht menjadi Gun Hooin, Landraad menjadi Tihoo Hooin."
+    },
+    {
+      "question": "Dasar yang mencegah kekosongan hukum pada masa berlakunya UUD Sementara 1950 adalah ...",
+      "options": [
+        "Pasal II Aturan Peralihan UUD 1945",
+        "Pasal 192 ayat (1) Konstitusi RIS",
+        "Pasal 142 Aturan Peralihan UUDS 1950",
+        "Pasal 102 UUDS 1950",
+        "Pasal 3 Osamu Seirei Nomor 1 Tahun 1942"
+      ],
+      "answer": 2,
+      "explanation": "Pasal 142 AP UUDS 1950 menyatakan peraturan yang ada pada 17 Agustus 1950 tetap berlaku; Pasal 102 UUDS mengatur politik hukum."
+    }
+  ]
+}

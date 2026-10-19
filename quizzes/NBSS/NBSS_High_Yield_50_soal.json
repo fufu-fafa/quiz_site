@@ -1,0 +1,606 @@
+{
+  "title": "NBSS High-Yield Practice - 50 Soal",
+  "description": "50 soal topik paling sering muncul di Quiz + Formative NBSS 1–5.",
+  "questions": [
+    {
+      "question": "A patient loses fine touch, vibration, and conscious proprioception in the left lower limb. Which tract carries these modalities from the lower limb?",
+      "options": [
+        "Lateral spinothalamic tract",
+        "Fasciculus cuneatus",
+        "Fasciculus gracilis",
+        "Posterior spinocerebellar tract",
+        "Anterior spinothalamic tract"
+      ],
+      "answer": 2,
+      "explanation": "Fasciculus gracilis membawa fine touch, vibration, dan conscious proprioception dari bawah T6 (tungkai). Fasciculus cuneatus untuk di atas T6 (lengan). Spinocerebellar = unconscious proprioception."
+    },
+    {
+      "question": "The sole of the foot is touched with a cotton swab. Where is the cell body of the second-order neuron of this pathway?",
+      "options": [
+        "Fasciculus gracilis",
+        "Nucleus cuneatus",
+        "Ventral posterolateral nucleus",
+        "Nucleus gracilis",
+        "Dorsal root ganglion"
+      ],
+      "answer": 3,
+      "explanation": "DCML: neuron 1 di DRG → neuron 2 di nucleus gracilis (medulla oblongata) → menyilang → medial lemniscus → neuron 3 di VPL thalamus. Fasciculus adalah tract (akson), bukan badan sel."
+    },
+    {
+      "question": "A 35-year-old man has a left hemisection (Brown-Séquard syndrome) of the spinal cord at T10. Which finding is expected?",
+      "options": [
+        "Loss of pain and temperature on the left side below the lesion",
+        "Loss of pain and temperature on the right side below the lesion",
+        "Loss of vibration sense on the right side below the lesion",
+        "UMN paralysis on the right side below the lesion",
+        "Bilateral loss of proprioception"
+      ],
+      "answer": 1,
+      "explanation": "Spinothalamic menyilang 1–2 segmen di atas level masuk → pain & temperature hilang kontralateral. DCML dan corticospinal belum menyilang di cord → defisit ipsilateral (kiri)."
+    },
+    {
+      "question": "Which spinal cord tract mediates reflex postural movements of the head in response to visual stimuli, with its cell bodies in the midbrain?",
+      "options": [
+        "Rubrospinal",
+        "Vestibulospinal",
+        "Reticulospinal",
+        "Tectospinal",
+        "Olivospinal"
+      ],
+      "answer": 3,
+      "explanation": "Tectospinal tract berasal dari superior colliculus (tectum midbrain), menggerakkan kepala sebagai refleks terhadap stimulus visual. Rubrospinal juga dari midbrain (red nucleus) tetapi untuk tonus fleksor."
+    },
+    {
+      "question": "A 60-year-old man has a resting tremor of the left hand, masked face, and cogwheel rigidity. Which structures form the input (inlet) of the basal nuclei system?",
+      "options": [
+        "Globus pallidus and substantia nigra",
+        "Putamen and caudate nucleus",
+        "Globus pallidus and putamen",
+        "Putamen and subthalamic nucleus",
+        "Globus pallidus and caudate nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Input basal ganglia = striatum (caudate nucleus + putamen). Output = globus pallidus internus + substantia nigra pars reticulata. Parkinson = hilangnya dopamine nigrostriatal dari substantia nigra pars compacta."
+    },
+    {
+      "question": "Which Brodmann area corresponds to the frontal eye field, responsible for voluntary conjugate eye movements?",
+      "options": [
+        "Area 4",
+        "Area 6",
+        "Area 8",
+        "Area 17",
+        "Area 44"
+      ],
+      "answer": 2,
+      "explanation": "Area 8 = frontal eye field. Area 4 primary motor, 6 premotor, 17 primary visual, 44/45 Broca."
+    },
+    {
+      "question": "A 50-year-old man speaks fluently and understands spoken and written words, but cannot repeat simple phrases and makes paraphasic errors. Where is the most likely lesion?",
+      "options": [
+        "Broca area",
+        "Wernicke area",
+        "Arcuate fasciculus",
+        "Primary motor area",
+        "Supplementary motor area"
+      ],
+      "answer": 2,
+      "explanation": "Conduction aphasia: fluent, comprehension baik, repetition terganggu → lesi arcuate fasciculus yang menghubungkan Wernicke dan Broca."
+    },
+    {
+      "question": "What are the terminal branches of the internal carotid artery?",
+      "options": [
+        "Anterior cerebral and middle cerebral arteries",
+        "Posterior cerebral and basilar arteries",
+        "Ophthalmic and posterior communicating arteries",
+        "Middle cerebral and posterior cerebral arteries",
+        "Vertebral and anterior cerebral arteries"
+      ],
+      "answer": 0,
+      "explanation": "ICA berakhir sebagai ACA + MCA. Ophthalmic dan posterior communicating adalah cabang sebelum terminal. PCA berasal dari basilar."
+    },
+    {
+      "question": "A patient with facial nerve palsy also has loss of taste over the anterior 2/3 of the tongue and hyperacusis on the same side. Where is the facial nerve most likely damaged?",
+      "options": [
+        "Stylomastoid foramen",
+        "Within the parotid gland",
+        "Facial canal, proximal to the nerve to stapedius",
+        "Pterygoid canal",
+        "Precentral gyrus"
+      ],
+      "answer": 2,
+      "explanation": "Hyperacusis (nerve to stapedius) dan hilang taste (chorda tympani) berarti lesi proksimal dari kedua cabang itu, yaitu di facial canal / internal acoustic meatus. Lesi di stylomastoid foramen hanya menyebabkan paralisis wajah."
+    },
+    {
+      "question": "A 54-year-old man has a lesion of the left medial longitudinal fasciculus (MLF). Which finding is expected?",
+      "options": [
+        "Impaired abduction of the left eye",
+        "Impaired adduction of the left eye on rightward gaze",
+        "Loss of convergence",
+        "Left ptosis with a dilated pupil",
+        "Abnormal corneal reflex of the left eye"
+      ],
+      "answer": 1,
+      "explanation": "Internuclear ophthalmoplegia: MLF menghubungkan nucleus CN VI ke nucleus CN III kontralateral. Lesi MLF kiri → mata kiri gagal adduksi saat melirik ke kanan, disertai nystagmus mata kanan yang abduksi. Konvergensi tetap intact."
+    },
+    {
+      "question": "Which of the following is a commissural fiber connecting the two cerebral hemispheres?",
+      "options": [
+        "Superior longitudinal fasciculus",
+        "Internal capsule",
+        "Corona radiata",
+        "Fornix",
+        "Corpus callosum"
+      ],
+      "answer": 4,
+      "explanation": "Commissural fibers: corpus callosum, anterior commissure. Association: superior longitudinal fasciculus. Projection: internal capsule, corona radiata."
+    },
+    {
+      "question": "Which cell is responsible for myelination in the central nervous system?",
+      "options": [
+        "Schwann cell",
+        "Oligodendrocyte",
+        "Astrocyte",
+        "Microglia",
+        "Ependymal cell"
+      ],
+      "answer": 1,
+      "explanation": "Oligodendrocyte = myelin CNS, satu sel membungkus banyak axon. Schwann cell = myelin PNS, satu sel untuk satu segmen satu axon."
+    },
+    {
+      "question": "A 3-year-old boy has fever, seizure, and positive Kernig and Brudzinski signs. Which cells are most active in the nervous tissue?",
+      "options": [
+        "Astrocyte",
+        "Ependymal cell",
+        "Schwann cell",
+        "Microglia",
+        "Oligodendrocyte"
+      ],
+      "answer": 3,
+      "explanation": "Microglia adalah makrofag residen CNS, menjadi phagocyte aktif saat infeksi (meningitis) atau injury."
+    },
+    {
+      "question": "Which factor is directly related to the conduction velocity of an action potential in a myelinated axon?",
+      "options": [
+        "Diameter of the dendrites",
+        "Amount of axonal branching",
+        "Number of dendrites",
+        "Diameter of the axon",
+        "Length of the axon"
+      ],
+      "answer": 3,
+      "explanation": "Kecepatan konduksi naik dengan diameter axon (resistensi internal lebih kecil) dan myelination (saltatory conduction antar node of Ranvier)."
+    },
+    {
+      "question": "A 17-year-old has status epilepticus. Which statement correctly describes the receptors of the main excitatory neurotransmitter involved?",
+      "options": [
+        "AMPA and kainate are G-protein coupled receptors",
+        "NMDA is a G-protein coupled receptor; AMPA is ionotropic",
+        "NMDA, AMPA, and kainate are ligand-gated ion channels; metabotropic receptors are G-protein coupled",
+        "All glutamate receptors are G-protein coupled",
+        "Glutamate acts only through chloride channels"
+      ],
+      "answer": 2,
+      "explanation": "Glutamate = excitatory utama CNS. Ionotropic: NMDA dan non-NMDA (AMPA, kainate). Metabotropic (mGluR) = GPCR. Cl⁻ channel adalah ciri GABA-A."
+    },
+    {
+      "question": "When an acetylcholinesterase inhibitor is applied to the neuromuscular junction, the muscle contracts to the first action potential but becomes refractory to further stimuli. What is the basis of this refractoriness?",
+      "options": [
+        "Depletion of ACh in the presynaptic terminal",
+        "Sustained increase in K⁺ conductance",
+        "Increased steady-state inactivation of Na⁺ channels",
+        "Failure of ACh release",
+        "Blockade of nicotinic receptors"
+      ],
+      "answer": 2,
+      "explanation": "ACh menumpuk → end-plate terus terdepolarisasi → voltage-gated Na⁺ channel di sekitarnya tetap terinaktivasi → otot tidak bisa membentuk action potential baru (depolarizing block)."
+    },
+    {
+      "question": "A patient has descending flaccid paralysis after eating home-canned food. What is the mechanism of the toxin at the neuromuscular junction?",
+      "options": [
+        "Blocks nicotinic ACh receptors",
+        "Inhibits acetylcholinesterase",
+        "Inhibits ACh release by cleaving SNARE proteins",
+        "Prevents glycine release from inhibitory interneurons",
+        "Increases ACh reuptake"
+      ],
+      "answer": 2,
+      "explanation": "Botulinum toxin memotong protein SNARE → vesikel ACh tidak bisa fusi → pelepasan ACh terhambat → flaccid paralysis."
+    },
+    {
+      "question": "A 55-year-old farmer's wife with an untreated compound fracture develops trismus and muscle twitching two weeks later. What does the bacterial toxin do?",
+      "options": [
+        "Inhibits glycine and GABA synthesis",
+        "Blocks glycine and GABA receptors",
+        "Prevents glycine and GABA release",
+        "Inhibits glycine and GABA reuptake",
+        "Prevents glycine and GABA breakdown"
+      ],
+      "answer": 2,
+      "explanation": "Tetanus toxin (tetanospasmin) memotong SNARE di interneuron inhibitorik (Renshaw) → pelepasan glycine & GABA dicegah → disinhibisi motor neuron → spasme, trismus."
+    },
+    {
+      "question": "Which enzyme catalyzes the rate-limiting step in serotonin synthesis?",
+      "options": [
+        "Tyrosine hydroxylase",
+        "Aromatic L-amino acid decarboxylase",
+        "Monoamine oxidase",
+        "Tryptophan hydroxylase",
+        "Choline acetyltransferase"
+      ],
+      "answer": 3,
+      "explanation": "Serotonin (biogenic amine/indolamine) disintesis dari tryptophan; tryptophan hydroxylase di terminal presinaps adalah enzim rate-limiting. Tyrosine hydroxylase untuk catecholamine."
+    },
+    {
+      "question": "What is the correct sequence of neocortex layers from the white matter to the outer surface?",
+      "options": [
+        "Molecular, external granular, external pyramidal, internal granular, internal pyramidal, multiform",
+        "Multiform, internal pyramidal, internal granular, external pyramidal, external granular, molecular",
+        "Multiform, internal pyramidal, external pyramidal, internal granular, external granular, molecular",
+        "Molecular, external granular, internal granular, external pyramidal, internal pyramidal, multiform",
+        "Multiform, internal granular, internal pyramidal, external granular, external pyramidal, molecular"
+      ],
+      "answer": 1,
+      "explanation": "Dari permukaan: I molecular, II external granular, III external pyramidal, IV internal granular, V internal pyramidal, VI multiform. Dari white matter = urutan terbalik."
+    },
+    {
+      "question": "A 60-year-old woman with uncontrolled hypertension for 5 years is found in the bathroom with decreased consciousness (soporous). BP 170/100 mmHg, right-sided weakness, and abnormal plantar response on the right. What is the most likely diagnosis?",
+      "options": [
+        "Atherothrombotic stroke",
+        "Hemorrhagic stroke",
+        "Guillain-Barré syndrome",
+        "Brain infection",
+        "Head trauma"
+      ],
+      "answer": 1,
+      "explanation": "Hipertensi tak terkontrol, onset mendadak saat aktivitas, penurunan kesadaran berat, TD tinggi → hemorrhagic stroke. Lesi UMN di hemisfer kiri (otak), sistem carotid. Konfirmasi dengan CT (hiperdens)."
+    },
+    {
+      "question": "A 47-year-old woman has progressive ascending weakness and absent deep tendon reflexes, 3 weeks after diarrhea. Plantar responses are flexor. What is the first step to confirm the diagnosis?",
+      "options": [
+        "Brain MRI",
+        "Blood culture",
+        "Stool culture",
+        "Nerve conduction study",
+        "Electroencephalogram"
+      ],
+      "answer": 3,
+      "explanation": "Gambaran khas Guillain-Barré syndrome. Konfirmasi dengan nerve conduction study (demyelination: konduksi melambat, conduction block) dan CSF albuminocytologic dissociation."
+    },
+    {
+      "question": "In Guillain-Barré syndrome, infection triggers antibodies that attack peripheral Schwann cells. What is the final outcome of this process?",
+      "options": [
+        "Segmental demyelination",
+        "Upper motor neuron degeneration",
+        "Inhibition of glutamate secretion",
+        "Loss of dopaminergic neurons",
+        "Blockade of nicotinic receptors"
+      ],
+      "answer": 0,
+      "explanation": "Molecular mimicry → antibodi menyerang myelin/Schwann cell → segmental demyelination (AIDP) di peripheral nervous system → konduksi lambat, areflexia."
+    },
+    {
+      "question": "A 60-year-old hypertensive smoker develops sudden right-sided weakness and aphasia. He arrives within 30 minutes, and a CT scan within 1 hour is normal. What is the next most appropriate step?",
+      "options": [
+        "Intravenous heparin",
+        "Oral aspirin",
+        "Urgent electroencephalogram",
+        "Urgent carotid angiogram",
+        "Intravenous tissue plasminogen activator"
+      ],
+      "answer": 4,
+      "explanation": "Ischemic stroke dalam window < 4,5 jam dan CT menyingkirkan perdarahan → thrombolysis dengan IV rtPA. CT awal sering normal pada infark akut."
+    },
+    {
+      "question": "A child with a febrile seizure is given diazepam. What is the mechanism of action?",
+      "options": [
+        "Decreases serotonin levels",
+        "Blocks glutamate NMDA receptors",
+        "Enhances GABA-A receptor activity",
+        "Increases dopamine levels",
+        "Blocks voltage-gated Na⁺ channels"
+      ],
+      "answer": 2,
+      "explanation": "Benzodiazepine berikatan dengan GABA-A receptor dan meningkatkan frekuensi pembukaan Cl⁻ channel → hiperpolarisasi → eksitabilitas neuron turun."
+    },
+    {
+      "question": "A seizure has motor or non-motor onset with consciousness fully preserved. How is it classified?",
+      "options": [
+        "Focal onset aware seizure",
+        "Focal onset impaired awareness seizure",
+        "Focal to bilateral tonic-clonic seizure",
+        "Generalized seizure",
+        "Typical absence seizure"
+      ],
+      "answer": 0,
+      "explanation": "Klasifikasi ILAE: kesadaran penuh = focal onset aware; kesadaran terganggu = focal impaired awareness."
+    },
+    {
+      "question": "A right-handed 50-year-old man has difficulty drawing and writing accurately and tends to overshoot the line. Muscle strength and sensation are normal. Where is the most likely problem?",
+      "options": [
+        "Brainstem",
+        "Motor cortex",
+        "Spinal cord",
+        "Basal ganglia",
+        "Cerebellum"
+      ],
+      "answer": 4,
+      "explanation": "Overshoot = dysmetria, tanda klasik lesi cerebellum (ipsilateral). Kekuatan dan sensorik normal menyingkirkan motor cortex dan jaras sensorik."
+    },
+    {
+      "question": "A 56-year-old man cannot see the right visual field in both eyes. Where is the most likely lesion?",
+      "options": [
+        "Left optic nerve",
+        "Optic chiasm",
+        "Left optic tract",
+        "Right optic tract",
+        "Right occipital lobe"
+      ],
+      "answer": 2,
+      "explanation": "Right homonymous hemianopia = lesi retrochiasmal kiri; pilihan yang ada adalah left optic tract. Lesi optic nerve hanya mengenai satu mata."
+    },
+    {
+      "question": "A pituitary tumor compresses the optic chiasm from below. Which visual field defect is expected?",
+      "options": [
+        "Contralateral homonymous hemianopia",
+        "Bitemporal heteronymous hemianopia",
+        "Monocular blindness",
+        "Superior quadrantanopia",
+        "Binasal hemianopia"
+      ],
+      "answer": 1,
+      "explanation": "Chiasm berisi serat nasal retina yang menyilang (membawa lapang pandang temporal) → bitemporal hemianopia."
+    },
+    {
+      "question": "A swinging flashlight test shows the left pupil dilating when it is illuminated (left RAPD). What is the most likely cause?",
+      "options": [
+        "Third cranial nerve lesion",
+        "Optic tract lesion",
+        "Occipital cortex lesion",
+        "Cataract",
+        "Left optic nerve lesion"
+      ],
+      "answer": 4,
+      "explanation": "RAPD = defek jalur afferent sebelum chiasm, khas lesi optic nerve. Cataract tidak menyebabkan RAPD; lesi CN III mengganggu efferent."
+    },
+    {
+      "question": "A doctor checks the pupillary light reflex of an unconscious narcotic user with a penlight. Which nerves are the afferent and efferent limbs of this reflex?",
+      "options": [
+        "Optic nerve and trigeminal nerve",
+        "Optic nerve and oculomotor nerve",
+        "Oculomotor nerve and trochlear nerve",
+        "Oculomotor nerve and trigeminal nerve",
+        "Optic nerve and abducens nerve"
+      ],
+      "answer": 1,
+      "explanation": "Afferent: CN II → pretectal nucleus. Efferent: Edinger-Westphal → CN III (parasympathetic) → ciliary ganglion → sphincter pupillae."
+    },
+    {
+      "question": "An 8-year-old boy reads books clearly but cannot see the blackboard. VA 6/12 in the right eye, corrected with S −0.75 to 6/6. What is the most appropriate therapy?",
+      "options": [
+        "Plus spherical lenses",
+        "Minus spherical lenses",
+        "Cylindrical lenses",
+        "Minus spherical and cylindrical lenses",
+        "LASIK surgery"
+      ],
+      "answer": 1,
+      "explanation": "Myopia: bayangan jatuh di depan retina → koreksi dengan lensa spheris minus (concave) sesuai hasil refraksi. LASIK hanya untuk dewasa dengan refraksi stabil."
+    },
+    {
+      "question": "A 40-year-old man has right hearing loss. Rinne: right negative, left positive. Weber: lateralized to the right. Schwabach: right prolonged. What is the mechanism?",
+      "options": [
+        "Air conduction in the right ear is better than bone conduction",
+        "Bone conduction in the right ear is better than air conduction (conductive loss)",
+        "Bone conduction in the right ear is worse than normal",
+        "Sensorineural loss in the right ear",
+        "Sensorineural loss in the left ear"
+      ],
+      "answer": 1,
+      "explanation": "Rinne negatif (BC > AC), Weber lateralisasi ke telinga sakit, dan Schwabach memanjang → conductive hearing loss kanan."
+    },
+    {
+      "question": "A 59-year-old man has left-sided hearing loss, a 'rushing' tinnitus, and episodic spinning vertigo with nausea lasting 6–12 hours. Weber lateralizes to the right; Rinne is positive. What is the most likely diagnosis?",
+      "options": [
+        "Presbyacusis",
+        "Cholesteatoma",
+        "Labyrinthitis",
+        "Meniere disease",
+        "Benign paroxysmal positional vertigo"
+      ],
+      "answer": 3,
+      "explanation": "Triad Meniere: vertigo episodik (20 menit – jam), tinnitus, tuli sensorineural (Weber ke telinga sehat, Rinne positif), sering disertai aural fullness. BPPV hanya berlangsung detik dan pendengaran normal."
+    },
+    {
+      "question": "Andi listens to opera singers hitting high-frequency notes. Where does the basilar membrane vibrate maximally?",
+      "options": [
+        "Helicotrema",
+        "Apex",
+        "Basal region",
+        "Tectorial membrane at the apex",
+        "Middle turn only"
+      ],
+      "answer": 2,
+      "explanation": "Tonotopi: basal (dekat oval window, membran sempit dan kaku) = frekuensi tinggi; apex/helicotrema = frekuensi rendah."
+    },
+    {
+      "question": "A 9-year-old girl gets nausea, vomiting, and dizziness whenever she travels on a winding bus road. Which part of the ear plays the main role?",
+      "options": [
+        "Semicircular canals",
+        "Malleus",
+        "Tympanic membrane",
+        "Eustachian tube",
+        "Cochlea"
+      ],
+      "answer": 0,
+      "explanation": "Motion sickness terjadi karena konflik input vestibular (semicircular canals mendeteksi akselerasi angular) dengan input visual. Otolith organs mendeteksi akselerasi linear dan head tilt."
+    },
+    {
+      "question": "An 8-year-old boy has a blocked left ear after a cold, a temperature of 39°C, and a bulging tympanic membrane with fluid behind it. Which stage of acute otitis media is this?",
+      "options": [
+        "Occlusion",
+        "Hyperemia",
+        "Suppuration",
+        "Perforation",
+        "Resolution"
+      ],
+      "answer": 2,
+      "explanation": "Stadium AOM: occlusion (retraksi) → hyperemia → suppuration (bulging, demam tinggi) → perforation (sekret keluar) → resolution. Hearing test akan menunjukkan conductive hearing loss."
+    },
+    {
+      "question": "A 30-year-old carpenter claims he is a bodyguard for the prime minister of an unknown country and is afraid policemen want to catch him. What is the most likely symptom?",
+      "options": [
+        "Idea of reference",
+        "Illusion",
+        "Impaired judgement",
+        "Delusion",
+        "Symbolization"
+      ],
+      "answer": 3,
+      "explanation": "Keyakinan salah yang dipegang teguh dan tidak sesuai latar belakang = delusion (grandiose + persecutory). Idea of reference tidak seteguh delusion."
+    },
+    {
+      "question": "A roommate finds a patient's talk hard to understand because he always strays from the topic and never returns to it. What thought disturbance is this?",
+      "options": [
+        "Logorrhea",
+        "Perseveration",
+        "Clang association",
+        "Derailment",
+        "Circumstantiality"
+      ],
+      "answer": 3,
+      "explanation": "Derailment (loosening of association): ide melompat keluar topik tanpa hubungan logis sehingga sulit dipahami. Circumstantiality berbelit-belit tetapi akhirnya sampai ke jawaban."
+    },
+    {
+      "question": "When asked a question, a 40-year-old man first discusses news events and other unrelated topics, then eventually gives the correct answer. What symptom best fits?",
+      "options": [
+        "Circumstantiality",
+        "Concrete thinking",
+        "Disorientation",
+        "Negative symptoms",
+        "Perseveration"
+      ],
+      "answer": 0,
+      "explanation": "Circumstantiality: banyak detail tidak relevan, tetapi tujuan akhirnya tercapai. Bedakan dengan tangentiality dan derailment yang tidak kembali ke tujuan."
+    },
+    {
+      "question": "A 20-year-old woman has been constantly sad, anxious, tearful, and withdrawn for three months after being raped, with frightening nightmares. What is the most likely diagnosis?",
+      "options": [
+        "Acute stress disorder",
+        "Adjustment disorder",
+        "Generalized anxiety disorder",
+        "Major depressive disorder",
+        "Post-traumatic stress disorder"
+      ],
+      "answer": 4,
+      "explanation": "Trauma berat + re-experiencing (nightmare) + gejala > 1 bulan → PTSD. Acute stress disorder hanya 3 hari – 1 bulan."
+    },
+    {
+      "question": "A 33-year-old man has drunk-driving arrests and was fired from two jobs for alcohol on his breath, but blames his bosses. He has no withdrawal symptoms and has never tried to cut down. What is the most likely diagnosis?",
+      "options": [
+        "Alcohol dependence",
+        "Alcohol abuse",
+        "Alcohol intoxication",
+        "Alcohol use",
+        "Narcissistic personality disorder"
+      ],
+      "answer": 1,
+      "explanation": "Masalah sosial/hukum berulang akibat alkohol tanpa tanda toleransi atau withdrawal = alcohol abuse. Dependence ditandai toleransi, withdrawal, dan usaha gagal mengurangi."
+    },
+    {
+      "question": "A 30-year-old unconscious man has pin-point pupils, perioral cyanosis, and shallow breathing at 3–5 breaths per minute. He responds only to sternal rub. Which drug did he most likely take?",
+      "options": [
+        "Amphetamine",
+        "Benzodiazepine",
+        "Cocaine",
+        "Ketamine",
+        "Opiate"
+      ],
+      "answer": 4,
+      "explanation": "Triad opioid intoxication: miosis (pin-point), depresi napas, penurunan kesadaran. Respons hanya terhadap sternal rub = stupor. Terapi: naloxone."
+    },
+    {
+      "question": "A 28-year-old man has severe restlessness, anxiety, myalgia, and insomnia, with dilated pupils, lacrimation, diaphoresis, and piloerection. Withdrawal from which drug is most likely?",
+      "options": [
+        "Cocaine",
+        "Glue inhalation",
+        "Methamphetamine",
+        "Opioid",
+        "Modafinil"
+      ],
+      "answer": 3,
+      "explanation": "Opioid withdrawal: mydriasis, lakrimasi, rhinorrhea, piloerection (goosebumps), diaphoresis, myalgia, kram perut, diare. Kebalikan dari gambaran intoksikasi."
+    },
+    {
+      "question": "A mother asks whether her disheveled 19-year-old son has schizophrenia. Which symptom would be most indicative of schizophrenia?",
+      "options": [
+        "Symptoms present for less than one week",
+        "Visual hallucinations",
+        "Believes other people can read his thoughts",
+        "Disoriented in time and place",
+        "Hears his name called once"
+      ],
+      "answer": 2,
+      "explanation": "Thought broadcasting adalah first-rank symptom (Schneider) yang khas schizophrenia. Disorientasi mengarah ke gangguan organik/delirium; halusinasi visual lebih sering pada gangguan organik/substance."
+    },
+    {
+      "question": "A 34-year-old man is fearful, believes people are watching and threatening him by phone, and says he communicates with his dead grandfather. What pharmacotherapy is most appropriate?",
+      "options": [
+        "Dopamine antagonist or serotonin-dopamine antagonist",
+        "SSRI or lithium",
+        "Benzodiazepine or SSRI",
+        "Carbamazepine or lithium",
+        "Carbamazepine or dopamine antagonist"
+      ],
+      "answer": 0,
+      "explanation": "Gejala psikotik (delusion persecutory + hallucination) akibat hiperaktivitas dopaminergik mesolimbic → antipsikotik: typical (D2 antagonist) atau atypical (serotonin-dopamine antagonist)."
+    },
+    {
+      "question": "A 25-year-old woman has had a sad mood all day, loss of interest, fatigue, poor concentration, and insomnia for a month, with no other psychiatric history. Which therapy is most appropriate?",
+      "options": [
+        "Aripiprazole 1 × 15 mg",
+        "Valproate 2 × 250 mg",
+        "Fluoxetine 1 × 20 mg",
+        "Clozapine 2 × 300 mg",
+        "Alprazolam 3 × 0.25 mg"
+      ],
+      "answer": 2,
+      "explanation": "Major depressive disorder (≥ 2 minggu depressed mood + anhedonia + gejala lain). Lini pertama: SSRI seperti fluoxetine. Serotonin adalah neurotransmitter utama yang terlibat."
+    },
+    {
+      "question": "As an intern, you are asked to evaluate a patient's recent memory. Which test is most appropriate?",
+      "options": [
+        "Remember three items (a yellow pencil, a cocker spaniel, Cincinnati) and repeat them after a few minutes",
+        "What place is this? Where is it located?",
+        "Who was your teacher?",
+        "How are an apple and an orange alike?",
+        "Repeat these numbers after me: 1, 4, 9, 2, 5"
+      ],
+      "answer": 0,
+      "explanation": "Recent memory = mengingat 3 benda setelah beberapa menit. Digit span = immediate memory/atensi; tempat = orientasi; guru masa lalu = remote memory; persamaan = abstraksi."
+    },
+    {
+      "question": "During the five-vesicle stage of brain development, which pairing of vesicle and definitive structure is correct?",
+      "options": [
+        "Telencephalon → pons",
+        "Diencephalon → cerebellum",
+        "Metencephalon → pons and cerebellum",
+        "Myelencephalon → midbrain",
+        "Mesencephalon → thalamus"
+      ],
+      "answer": 2,
+      "explanation": "Telencephalon → cerebral hemispheres; diencephalon → thalamus, hypothalamus; mesencephalon → midbrain; metencephalon → pons + cerebellum; myelencephalon → medulla oblongata."
+    },
+    {
+      "question": "A 50-year-old man has severe head injuries with a poor prognosis. Some family members want everything done, but no one knows his wishes. What will be most influential in the clinical decision?",
+      "options": [
+        "The potential for cruel or degrading treatment",
+        "The 'substitute judgement' test",
+        "The principle of an individual's right to life",
+        "The 'best interests' of the patient test",
+        "Local euthanasia laws"
+      ],
+      "answer": 3,
+      "explanation": "Substitute judgement hanya dipakai jika keinginan pasien diketahui. Bila tidak diketahui, keputusan berdasarkan best interests pasien (beneficence & non-maleficence)."
+    }
+  ]
+}

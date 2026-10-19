@@ -1,0 +1,606 @@
+{
+  "title": "Dermato-Musculo-Skeletal (DMS) - 50 High-Yield Questions",
+  "description": "50 soal topik paling sering muncul di formative DMS.",
+  "questions": [
+    {
+      "question": "A 40-year-old man awakens with excruciating pain, redness and swelling of the right first metatarsophalangeal joint. Joint aspiration is performed. Which finding on polarized light microscopy confirms the most likely diagnosis?",
+      "options": [
+        "Needle-shaped, negatively birefringent monosodium urate crystals",
+        "Flat, notched cholesterol plates with few leukocytes",
+        "Envelope-shaped, non-birefringent calcium oxalate crystals",
+        "Gram-positive cocci in clusters with many neutrophils",
+        "Rhomboid, positively birefringent calcium pyrophosphate crystals"
+      ],
+      "answer": 0,
+      "explanation": "Gout akut (podagra) dikonfirmasi dengan aspirasi sendi: kristal monosodium urate berbentuk jarum, negatively birefringent. Rhomboid + positively birefringent = pseudogout (CPPD)."
+    },
+    {
+      "question": "A 38-year-old overweight teacher who drinks beer regularly presents with a 2-day history of a hot, swollen, very tender left ankle. He is afebrile. What is the best initial treatment?",
+      "options": [
+        "Intravenous morphine as the only analgesic",
+        "Allopurinol 300 mg daily started immediately",
+        "Oral NSAID such as diclofenac at full dose",
+        "Febuxostat 80 mg daily started immediately",
+        "Probenecid 500 mg twice daily started immediately"
+      ],
+      "answer": 2,
+      "explanation": "Serangan gout akut diterapi dengan anti-inflamasi: NSAID (diclofenac/indomethacin), colchicine, atau corticosteroid. Urate-lowering therapy (allopurinol, febuxostat, probenecid) tidak dimulai saat serangan akut."
+    },
+    {
+      "question": "After the acute attack of gout has settled, the patient is started on allopurinol. What is its mechanism of action?",
+      "options": [
+        "Converts uric acid into the more soluble allantoin",
+        "Inhibits xanthine oxidase, decreasing uric acid production",
+        "Binds tubulin, reducing neutrophil migration into the joint",
+        "Inhibits URAT1, increasing renal excretion of uric acid",
+        "Inhibits cyclooxygenase, reducing prostaglandin synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Allopurinol = xanthine oxidase inhibitor, sehingga produksi uric acid turun. URAT1 inhibition = uricosuric (probenecid), tubulin = colchicine, allantoin = pegloticase/rasburicase, COX = NSAID."
+    },
+    {
+      "question": "Gouty arthritis is caused by precipitation of uric acid crystals in the joint. Which drug is effective in increasing the rate of uric acid excretion in urine?",
+      "options": [
+        "Allopurinol",
+        "Colchicine",
+        "Indomethacin",
+        "Mefenamic acid",
+        "Probenecid"
+      ],
+      "answer": 4,
+      "explanation": "Probenecid adalah uricosuric agent: menghambat reabsorpsi urate di proximal tubule sehingga ekskresi uric acid di urin meningkat."
+    },
+    {
+      "question": "Why should allopurinol NOT be started during an acute attack of gout?",
+      "options": [
+        "Allopurinol only works once serum urate has returned to normal range",
+        "Allopurinol interacts dangerously with every NSAID given for the flare",
+        "Allopurinol causes immediate bone marrow suppression in inflamed joints",
+        "Allopurinol becomes nephrotoxic whenever serum urate is still elevated",
+        "Abrupt changes in serum urate can mobilize crystals and prolong the flare"
+      ],
+      "answer": 4,
+      "explanation": "Penurunan urate yang mendadak dapat melarutkan sebagian tophi/mikrokristal sehingga memicu atau memperpanjang flare. Mulai allopurinol setelah serangan reda (biasanya dengan prophylaxis colchicine/NSAID)."
+    },
+    {
+      "question": "A 50-year-old man admitted for congestive heart failure is treated with diuretics. Four days later he develops sudden painful swelling of the right knee with mild redness and warmth; he is afebrile. How would you confirm the diagnosis?",
+      "options": [
+        "Serum rheumatoid factor level",
+        "Plain X-ray of the affected knee",
+        "Joint aspirate and blood cultures",
+        "ANA and anti-dsDNA antibody titers",
+        "Joint aspiration for crystal analysis"
+      ],
+      "answer": 4,
+      "explanation": "Diuretik (loop/thiazide) menurunkan ekskresi urate dan memicu gout akut. Diagnosis pasti gout = aspirasi sendi untuk mencari kristal monosodium urate."
+    },
+    {
+      "question": "Which of the following drugs is most likely to precipitate an acute attack of gout?",
+      "options": [
+        "Beta-blocker",
+        "ACE inhibitor",
+        "Thiazide diuretic",
+        "Calcium channel blocker",
+        "HMG-CoA reductase inhibitor"
+      ],
+      "answer": 2,
+      "explanation": "Thiazide dan loop diuretic menurunkan ekskresi uric acid di ginjal sehingga menyebabkan hyperuricemia dan memicu gout. Aspirin dosis rendah dan alkohol juga merupakan pemicu."
+    },
+    {
+      "question": "A patient has gout associated with accelerated de novo purine biosynthesis. Uric acid excretion decreases when uracil and nicotinamide are administered. What is the most probable cause of the accelerated purine synthesis?",
+      "options": [
+        "Increased availability of glycine",
+        "Increased availability of PP-ribose-P (PRPP)",
+        "Decreased feedback inhibition by UTP and NAD",
+        "Increased availability of glutamine",
+        "Increased availability of tetrahydrofolate"
+      ],
+      "answer": 1,
+      "explanation": "Uracil dan nicotinamide memakai PRPP untuk membentuk nukleotida/NAD. Karena pemberiannya menurunkan ekskresi uric acid, penyebab percepatan sintesis purine adalah ketersediaan PRPP yang berlebih."
+    },
+    {
+      "question": "Many patients with gout have wrong perceptions about nutritional risk factors. Which advice best corrects these perceptions?",
+      "options": [
+        "Stay on strict bed rest until serum urate returns to normal",
+        "Stop all gout medication as soon as the joint pain resolves",
+        "Replace plain water intake with beer or sweetened fruit juice",
+        "Avoid organ meat, eat a balanced diet, and drink adequate water",
+        "Follow a high-protein diet rich in red meat and seafood"
+      ],
+      "answer": 3,
+      "explanation": "Edukasi diet gout: kurangi makanan tinggi purine (organ meat, seafood), hindari alkohol terutama beer dan minuman tinggi fructose, diet seimbang, dan minum air putih cukup."
+    },
+    {
+      "question": "A man with recurrent gouty attacks and persistently high serum urate also has a history of uric acid kidney stones. Which urate-lowering drug should be avoided?",
+      "options": [
+        "Febuxostat",
+        "Pegloticase",
+        "Allopurinol",
+        "Colchicine",
+        "Probenecid"
+      ],
+      "answer": 4,
+      "explanation": "Uricosuric agent (probenecid) meningkatkan uric acid di urin sehingga risiko batu ginjal bertambah. Kontraindikasi pada riwayat urolithiasis dan overproducer."
+    },
+    {
+      "question": "Medical students are studying the pharmacology of acetaminophen (paracetamol). Which statement about this drug is correct?",
+      "options": [
+        "It is considered safe in pregnancy at therapeutic doses",
+        "It is very highly bound to plasma proteins in the blood",
+        "Its anti-inflammatory effect is equal to that of ibuprofen",
+        "It must be given cautiously to patients with peptic ulcer",
+        "It selectively inhibits the cyclooxygenase-2 enzyme only"
+      ],
+      "answer": 0,
+      "explanation": "Paracetamol aman untuk ibu hamil pada dosis terapi, efek anti-inflamasinya lemah, tidak mengiritasi gaster (aman untuk peptic ulcer), protein binding rendah, dan bukan selective COX-2 inhibitor."
+    },
+    {
+      "question": "A 68-year-old man with hypertension, type 2 diabetes and creatinine clearance 25% of normal needs analgesia for painful cervical osteoarthritis. Which drug is most appropriate?",
+      "options": [
+        "Celecoxib",
+        "Paracetamol",
+        "Ibuprofen",
+        "Piroxicam",
+        "Diclofenac"
+      ],
+      "answer": 1,
+      "explanation": "Pada chronic kidney disease, semua NSAID (termasuk COX-2 selective seperti celecoxib) bersifat nefrotoksik. Paracetamol adalah pilihan analgesik yang aman."
+    },
+    {
+      "question": "A 52-year-old woman with heavy alcohol use increases her ibuprofen dose to 600 mg four times daily for 6 months to control osteoarthritis pain. Which toxicity is most likely?",
+      "options": [
+        "Cardiac arrhythmias",
+        "Confusion and ataxia",
+        "Gastric ulceration",
+        "Necrotizing fasciitis",
+        "Blurred vision"
+      ],
+      "answer": 2,
+      "explanation": "NSAID menghambat COX-1 sehingga prostaglandin pelindung mukosa gaster berkurang. Dosis tinggi jangka panjang + alkohol meningkatkan risiko gastric ulceration."
+    },
+    {
+      "question": "A 69-year-old woman with bone metastases is hospitalised for severe, worsening pain. Which analgesic is most appropriate?",
+      "options": [
+        "Aspirin",
+        "Paracetamol",
+        "Diclofenac",
+        "Morphine",
+        "Codeine"
+      ],
+      "answer": 3,
+      "explanation": "Nyeri kanker berat berada di step 3 WHO analgesic ladder, sehingga opioid kuat seperti morphine adalah pilihan. Codeine = opioid lemah (step 2)."
+    },
+    {
+      "question": "A 46-year-old woman has a 3-month history of pain and stiffness in multiple joints, with 2 hours of morning stiffness. You suspect rheumatoid arthritis. Which distribution of joint involvement most strongly supports this diagnosis?",
+      "options": [
+        "Distal interphalangeal joints and first MTP joint only",
+        "First carpometacarpal and distal interphalangeal joints",
+        "Proximal interphalangeal and metacarpophalangeal joints",
+        "Wrists together with distal interphalangeal joints",
+        "Hips and knees with sparing of all small hand joints"
+      ],
+      "answer": 2,
+      "explanation": "Rheumatoid arthritis bersifat simetris pada small joints: PIP, MCP, dan wrist; DIP biasanya tidak terlibat. DIP + first CMC adalah pola osteoarthritis."
+    },
+    {
+      "question": "A 38-year-old woman with a 6-month history of pain, stiffness and swelling of the small joints of both hands is RF-positive and struggles with daily tasks despite diclofenac. Which statement is correct?",
+      "options": [
+        "She is likely to have developed joint erosions already",
+        "Her RF titer should be monitored to track disease activity",
+        "NSAID dose escalation alone will prevent joint damage",
+        "It is too early to decide whether she needs a DMARD",
+        "Her arthritis will probably burn itself out within months"
+      ],
+      "answer": 0,
+      "explanation": "Erosi pada RA sering sudah muncul dalam beberapa bulan pertama, sehingga DMARD harus dimulai sedini mungkin. RF tidak dipakai untuk memantau aktivitas penyakit."
+    },
+    {
+      "question": "A 69-year-old man has had joint pain in the hands and vertebrae for over a decade. Which sequence of pathological changes best describes his condition?",
+      "options": [
+        "Cartilage erosion, then subchondral sclerosis and osteophyte formation",
+        "Urate crystal deposition, then tophi and punched-out bone erosions",
+        "Synovial pannus, then marginal erosions and periarticular osteopenia",
+        "Inflammation of entheses, then syndesmophytes and spinal fusion",
+        "Generalized loss of bone mass with microarchitectural deterioration"
+      ],
+      "answer": 0,
+      "explanation": "Osteoarthritis: erosi articular cartilage, kemudian subchondral sclerosis, subchondral cyst, dan osteophyte. Pannus = RA, tophi = gout, bone mass loss = osteoporosis, syndesmophyte = ankylosing spondylitis."
+    },
+    {
+      "question": "An 80-year-old woman complains of pain in the knees and hands. Investigations show ANA 1:80 and negative rheumatoid factor. What is the most likely cause?",
+      "options": [
+        "Systemic lupus erythematosus",
+        "Seronegative rheumatoid arthritis",
+        "Primary osteoarthritis",
+        "Gout",
+        "Polymyalgia rheumatica"
+      ],
+      "answer": 2,
+      "explanation": "Pada lansia, ANA titer rendah (1:80) sering positif tanpa makna klinis. Nyeri lutut dan tangan pada lansia paling sering disebabkan osteoarthritis."
+    },
+    {
+      "question": "A 22-year-old man has had persistent low back pain for 4 years and now has a red, painful right eye with decreasing vision. Which test is most important to establish the diagnosis?",
+      "options": [
+        "Chlamydial antibody titers",
+        "Rheumatoid factor",
+        "HLA-B27 typing",
+        "Scalene node biopsy",
+        "Chest X-ray"
+      ],
+      "answer": 2,
+      "explanation": "Pria muda dengan inflammatory low back pain + anterior uveitis mengarah ke ankylosing spondylitis, yang berkaitan kuat dengan HLA-B27."
+    },
+    {
+      "question": "A 6-year-old child has a one-day history of leg pain and fever. There is tenderness over the upper tibia but full painless range of motion of the knee. X-ray is normal and WBC is 18 x 10^9/L. What is the most likely diagnosis?",
+      "options": [
+        "Acute leukaemia",
+        "Osgood-Schlatter disease",
+        "Osteosarcoma",
+        "Septic arthritis",
+        "Acute osteomyelitis"
+      ],
+      "answer": 4,
+      "explanation": "Anak dengan demam, nyeri tekan metafisis, sendi bebas bergerak, dan leukositosis menunjukkan acute osteomyelitis. X-ray baru berubah setelah sekitar 10-14 hari."
+    },
+    {
+      "question": "A 56-year-old woman has bilateral knee pain that has progressed over 2 years. There is pain on full flexion but no warmth or redness. Which investigation is most appropriate?",
+      "options": [
+        "MRI of both knees",
+        "Rheumatoid factor",
+        "Antinuclear antibodies",
+        "X-ray of both knees",
+        "Serum urate level"
+      ],
+      "answer": 3,
+      "explanation": "Gambaran klinis sesuai osteoarthritis. Pemeriksaan awal terpilih adalah X-ray: joint space narrowing, osteophyte, dan subchondral sclerosis."
+    },
+    {
+      "question": "A 19-year-old student with a healing radius fracture asks which cells make osteoid and promote its mineralisation, giving the healed bone its strength. These cells are:",
+      "options": [
+        "Osteoblasts",
+        "Chondrocytes",
+        "Osteocytes",
+        "Chondroblasts",
+        "Osteoclasts"
+      ],
+      "answer": 0,
+      "explanation": "Osteoblast mensintesis osteoid (type I collagen) dan memulai mineralisasi. Osteocyte = osteoblast yang terperangkap di matriks, osteoclast = resorpsi tulang."
+    },
+    {
+      "question": "During remodeling of cortical bone after a stress fracture, a cone of cells leads advancing capillaries and dissolves a tunnel through the bone. From which cell lineage do these cutting cone cells arise?",
+      "options": [
+        "Osteoblasts",
+        "Chondroblasts",
+        "Osteoprogenitor cells",
+        "Monocytes",
+        "Fibroblasts"
+      ],
+      "answer": 3,
+      "explanation": "Cutting cone dibentuk oleh osteoclast, yang berasal dari monocyte/macrophage lineage (hematopoietic). Osteoblast berasal dari osteoprogenitor (mesenchymal)."
+    },
+    {
+      "question": "A 75-year-old widow complains of generalized bone aching and increasing curvature of her upper spine. X-ray shows osteopenia and vertebral changes. Serum calcium, phosphate, alkaline phosphatase and ESR are normal. What is the most likely diagnosis?",
+      "options": [
+        "Paget's disease",
+        "Osteoporosis",
+        "Hyperparathyroidism",
+        "Multiple myeloma",
+        "Osteomalacia"
+      ],
+      "answer": 1,
+      "explanation": "Pada osteoporosis, Ca, phosphate, ALP, dan ESR normal. Osteomalacia: Ca/P rendah, ALP tinggi. Paget: ALP sangat tinggi. Hyperparathyroidism: Ca tinggi. Myeloma: ESR tinggi."
+    },
+    {
+      "question": "A 78-year-old woman fractures the neck of her femur after a fall. Regarding hormones that regulate bone remodelling, which statement is correct?",
+      "options": [
+        "Pharmacological glucocorticoids enhance bone formation",
+        "Thyroid hormone excess increases bone mineral density",
+        "Calcitonin increases bone resorption by osteoclasts",
+        "Continuously high PTH improves bone connectivity",
+        "Estrogens inhibit excessive bone turnover"
+      ],
+      "answer": 4,
+      "explanation": "Estrogen menekan bone turnover berlebih, sehingga defisiensinya setelah menopause menyebabkan osteoporosis. PTH kontinu, glucocorticoid, dan hyperthyroidism mengurangi massa tulang; calcitonin justru menghambat osteoclast."
+    },
+    {
+      "question": "During development of the vertebral column, sclerotome cells surround the spinal cord and notochord. The notochord later regresses and persists as the:",
+      "options": [
+        "Vertebral arch",
+        "Vertebral body",
+        "Annulus fibrosus",
+        "Nucleus pulposus",
+        "Costal process"
+      ],
+      "answer": 3,
+      "explanation": "Sisa notochord menjadi nucleus pulposus pada intervertebral disc. Annulus fibrosus, vertebral body, dan vertebral arch berasal dari sclerotome."
+    },
+    {
+      "question": "A section of cortical bone from the distal femur shows highly organized concentric lamellae encircling a central canal containing a capillary. How were these structures formed?",
+      "options": [
+        "By endochondral ossification",
+        "By remodeling of existing bone",
+        "By intramembranous ossification",
+        "By appositional growth beneath periosteum",
+        "By interstitial growth of cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Struktur tersebut adalah osteon (Haversian system), yang terbentuk melalui bone remodeling: cutting cone (osteoclast) diikuti closing cone (osteoblast)."
+    },
+    {
+      "question": "A 30-year-old manual worker sustains a spiral fracture of the shaft of the humerus. Which nerve is most liable to injury?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve",
+        "Median nerve"
+      ],
+      "answer": 1,
+      "explanation": "Radial nerve berjalan di radial (spiral) groove humerus, sehingga paling sering cedera pada fraktur mid-shaft humerus."
+    },
+    {
+      "question": "A fracture of the middle third of the humeral shaft is diagnosed and radial nerve damage is suspected. If so, the patient will most likely be unable to:",
+      "options": [
+        "Extend the wrist against gravity",
+        "Oppose the thumb to the little finger",
+        "Abduct and adduct the fingers",
+        "Feel pinprick over the little finger",
+        "Flex the elbow against resistance"
+      ],
+      "answer": 0,
+      "explanation": "Cedera radial nerve di spiral groove menyebabkan wrist drop karena extensor forearm lumpuh. Triceps biasanya masih berfungsi karena cabangnya keluar lebih proksimal."
+    },
+    {
+      "question": "A 50-year-old woman involved in a car accident complains of numbness around her thumb. Examination shows an extended thumb that cannot be flexed. Which nerve is most likely damaged?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve",
+        "Ulnar nerve",
+        "Median nerve"
+      ],
+      "answer": 4,
+      "explanation": "Flexor pollicis longus dan kulit palmar thumb dipersarafi median nerve (cabang anterior interosseous untuk FPL), sehingga thumb tidak bisa flexed."
+    },
+    {
+      "question": "A 20-year-old front seat passenger is admitted after a road traffic accident with severe right hip pain. The leg is shortened, flexed, adducted and internally rotated. What is the most likely diagnosis?",
+      "options": [
+        "Intertrochanteric fracture",
+        "Fracture of the femoral neck",
+        "Anterior hip dislocation",
+        "Posterior hip dislocation",
+        "Central hip dislocation"
+      ],
+      "answer": 3,
+      "explanation": "Dashboard injury menyebabkan posterior hip dislocation: tungkai pendek, flexed, adducted, dan internally rotated. Fraktur neck of femur: pendek dan externally rotated."
+    },
+    {
+      "question": "A patient with a posterior dislocation of the hip after a dashboard injury is assessed. Which is an EARLY complication of this condition?",
+      "options": [
+        "Secondary osteoarthritis of the hip",
+        "Heterotopic ossification of the hip",
+        "Injury to the sciatic nerve",
+        "Injury to the femoral nerve",
+        "Avascular necrosis of the femoral head"
+      ],
+      "answer": 2,
+      "explanation": "Sciatic nerve berada tepat di posterior hip joint sehingga mudah tertekan/teregang saat dislokasi (komplikasi dini). AVN dan osteoarthritis adalah komplikasi lanjut."
+    },
+    {
+      "question": "An 86-year-old woman falls at night. She lies with her right leg externally rotated and shortened, and any movement of the leg causes extreme pain. What is the most likely diagnosis?",
+      "options": [
+        "Fractured right neck of femur",
+        "Fractured sacrum",
+        "Fractured lumbar vertebra",
+        "Fractured symphysis pubis",
+        "Posterior dislocation of the right hip"
+      ],
+      "answer": 0,
+      "explanation": "Lansia (sering osteoporosis) jatuh dengan tungkai shortened + externally rotated merupakan gambaran khas fractured neck of femur."
+    },
+    {
+      "question": "A 29-year-old man falls onto his abducted arm. His shoulder has lost its normal rounded contour and he cannot abduct it. What is the most likely diagnosis?",
+      "options": [
+        "Fractured surgical neck of humerus",
+        "Fractured clavicle",
+        "Ruptured supraspinatus tendon",
+        "Fractured scapula",
+        "Anterior shoulder dislocation"
+      ],
+      "answer": 4,
+      "explanation": "Hilangnya kontur bahu (squared-off shoulder) setelah jatuh dengan lengan abducted menunjukkan anterior shoulder dislocation. Cek fungsi axillary nerve."
+    },
+    {
+      "question": "A 25-year-old skateboarder falls on his outstretched hand and sustains a displaced fracture through the waist of the scaphoid. After 3 months in plaster he still has wrist pain and stiffness. What is the most likely complication?",
+      "options": [
+        "Median nerve compression at the wrist",
+        "Rupture of the extensor pollicis longus",
+        "Malunion with dorsal angulation of radius",
+        "Complex regional pain syndrome type 1",
+        "Avascular necrosis of the proximal pole"
+      ],
+      "answer": 4,
+      "explanation": "Suplai darah scaphoid masuk dari distal (retrograde), sehingga fraktur waist berisiko avascular necrosis pada proximal pole dan non-union."
+    },
+    {
+      "question": "A slightly obese middle-aged woman has burning pain, numbness and tingling in her hands that wake her at night. There is thenar wasting in the left hand. What is the most likely diagnosis?",
+      "options": [
+        "Carpal tunnel syndrome",
+        "Costoclavicular compression",
+        "Ulnar nerve compression",
+        "Cervical rib",
+        "Cervical spondylosis"
+      ],
+      "answer": 0,
+      "explanation": "Kompresi median nerve di carpal tunnel menyebabkan parestesia malam hari dan atrofi thenar. Faktor risiko: wanita, obesitas, hypothyroidism, pregnancy."
+    },
+    {
+      "question": "After a traffic accident, examination of an injured right knee shows exaggerated posterior movement of the tibia relative to the femur. Which structure is most likely damaged?",
+      "options": [
+        "Posterior cruciate ligament",
+        "Posterior horn, lateral meniscus",
+        "Posterior horn, medial meniscus",
+        "Anterior cruciate ligament",
+        "Medial collateral ligament"
+      ],
+      "answer": 0,
+      "explanation": "PCL mencegah tibia bergeser ke posterior (posterior drawer/sag sign), sering cedera pada dashboard injury. ACL mencegah translasi anterior."
+    },
+    {
+      "question": "A 21-year-old sprains his right ankle playing football. He cannot bear weight, the ankle is swollen with ecchymosis, and there is lateral malleolar tenderness. What is the best next step?",
+      "options": [
+        "Referral to an orthopaedic clinic",
+        "Plaster cast of the ankle",
+        "Aspiration of the ankle joint",
+        "X-ray of the foot and ankle",
+        "Rest, ice, compression and elevation"
+      ],
+      "answer": 3,
+      "explanation": "Menurut Ottawa ankle rules, ketidakmampuan menumpu 4 langkah atau nyeri tekan malleolus adalah indikasi X-ray untuk menyingkirkan fraktur."
+    },
+    {
+      "question": "When an action potential invades the T-tubule of skeletal muscle, which sequence of events leads to contraction?",
+      "options": [
+        "ACh binds the T-tubule, SR pumps Ca2+ back in, troponin T releases actin, and myosin binds actin",
+        "L-type Ca2+ channel lets Ca2+ enter the fibre, which then triggers SR release, Ca2+ binds troponin I",
+        "Ryanodine receptor opens first, then DHP receptor admits Ca2+, which binds tropomyosin directly",
+        "Na+ entry activates calmodulin, which activates myosin light chain kinase and myosin binds actin",
+        "DHP receptor interacts with ryanodine receptor, SR releases Ca2+, Ca2+ binds troponin C, myosin binds actin"
+      ],
+      "answer": 4,
+      "explanation": "Pada skeletal muscle, dihydropyridine receptor berinteraksi secara mekanis dengan ryanodine receptor (tidak perlu Ca2+ ekstrasel), Ca2+ dari SR berikatan dengan troponin C, troponin I lepas dari actin, lalu cross-bridge terbentuk. Calmodulin-MLCK adalah mekanisme smooth muscle."
+    },
+    {
+      "question": "An athlete completes a 400 m race in 45 seconds. Compared with just before the race, which biochemical change is most likely in his skeletal muscle immediately afterwards?",
+      "options": [
+        "Mitochondrial oxygen consumption is increased",
+        "Cytoplasmic lactate concentration is decreased",
+        "Fatty acid synthesis in muscle is increased",
+        "Muscle creatine phosphate content is increased",
+        "Muscle glycogen stores are increased"
+      ],
+      "answer": 0,
+      "explanation": "Saat latihan intens, konsumsi O2 mitokondria naik, sedangkan glycogen dan creatine phosphate turun dan lactate naik akibat glikolisis anaerob."
+    },
+    {
+      "question": "During intense skeletal muscle work, ATP levels may fall. Which change in adenine nucleotides leads to enhanced rates of glycolysis?",
+      "options": [
+        "AMP falls to a greater extent than ATP does",
+        "AMP falls in direct proportion to the fall in ATP",
+        "AMP rises to a much greater extent than ATP falls",
+        "ADP falls to a greater extent than ATP does",
+        "ADP falls in direct proportion to the fall in ATP"
+      ],
+      "answer": 2,
+      "explanation": "Adenylate kinase (2 ADP ⇄ ATP + AMP) membuat AMP naik berlipat ganda saat ATP sedikit turun. AMP mengaktifkan phosphofructokinase-1 dan glycogen phosphorylase."
+    },
+    {
+      "question": "A 6-year-old boy has progressively increasing difficulty walking. Examination shows calf hypertrophy and a positive Gowers sign. What is the most likely diagnosis?",
+      "options": [
+        "Spinal muscular atrophy",
+        "Spastic diplegic cerebral palsy",
+        "Guillain-Barré syndrome",
+        "Duchenne muscular dystrophy",
+        "Myotonic dystrophy"
+      ],
+      "answer": 3,
+      "explanation": "Duchenne muscular dystrophy: X-linked (mutasi dystrophin), anak laki-laki, pseudohypertrophy calf, Gowers sign positif, CK sangat tinggi."
+    },
+    {
+      "question": "A 25-year-old woman who washes dishes part-time has had recurrent dryness, scaling and fissuring of both palms for a year. Her hands are often wet and in contact with detergent; symptoms relapse when treatment stops. What is the most important management?",
+      "options": [
+        "Potent topical corticosteroids",
+        "Emollients or occlusive dressings",
+        "Identify and eliminate the irritants",
+        "Topical calcineurin inhibitors",
+        "Narrowband UVB phototherapy"
+      ],
+      "answer": 2,
+      "explanation": "Chronic irritant contact dermatitis: kunci tata laksana adalah identifikasi dan eliminasi iritan (air, detergent). Steroid dan emolien hanya simtomatik sehingga keluhan kambuh jika paparan berlanjut."
+    },
+    {
+      "question": "A 1-year-old girl has had a rash on her cheeks for 2 weeks and appears uncomfortable, with no contact with irritants or allergens. Her father has allergic rhinitis and her grandfather has asthma. What is the most likely diagnosis?",
+      "options": [
+        "Atopic dermatitis",
+        "Autosensitization dermatitis",
+        "Infectious eczematoid dermatitis",
+        "Nummular dermatitis",
+        "Irritant contact dermatitis"
+      ],
+      "answer": 0,
+      "explanation": "Atopic dermatitis infantile: lesi eczema di pipi/wajah, pruritus, dan riwayat atopi keluarga (allergic rhinitis, asthma)."
+    },
+    {
+      "question": "A 15-year-old girl has pustules and comedones on her face, neck and upper arms that worsen just before her period. There is no fever or itching. What is the most likely mechanism of this disease?",
+      "options": [
+        "Chronic inflammation and hypertrophy of eccrine glands",
+        "Hyperplasia of the soft connective tissue of skin",
+        "Inflammatory disease of the pilosebaceous follicles",
+        "Disease always caused by diet and psychological stress",
+        "Type IV cell-mediated hypersensitivity reaction"
+      ],
+      "answer": 2,
+      "explanation": "Acne vulgaris adalah penyakit inflamasi pilosebaceous follicle: hiperkeratinisasi, sebum meningkat (dipengaruhi androgen/siklus haid), Cutibacterium acnes, dan inflamasi."
+    },
+    {
+      "question": "A 25-year-old woman has itchy lesions with thick scales on her arms and hands that sometimes disappear for over a year. The Auspitz sign is positive. Biopsy shows epidermal hyperplasia and dilated vessels in the dermal papillae. What is the most likely diagnosis?",
+      "options": [
+        "Allergic contact dermatitis",
+        "Psoriasis vulgaris",
+        "Irritant contact dermatitis",
+        "Nummular eczema",
+        "Erythema multiforme"
+      ],
+      "answer": 1,
+      "explanation": "Psoriasis: plak eritematosa dengan skuama tebal, Auspitz sign positif, remisi-eksaserbasi, histo epidermal hyperplasia (acanthosis) + dilatasi pembuluh darah di dermal papillae."
+    },
+    {
+      "question": "A woman in her 50s has a 6 cm grey-white, cauliflower-like lump on her arm that bleeds easily and has grown over 6 months. Biopsy shows atypical tumour cells with keratin-containing cytoplasm. What is the most likely diagnosis?",
+      "options": [
+        "Basal cell carcinoma",
+        "Neuroendocrine carcinoma",
+        "Malignant melanoma",
+        "Squamous cell carcinoma",
+        "Porocarcinoma"
+      ],
+      "answer": 3,
+      "explanation": "Squamous cell carcinoma: massa verukosa/cauliflower, mudah berdarah, histo sel atipik dengan keratinisasi (keratin pearls)."
+    },
+    {
+      "question": "Pus from a boil on a woman's leg shows Gram-positive cocci in clusters. The coagulase test is negative and the organism is sensitive to novobiocin. What is the most likely organism?",
+      "options": [
+        "Staphylococcus saprophyticus",
+        "Micrococcus luteus",
+        "Staphylococcus aureus",
+        "Streptococcus pyogenes",
+        "Staphylococcus epidermidis"
+      ],
+      "answer": 4,
+      "explanation": "Coagulase-negative + novobiocin-sensitive = S. epidermidis (S. saprophyticus novobiocin-resistant, S. aureus coagulase-positive). Bakteri masuk ke hair follicle melalui kerusakan barrier kulit (garukan)."
+    },
+    {
+      "question": "A man injured in a robbery has a laceration on the left side of his face (2 x 3 x 0.5 cm, irregular edges, base in subcutaneous tissue). Police request a Visum et Repertum. How should this wound be written in the examination result?",
+      "options": [
+        "There is a severe facial injury which endangers life, caused by blunt force trauma",
+        "On the left face there is an open wound, irregular edges, 2 x 3 x 0.5 cm, base subcutis",
+        "There is a laceration on the left face, most likely caused by the robber's weapon",
+        "There is an open wound on the left side of the face caused by sharp force trauma",
+        "On the left face there is a wound, cause and severity to be judged by the police"
+      ],
+      "answer": 1,
+      "explanation": "Bagian hasil pemeriksaan visum et repertum memuat deskripsi objektif (lokasi, jenis luka, tepi, ukuran, dasar luka) tanpa menyimpulkan penyebab. Kesimpulan ditulis di bagian terpisah."
+    },
+    {
+      "question": "Speeding is a leading cause of road traffic injuries. Which measure is a form of health education to prevent such accidents?",
+      "options": [
+        "Installing speed guns or radar on the roads",
+        "Raising awareness about how deadly speeding is",
+        "Social support for victims of road accidents",
+        "Developing and widening the road network",
+        "Regulations about speed limits on city roads"
+      ],
+      "answer": 1,
+      "explanation": "Health education berfokus pada pengetahuan, sikap, dan kesadaran individu. Regulasi, penegakan hukum (speed radar), dan pembangunan jalan termasuk health promotion/protection yang lebih luas."
+    }
+  ]
+}

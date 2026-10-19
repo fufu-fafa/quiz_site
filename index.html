@@ -99,11 +99,24 @@
     details ul { padding-left: 20px; }
     code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
 
+    /* Library */
+    .block { margin-top: 24px; }
+    .block h2 { font-size: 1rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 8px; }
+    .quiz-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+    .quiz-row { width: 100%; text-align: left; padding: 12px 14px; display: block; }
+    .quiz-row:hover:not(:disabled) { border-color: var(--accent); }
+    .quiz-row .row-top { display: flex; justify-content: space-between; gap: 12px; font-weight: 600; }
+    .quiz-row .count { color: var(--muted); font-weight: 400; white-space: nowrap; }
+    .quiz-row .desc { display: block; color: var(--muted); font-size: 0.9rem; margin-top: 2px; }
+    .back-btn { padding: 6px 12px; font-size: 0.9rem; margin-bottom: 16px; }
+    details.own { margin-top: 28px; }
+
     /* Quiz screen */
     .meta { display: flex; justify-content: space-between; color: var(--muted); font-size: 0.9rem; }
     .progress { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin: 8px 0 24px; }
     .progress > div { height: 100%; width: 0; background: var(--accent); transition: width 0.2s; }
     .question { font-size: 1.15rem; font-weight: 600; margin: 0 0 16px; white-space: pre-line; }
+    .q-image { display: block; max-width: 100%; max-height: 360px; margin: 0 auto 16px; border-radius: 8px; border: 1px solid var(--border); }
     .options { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
     .option { width: 100%; text-align: left; padding: 12px 14px; }
     .option:hover:not(:disabled) { border-color: var(--accent); }
@@ -128,8 +141,16 @@
 
   <!-- 1. Upload -->
   <section id="upload-screen" class="card">
-    <h1>Take a Quiz</h1>
-    <p class="muted">Upload or paste a quiz file (<code>.json</code>) to get started.</p>
+    <h1>Quiz Library</h1>
+    <p class="muted">Pick a quiz to start.</p>
+
+    <div id="library" aria-live="polite"><p class="muted" style="margin-top: 20px;">Loading quizzes…</p></div>
+
+    <div id="upload-error" class="error hidden" role="alert"></div>
+
+    <details id="own-quiz" class="own">
+    <summary>Load your own quiz</summary>
+    <p class="muted" style="margin-top: 8px;">Upload or paste a quiz file (<code>.json</code>).</p>
 
     <label id="dropzone" class="dropzone" for="file-input">
       <strong>Choose a file</strong> or drag it here
@@ -141,8 +162,6 @@
     <div class="actions end" style="margin-top: 10px;">
       <button id="paste-btn" class="primary" type="button" disabled>Start quiz</button>
     </div>
-
-    <div id="upload-error" class="error hidden" role="alert"></div>
 
     <div class="actions">
       <button id="try-sample-btn" type="button">Try the sample quiz</button>
@@ -169,10 +188,12 @@
         <li>Comments (<code>//</code>) above are for explanation only — real JSON files can't contain them.</li>
       </ul>
     </details>
+    </details>
   </section>
 
   <!-- 2. Quiz -->
   <section id="quiz-screen" class="card hidden">
+    <button id="quit-btn" class="back-btn" type="button">← Back to library</button>
     <h1 id="quiz-title"></h1>
     <p id="quiz-description" class="muted"></p>
 
@@ -183,10 +204,12 @@
     <div class="progress"><div id="progress-bar"></div></div>
 
     <p id="question-text" class="question"></p>
+    <img id="question-image" class="q-image hidden" alt="Question image">
     <ul id="options" class="options"></ul>
     <div id="feedback" class="feedback hidden" role="status"></div>
 
-    <div class="actions end">
+    <div class="actions end" style="justify-content: space-between;">
+      <button id="prev-btn" type="button">← Previous</button>
       <button id="next-btn" class="primary" type="button" disabled>Next</button>
     </div>
   </section>
@@ -200,7 +223,7 @@
 
     <div class="actions">
       <button id="retake-btn" class="primary" type="button">Retake quiz</button>
-      <button id="new-quiz-btn" type="button">Load another quiz</button>
+      <button id="new-quiz-btn" type="button">Back to library</button>
     </div>
 
     <ol id="review" class="review"></ol>
@@ -210,6 +233,7 @@
 
 <script>
   const SAMPLE_URL = "sample-quiz.json";
+  const MANIFEST_URL = "quizzes/index.json";
 
   const $ = (id) => document.getElementById(id);
 
@@ -267,7 +291,8 @@
         question: String(q.question ?? ""),
         options,
         answer,
-        explanation: typeof q.explanation === "string" ? q.explanation : ""
+        explanation: typeof q.explanation === "string" ? q.explanation : "",
+        image: typeof q.image === "string" ? q.image : ""
       };
     });
 
@@ -281,6 +306,7 @@
       quiz: {
         title: typeof data.title === "string" && data.title.trim() ? data.title : "Quiz",
         description: typeof data.description === "string" ? data.description : "",
+        shuffleOptions: data.shuffleOptions !== false, // set false to keep options in file order
         questions
       }
     };
@@ -382,6 +408,75 @@
     }
   });
 
+  // ---------- Library ----------
+
+  async function openLibraryQuiz(item) {
+    try {
+      const res = await fetch(encodeURI(item.file));
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      loadQuizText(await res.text(), `"${item.title}"`);
+    } catch (err) {
+      showError(`Couldn't load "${item.title}" (${err.message}).`);
+    }
+  }
+
+  async function loadLibrary() {
+    const box = $("library");
+    try {
+      const res = await fetch(MANIFEST_URL);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const manifest = await res.json();
+      box.innerHTML = "";
+      manifest.blocks.forEach((block) => {
+        const section = document.createElement("div");
+        section.className = "block";
+        const h = document.createElement("h2");
+        h.textContent = block.name;
+        section.appendChild(h);
+
+        const list = document.createElement("ul");
+        list.className = "quiz-list";
+        block.quizzes.forEach((item) => {
+          const li = document.createElement("li");
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "quiz-row";
+
+          const top = document.createElement("span");
+          top.className = "row-top";
+          const title = document.createElement("span");
+          title.textContent = item.title;
+          const count = document.createElement("span");
+          count.className = "count";
+          count.textContent = `${item.count} Qs`;
+          top.append(title, count);
+          btn.appendChild(top);
+
+          if (item.description) {
+            const desc = document.createElement("span");
+            desc.className = "desc";
+            desc.textContent = item.description;
+            btn.appendChild(desc);
+          }
+          btn.addEventListener("click", () => openLibraryQuiz(item));
+          li.appendChild(btn);
+          list.appendChild(li);
+        });
+        section.appendChild(list);
+        box.appendChild(section);
+      });
+    } catch (err) {
+      box.innerHTML = "";
+      const p = document.createElement("p");
+      p.className = "muted";
+      p.style.marginTop = "20px";
+      p.textContent = `Couldn't load the quiz library (${err.message}). ` +
+        "Serve the folder over HTTP (python3 -m http.server) or use \"Load your own quiz\" below.";
+      box.appendChild(p);
+      $("own-quiz").open = true;
+    }
+  }
+
   // ---------- Quiz flow ----------
 
   function showScreen(id) {
@@ -412,7 +507,8 @@
 
   function startQuiz() {
     // New random order every time the quiz starts (including retakes).
-    quiz.questions = shuffle(quiz.questions).map(shuffleOptions);
+    quiz.questions = shuffle(quiz.questions);
+    if (quiz.shuffleOptions) quiz.questions = quiz.questions.map(shuffleOptions);
     current = 0;
     picks = new Array(quiz.questions.length).fill(null);
     $("quiz-title").textContent = quiz.title;
@@ -434,6 +530,9 @@
     $("score-counter").textContent = `Score: ${correctCount()}`;
     $("progress-bar").style.width = `${(current / total) * 100}%`;
     $("question-text").textContent = q.question;
+    const img = $("question-image");
+    img.classList.toggle("hidden", !q.image);
+    if (q.image) img.src = q.image; else img.removeAttribute("src");
 
     const list = $("options");
     list.innerHTML = "";
@@ -452,16 +551,24 @@
     const next = $("next-btn");
     next.disabled = true;
     next.textContent = current === total - 1 ? "See results" : "Next";
+    $("prev-btn").disabled = current === 0;
+
+    // Coming back to a question that was already answered: show it locked, with feedback.
+    if (picks[current] !== null) showAnswer(picks[current]);
   }
 
   function choose(index) {
     if (picks[current] !== null) return; // already answered
     picks[current] = index;
+    showAnswer(index);
+    $("next-btn").focus();
+  }
 
+  // Lock the options, mark right/wrong, and show feedback for the current question.
+  function showAnswer(index) {
     const q = quiz.questions[current];
     const isCorrect = index === q.answer;
-    const buttons = $("options").querySelectorAll(".option");
-    buttons.forEach((btn, i) => {
+    $("options").querySelectorAll(".option").forEach((btn, i) => {
       btn.disabled = true;
       if (i === q.answer) btn.classList.add("correct");
       else if (i === index) btn.classList.add("wrong");
@@ -480,8 +587,14 @@
 
     $("score-counter").textContent = `Score: ${correctCount()}`;
     $("next-btn").disabled = false;
-    $("next-btn").focus();
   }
+
+  $("prev-btn").addEventListener("click", () => {
+    if (current > 0) {
+      current--;
+      renderQuestion();
+    }
+  });
 
   $("next-btn").addEventListener("click", () => {
     if (current < quiz.questions.length - 1) {
@@ -545,6 +658,15 @@
     quiz = null;
     showScreen("upload-screen");
   });
+
+  $("quit-btn").addEventListener("click", () => {
+    const started = picks.some((p) => p !== null);
+    if (started && !confirm("Leave this quiz? Your progress will be lost.")) return;
+    quiz = null;
+    showScreen("upload-screen");
+  });
+
+  loadLibrary();
 </script>
 </body>
 </html>

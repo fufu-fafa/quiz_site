@@ -1,0 +1,606 @@
+{
+  "title": "Spinal Cord & Tracts II - 50 Soal Baru",
+  "description": "50 soal set kedua: meninges, embryology, reflex circuit, brainstem tracts, autonomic.",
+  "questions": [
+    {
+      "question": "The filum terminale (externum) anchors the lower end of the dural sac and spinal cord to which structure?",
+      "options": [
+        "Body of L2 vertebra",
+        "Sacral promontory",
+        "Dorsum of the coccyx",
+        "Iliac crest",
+        "Ligamentum flavum of L5"
+      ],
+      "answer": 2,
+      "explanation": "Filum terminale adalah lanjutan pia mater dari conus medullaris. Filum terminale internum berada di dalam dural sac sampai S2; setelah itu menjadi filum terminale externum (coccygeal ligament) yang melekat ke dorsum coccyx."
+    },
+    {
+      "question": "Which structure, formed by lateral extensions of the pia mater between the dorsal and ventral roots, anchors the spinal cord to the dura on each side?",
+      "options": [
+        "Denticulate ligament",
+        "Ligamentum flavum",
+        "Filum terminale",
+        "Posterior longitudinal ligament",
+        "Arachnoid granulation"
+      ],
+      "answer": 0,
+      "explanation": "Denticulate ligaments (sekitar 21 pasang) adalah lipatan pia mater berbentuk gigi di antara dorsal dan ventral roots, menambatkan cord ke arachnoid/dura secara lateral. Ligamentum flavum adalah ligamen vertebra, bukan meninges."
+    },
+    {
+      "question": "In an adult, at which vertebral level does the dural sac (and subarachnoid space) usually end?",
+      "options": [
+        "L1",
+        "L3",
+        "L5",
+        "S2",
+        "Coccyx"
+      ],
+      "answer": 3,
+      "explanation": "Dural sac berakhir di S2. Ruang antara conus medullaris (L1–L2) dan S2 adalah lumbar cistern yang berisi CSF dan cauda equina, tempat lumbar puncture."
+    },
+    {
+      "question": "An anesthetist injects local anesthetic into the space between the dura mater and the vertebral periosteum. What does this space normally contain?",
+      "options": [
+        "Cerebrospinal fluid",
+        "Arachnoid trabeculae",
+        "Denticulate ligaments",
+        "Choroid plexus",
+        "Fat and the internal vertebral venous plexus"
+      ],
+      "answer": 4,
+      "explanation": "Epidural space (di luar dura) berisi lemak, internal vertebral venous plexus, dan nerve roots yang lewat; tidak ada CSF. CSF berada di subarachnoid space."
+    },
+    {
+      "question": "A worker falls from a height and fractures the T12–L1 vertebrae. Which part of the spinal cord lies at this vertebral level and is most at risk?",
+      "options": [
+        "Cervical enlargement",
+        "Conus medullaris (sacral segments)",
+        "Mid-thoracic segments",
+        "Cauda equina only, with no cord tissue",
+        "Filum terminale externum"
+      ],
+      "answer": 1,
+      "explanation": "Karena cord lebih pendek dari columna vertebralis, segmen tidak sejajar dengan vertebra. Vertebra T11–T12 menutupi segmen lumbar, dan T12–L1 menutupi segmen sacral (conus medullaris)."
+    },
+    {
+      "question": "A typical posterolateral disc herniation between L4 and L5 most commonly compresses which nerve root?",
+      "options": [
+        "L3",
+        "L4",
+        "L5",
+        "S1",
+        "S2"
+      ],
+      "answer": 2,
+      "explanation": "Di lumbar, root L4 keluar di atas diskus L4–L5 (melalui foramen L4–L5 bagian atas). Herniasi posterolateral menekan root yang sedang turun (traversing), yaitu L5."
+    },
+    {
+      "question": "A 45-year-old man has neck pain radiating to the lateral forearm and thumb, weak elbow flexion, and a reduced biceps and brachioradialis reflex. Which nerve root is most likely compressed?",
+      "options": [
+        "C4",
+        "C5",
+        "C7",
+        "C6",
+        "C8"
+      ],
+      "answer": 3,
+      "explanation": "C6 radiculopathy (sering akibat diskus C5–C6): nyeri/baal lengan bawah lateral & ibu jari, kelemahan fleksi siku/ekstensi pergelangan, refleks biceps dan brachioradialis turun. Di cervical, root keluar di atas vertebra dengan nomor yang sama."
+    },
+    {
+      "question": "During development of the spinal cord, which structure gives rise to the dorsal (posterior) horn?",
+      "options": [
+        "Basal plate",
+        "Floor plate",
+        "Roof plate",
+        "Notochord",
+        "Alar plate"
+      ],
+      "answer": 4,
+      "explanation": "Alar plate (dorsal, sensory) → posterior horn; basal plate (ventral, motor) → anterior dan lateral horn. Keduanya dipisahkan oleh sulcus limitans."
+    },
+    {
+      "question": "The sensory neurons of the dorsal root ganglion are derived from which embryonic tissue?",
+      "options": [
+        "Neural crest",
+        "Alar plate of the neural tube",
+        "Mesoderm",
+        "Endoderm",
+        "Notochord"
+      ],
+      "answer": 0,
+      "explanation": "Neural crest membentuk neuron DRG, Schwann cells, satellite cells, ganglion autonom, dan adrenal medulla. Neuron di dalam cord berasal dari neural tube."
+    },
+    {
+      "question": "A newborn has a sac protruding from the lumbosacral region containing meninges and neural tissue, with paralysis of the legs. Maternal serum AFP was elevated. Which measure best prevents this condition?",
+      "options": [
+        "Vitamin A supplementation",
+        "Iron supplementation",
+        "Periconceptional folic acid",
+        "Vitamin B12 in the third trimester",
+        "Avoiding caffeine"
+      ],
+      "answer": 2,
+      "explanation": "Myelomeningocele (neural tube defect, paling sering lumbosacral) akibat gagal menutupnya posterior neuropore. AFP meningkat. Pencegahan: asam folat sebelum dan awal kehamilan."
+    },
+    {
+      "question": "Which cells line the central canal of the spinal cord?",
+      "options": [
+        "Astrocytes",
+        "Ependymal cells",
+        "Microglia",
+        "Oligodendrocytes",
+        "Schwann cells"
+      ],
+      "answer": 1,
+      "explanation": "Central canal adalah sisa lumen neural tube, dilapisi ependymal cells, dan bersambung dengan ventrikel IV. Pelebarannya (hydromyelia/syrinx) merusak anterior white commissure."
+    },
+    {
+      "question": "A spinal cord section is oval and wide, with a large amount of white matter, very large anterior horns, and both fasciculus gracilis and fasciculus cuneatus. Which level is it?",
+      "options": [
+        "Lower cervical (C7–C8)",
+        "Mid-thoracic (T6)",
+        "Lumbar (L4)",
+        "Sacral (S3)",
+        "Coccygeal"
+      ],
+      "answer": 0,
+      "explanation": "Cervical bawah: paling banyak white matter (semua tract naik/turun lewat sini), bentuk oval, anterior horn besar (cervical enlargement untuk lengan), dan fasciculus cuneatus ada."
+    },
+    {
+      "question": "A spinal cord section shows small, thin anterior and posterior horns, a distinct lateral horn, Clarke's nucleus, and both fasciculus gracilis and cuneatus. Which level is it?",
+      "options": [
+        "C5",
+        "L4",
+        "S2",
+        "T4",
+        "Co1"
+      ],
+      "answer": 3,
+      "explanation": "Thoracic: horn kecil (sedikit otot yang dipersarafi), lateral horn jelas (T1–L2), Clarke's nucleus (C8–L3). Adanya fasciculus cuneatus berarti di atas T6, jadi upper thoracic seperti T4."
+    },
+    {
+      "question": "A small, round spinal cord section shows gray matter occupying most of the area with only a thin rim of white matter and no lateral horn. Which level is it?",
+      "options": [
+        "C2",
+        "C8",
+        "T8",
+        "L1",
+        "Sacral"
+      ],
+      "answer": 4,
+      "explanation": "Sacral: ukuran kecil, gray matter dominan karena sebagian besar serat ascending belum bergabung dan serat descending sudah berakhir di atasnya. Tidak ada lateral horn yang khas."
+    },
+    {
+      "question": "Which descending tract travels in the anterior funiculus of the spinal cord?",
+      "options": [
+        "Lateral corticospinal tract",
+        "Anterior corticospinal tract",
+        "Rubrospinal tract",
+        "Fasciculus gracilis",
+        "Posterior spinocerebellar tract"
+      ],
+      "answer": 1,
+      "explanation": "Anterior funiculus: anterior corticospinal, medial vestibulospinal, tectospinal, pontine reticulospinal, anterior spinothalamic. Lateral funiculus: lateral corticospinal, rubrospinal, spinocerebellar, lateral spinothalamic. Posterior funiculus: gracilis & cuneatus."
+    },
+    {
+      "question": "Within lamina IX of the anterior horn, where are the motor neurons that supply the distal limb muscles (e.g., intrinsic hand muscles)?",
+      "options": [
+        "Medial group",
+        "Posterior horn",
+        "Lateral horn",
+        "Around the central canal (lamina X)",
+        "Lateral group"
+      ],
+      "answer": 4,
+      "explanation": "Somatotopi anterior horn: grup medial → otot aksial/badan (ada di semua level); grup lateral → otot anggota gerak, terutama di enlargement (distal paling lateral, fleksor di dorsal)."
+    },
+    {
+      "question": "What is the function of gamma motor neurons in the anterior horn?",
+      "options": [
+        "Innervate intrafusal fibers to maintain muscle spindle sensitivity",
+        "Innervate extrafusal fibers to generate force",
+        "Carry pain from muscles",
+        "Provide recurrent inhibition",
+        "Innervate Golgi tendon organs"
+      ],
+      "answer": 0,
+      "explanation": "Gamma motor neuron mengontraksikan ujung intrafusal fiber sehingga spindle tetap peka terhadap regangan saat otot memendek (alpha-gamma coactivation). Alpha motor neuron mempersarafi extrafusal fiber."
+    },
+    {
+      "question": "Collaterals of alpha motor neurons excite small interneurons in the anterior horn that feed back to inhibit the same motor neurons. Which cells are these, and what transmitter do they use?",
+      "options": [
+        "Purkinje cells; GABA",
+        "Betz cells; glutamate",
+        "Renshaw cells; glycine",
+        "Pyramidal cells; acetylcholine",
+        "Satellite cells; substance P"
+      ],
+      "answer": 2,
+      "explanation": "Renshaw cells memberi recurrent inhibition dengan glycine untuk menstabilkan firing motor neuron. Tetanus toxin mencegah pelepasan glycine dari sel ini; strychnine memblok reseptor glycine."
+    },
+    {
+      "question": "When a muscle develops excessive tension, it suddenly relaxes to protect the tendon. Which receptor and afferent fiber mediate this autogenic inhibition?",
+      "options": [
+        "Muscle spindle; Ia fiber",
+        "Muscle spindle; group II fiber",
+        "Pacinian corpuscle; Aβ fiber",
+        "Golgi tendon organ; Ib fiber",
+        "Free nerve ending; C fiber"
+      ],
+      "answer": 3,
+      "explanation": "Golgi tendon organ (di myotendinous junction) mendeteksi tegangan → Ib afferent → interneuron inhibitorik → alpha motor neuron otot yang sama direlaksasi (inverse myotatic reflex)."
+    },
+    {
+      "question": "During the knee jerk, the quadriceps contracts while the hamstrings relax. Which mechanism causes the hamstring relaxation?",
+      "options": [
+        "Recurrent inhibition by Renshaw cells",
+        "Reciprocal inhibition via an Ia inhibitory interneuron",
+        "Autogenic inhibition from the Golgi tendon organ",
+        "Descending inhibition from the corticospinal tract",
+        "Presynaptic inhibition of C fibers"
+      ],
+      "answer": 1,
+      "explanation": "Ia afferent dari spindle quadriceps bersinaps langsung ke motor neuron quadriceps dan juga ke Ia inhibitory interneuron yang menghambat motor neuron hamstring (antagonis)."
+    },
+    {
+      "question": "A person steps on a nail with the right foot. The right leg flexes away while the left leg extends to support the body. What is this reflex?",
+      "options": [
+        "Stretch reflex",
+        "Inverse myotatic reflex",
+        "Babinski reflex",
+        "Crossed extensor reflex",
+        "Cremasteric reflex"
+      ],
+      "answer": 3,
+      "explanation": "Crossed extensor reflex: polysynaptic; nociceptor → interneuron → fleksi ipsilateral (withdrawal) dan, melalui commissural interneuron, ekstensi kontralateral untuk menopang berat badan."
+    },
+    {
+      "question": "The motor neurons of the spinal accessory nerve (CN XI), which supply the sternocleidomastoid and trapezius, are located in which region?",
+      "options": [
+        "Nucleus ambiguus in the medulla only",
+        "Lateral horn of T1–T4",
+        "Posterior horn of C1–C3",
+        "Anterior horn of S2–S4",
+        "Anterior horn of the upper cervical cord (C1–C5)"
+      ],
+      "answer": 4,
+      "explanation": "Spinal accessory nucleus berada di bagian lateral anterior horn C1–C5. Akarnya naik lewat foramen magnum lalu keluar lewat jugular foramen."
+    },
+    {
+      "question": "Onuf's nucleus in the anterior horn at S2 supplies which muscles via the pudendal nerve?",
+      "options": [
+        "External urethral and external anal sphincters",
+        "Detrusor muscle",
+        "Internal urethral sphincter",
+        "Gluteus maximus",
+        "Diaphragm"
+      ],
+      "answer": 0,
+      "explanation": "Onuf's nucleus (S2, sekitar S2–S4) mengontrol sphincter volunter (urethral dan anal external) melalui pudendal nerve; relatif terselamatkan pada ALS. Detrusor dipersarafi parasympathetic S2–S4, internal sphincter oleh sympathetic."
+    },
+    {
+      "question": "At the dorsal root entry zone, large myelinated fibers carrying fine touch and vibration take which route?",
+      "options": [
+        "Enter the lateral division and join Lissauer tract",
+        "Enter the medial division and ascend in the dorsal column",
+        "Synapse in the lateral horn",
+        "Cross immediately in the anterior white commissure",
+        "Exit through the ventral root"
+      ],
+      "answer": 1,
+      "explanation": "Divisi medial (serat besar Aβ) → dorsal column dan kolateral refleks. Divisi lateral (serat kecil Aδ dan C, nyeri/suhu) → Lissauer tract → posterior horn."
+    },
+    {
+      "question": "Hitting a finger with a hammer causes an immediate sharp, well-localized pain followed by a dull, burning ache. Which fibers carry the second (slow, burning) pain?",
+      "options": [
+        "Aα fibers",
+        "Aβ fibers",
+        "Unmyelinated C fibers",
+        "Aδ fibers",
+        "Ia fibers"
+      ],
+      "answer": 2,
+      "explanation": "Fast pain: Aδ (bermielin tipis, glutamate) → neospinothalamic → VPL → cortex, terlokalisir. Slow pain: C fiber (tak bermielin, substance P) → paleospinothalamic/spinoreticular → intralaminar thalamus, difus."
+    },
+    {
+      "question": "Rubbing a bumped elbow reduces the pain. According to the gate control theory, which mechanism explains this?",
+      "options": [
+        "C fibers block Aβ fibers in the dorsal column",
+        "Aβ fibers activate inhibitory interneurons in the substantia gelatinosa",
+        "Rubbing releases substance P",
+        "Rubbing activates the lateral corticospinal tract",
+        "Rubbing destroys nociceptors"
+      ],
+      "answer": 1,
+      "explanation": "Input Aβ (raba/tekan) mengaktifkan interneuron inhibitorik di substantia gelatinosa (lamina II) yang \"menutup gerbang\" transmisi nyeri dari Aδ/C ke projection neuron. Dasar TENS."
+    },
+    {
+      "question": "In the descending pain-modulation pathway, the periaqueductal gray activates which nucleus, whose serotonergic fibers inhibit pain transmission in the dorsal horn?",
+      "options": [
+        "Red nucleus",
+        "Locus coeruleus only",
+        "Nucleus gracilis",
+        "Nucleus raphe magnus",
+        "Substantia nigra"
+      ],
+      "answer": 3,
+      "explanation": "PAG (midbrain) → nucleus raphe magnus (medulla, serotonin) → dorsal horn → interneuron enkephalinergic menghambat pelepasan substance P dari afferent nyeri. Inilah salah satu target kerja opioid."
+    },
+    {
+      "question": "Early appendicitis causes pain around the umbilicus (T10 dermatome). What explains this referred pain?",
+      "options": [
+        "Visceral and somatic afferents converge on the same dorsal horn neurons",
+        "The appendix lies under the umbilicus",
+        "Visceral afferents travel in the dorsal column",
+        "The phrenic nerve supplies the appendix",
+        "Pain fibers from the appendix cross in the anterior white commissure to T1"
+      ],
+      "answer": 0,
+      "explanation": "Visceral afferent (ikut serat sympathetic) masuk ke segmen yang sama (T10) dengan afferent kulit umbilicus dan bersinaps pada neuron dorsal horn yang sama, sehingga otak \"menafsirkan\" nyeri berasal dari kulit."
+    },
+    {
+      "question": "With eyes closed, a patient cannot identify a key placed in his right hand, although pain and temperature sensation in the hand are normal and there is no weakness. A lesion in the cervical cord would most likely involve which structure?",
+      "options": [
+        "Left lateral spinothalamic tract",
+        "Right lateral corticospinal tract",
+        "Right fasciculus cuneatus",
+        "Left fasciculus gracilis",
+        "Right anterior horn"
+      ],
+      "answer": 2,
+      "explanation": "Astereognosis dengan pain/temp normal = gangguan DCML. Untuk tangan: fasciculus cuneatus, ipsilateral di spinal cord karena belum menyilang (menyilang di medulla)."
+    },
+    {
+      "question": "A 65-year-old has right-sided hemiparesis, loss of vibration and position sense on the right side of the body, and the tongue deviates to the left on protrusion. Where is the lesion?",
+      "options": [
+        "Left lateral medulla",
+        "Right medial medulla",
+        "Left internal capsule",
+        "Right spinal cord hemisection",
+        "Left medial medulla"
+      ],
+      "answer": 4,
+      "explanation": "Medial medullary syndrome (anterior spinal/vertebral artery) kiri: pyramid kiri → hemiparesis kanan; medial lemniscus kiri (sudah menyilang) → hilang DCML kanan; CN XII kiri → lidah deviasi ke kiri (ke sisi lesi)."
+    },
+    {
+      "question": "A patient with a left PICA infarct has hoarseness, dysphagia, vertigo, left limb ataxia, and left Horner syndrome. Which pattern of pain and temperature loss is expected?",
+      "options": [
+        "Left face and right body",
+        "Right face and left body",
+        "Left face and left body",
+        "Both sides of the body below the neck",
+        "No sensory loss"
+      ],
+      "answer": 0,
+      "explanation": "Lateral medullary (Wallenberg) syndrome: spinal trigeminal tract/nucleus (belum menyilang) → wajah ipsilateral; lateral spinothalamic (sudah menyilang di cord) → badan kontralateral. Pola silang ini khas lesi brainstem."
+    },
+    {
+      "question": "The giant pyramidal cells of the primary motor cortex that contribute to the corticospinal tract (Betz cells) are located in which cortical layer?",
+      "options": [
+        "Layer I (molecular)",
+        "Layer II (external granular)",
+        "Layer IV (internal granular)",
+        "Layer V (internal pyramidal)",
+        "Layer VI (multiform)"
+      ],
+      "answer": 3,
+      "explanation": "Betz cells ada di layer V area 4. Layer V adalah lapisan output utama ke subcortical (corticospinal, corticobulbar). Layer IV adalah input dari thalamus dan tebal di sensory cortex."
+    },
+    {
+      "question": "After a severe head injury, a comatose patient shows extension of all four limbs with internal rotation of the arms. Where is the lesion, and which tract is unopposed?",
+      "options": [
+        "Above the red nucleus; rubrospinal tract",
+        "Cerebral cortex only; corticospinal tract",
+        "Below the red nucleus (midbrain/pons); vestibulospinal and reticulospinal tracts",
+        "Spinal cord at C5; tectospinal tract",
+        "Cerebellum; spinocerebellar tract"
+      ],
+      "answer": 2,
+      "explanation": "Decerebrate posturing: lesi di bawah red nucleus memutus rubrospinal (fleksor) sehingga vestibulospinal & pontine reticulospinal (ekstensor) dominan. Decorticate (lengan fleksi, tungkai ekstensi): lesi di atas red nucleus."
+    },
+    {
+      "question": "Which tract descends bilaterally via the medial longitudinal fasciculus to the cervical cord and coordinates neck movements to stabilize head position during head motion?",
+      "options": [
+        "Lateral vestibulospinal tract",
+        "Medial vestibulospinal tract",
+        "Rubrospinal tract",
+        "Lateral corticospinal tract",
+        "Spinotectal tract"
+      ],
+      "answer": 1,
+      "explanation": "Medial vestibulospinal (dari medial vestibular nucleus) turun bilateral lewat MLF hanya sampai cervical, untuk vestibulocollic reflex. Lateral vestibulospinal ipsilateral di sepanjang cord untuk otot ekstensor/antigravitasi."
+    },
+    {
+      "question": "Months after a complete T8 spinal cord injury, once spinal shock has resolved, what type of bladder dysfunction is expected?",
+      "options": [
+        "Flaccid, large-capacity bladder with overflow incontinence",
+        "Normal voluntary control",
+        "Total absence of urine production",
+        "Isolated stress incontinence",
+        "Spastic (reflex) bladder with small-volume involuntary emptying"
+      ],
+      "answer": 4,
+      "explanation": "Lesi di atas pusat sacral (S2–S4) = UMN bladder: refleks sacral utuh tetapi lepas dari kontrol pontine → detrusor overactivity, sering dengan detrusor-sphincter dyssynergia. Lesi conus/cauda equina = LMN bladder (flaccid, overflow)."
+    },
+    {
+      "question": "A man with a complete C6 spinal cord injury suddenly develops a pounding headache, BP 210/120 mmHg, pulse 48, and flushing and sweating above the level of injury. His urinary catheter is blocked. What is the first step in management?",
+      "options": [
+        "Sit the patient upright and relieve the bladder distension (unblock or change the catheter)",
+        "Lay the patient flat with legs elevated",
+        "Give IV atropine and fluids",
+        "Give IV dexamethasone",
+        "Order an urgent MRI"
+      ],
+      "answer": 0,
+      "explanation": "Autonomic dysreflexia (lesi di atau di atas T6): stimulus di bawah lesi (kandung kemih penuh) → lonjakan sympathetic tanpa kontrol → hipertensi berat, bradikardia refleks. Dudukkan pasien, longgarkan pakaian, singkirkan pencetus; antihipertensi kerja cepat bila tetap tinggi."
+    },
+    {
+      "question": "Right after a cervical spine fracture with cord injury, a patient has BP 80/50 mmHg, pulse 50, and warm, dry extremities. What is the most likely cause?",
+      "options": [
+        "Hemorrhagic shock",
+        "Cardiogenic shock",
+        "Septic shock",
+        "Neurogenic shock from loss of sympathetic outflow",
+        "Autonomic dysreflexia"
+      ],
+      "answer": 3,
+      "explanation": "Neurogenic shock: cedera cervical/upper thoracic memutus jaras sympathetic descending → vasodilatasi (hipotensi, kulit hangat) + vagus tanpa lawan (bradikardia). Hemorrhagic shock biasanya takikardia dengan kulit dingin."
+    },
+    {
+      "question": "A 70-year-old man with cervical spondylosis falls forward and hyperextends his neck. He has marked weakness of both arms and hands, with only mild leg weakness. What explains the arm-predominant weakness?",
+      "options": [
+        "Arm fibers in the lateral corticospinal tract lie most medially, near the central gray",
+        "Arm fibers lie most laterally in the lateral corticospinal tract",
+        "Leg fibers travel in the anterior corticospinal tract",
+        "The dorsal columns are selectively injured",
+        "The anterior spinal artery supplies only the legs"
+      ],
+      "answer": 0,
+      "explanation": "Central cord syndrome: cedera di bagian tengah cord. Pada lateral corticospinal tract, serat cervical (lengan) terletak paling medial dan serat sacral (tungkai) paling lateral, sehingga lengan lebih lemah dari tungkai."
+    },
+    {
+      "question": "In a left spinal cord hemisection at T10, what is found at the level of the lesion on the left side?",
+      "options": [
+        "Spastic paralysis only",
+        "Isolated loss of vibration",
+        "A narrow band of complete sensory loss and segmental LMN weakness",
+        "Loss of pain and temperature on the right side at that level",
+        "Horner syndrome"
+      ],
+      "answer": 2,
+      "explanation": "Setinggi lesi, dorsal root entry zone dan anterior horn ikut rusak → pita anestesi total ipsilateral dan LMN pada miotom segmen itu. Di bawah lesi: UMN dan hilang DCML ipsilateral, hilang pain/temp kontralateral."
+    },
+    {
+      "question": "Which feature favors conus medullaris syndrome over cauda equina syndrome?",
+      "options": [
+        "Severe asymmetric radicular pain",
+        "Gradual unilateral onset",
+        "Purely LMN signs with asymmetric weakness",
+        "Normal sphincter function until late",
+        "Early, prominent bladder and bowel dysfunction with symmetric saddle anesthesia and little radicular pain"
+      ],
+      "answer": 4,
+      "explanation": "Conus: onset mendadak, simetris, gangguan sphincter dan seksual dini, nyeri radikuler minimal, bisa campuran UMN/LMN. Cauda equina: nyeri radikuler hebat, asimetris, murni LMN, gangguan sphincter lebih lambat."
+    },
+    {
+      "question": "A 28-year-old woman with a previous episode of optic neuritis feels an electric shock running down her spine and into her limbs when she bends her neck forward. Which structure is most likely involved?",
+      "options": [
+        "Dorsal columns of the cervical cord",
+        "Lumbar nerve roots",
+        "Anterior horn cells",
+        "Cerebellar vermis",
+        "Peripheral nerves of the arms"
+      ],
+      "answer": 0,
+      "explanation": "Lhermitte sign: demyelinasi dorsal column cervical (sering pada multiple sclerosis) membuat serat peka terhadap regangan saat fleksi leher. Riwayat optic neuritis mendukung MS."
+    },
+    {
+      "question": "A 14-year-old has progressive gait ataxia, absent ankle reflexes, extensor plantar responses, loss of vibration sense, pes cavus, and hypertrophic cardiomyopathy. Which tracts degenerate in this condition?",
+      "options": [
+        "Anterior horn cells only",
+        "Spinothalamic tracts only",
+        "Spinocerebellar tracts, dorsal columns, and lateral corticospinal tracts",
+        "Optic radiations",
+        "Medial longitudinal fasciculus only"
+      ],
+      "answer": 2,
+      "explanation": "Friedreich ataxia (autosomal recessive, GAA repeat di gen frataxin): degenerasi spinocerebellar (ataxia), dorsal column dan DRG (vibrasi hilang, areflexia), serta lateral corticospinal (Babinski). Disertai pes cavus, scoliosis, cardiomyopathy."
+    },
+    {
+      "question": "A 40-year-old has low back pain radiating down the lateral leg to the dorsum of the foot and big toe, with weakness of big toe extension and ankle dorsiflexion. Knee and ankle reflexes are normal. Which root is affected?",
+      "options": [
+        "L3",
+        "L4",
+        "L5",
+        "S1",
+        "S2"
+      ],
+      "answer": 2,
+      "explanation": "L5: dorsum kaki & ibu jari, kelemahan extensor hallucis longus dan dorsiflexion, refleks umumnya normal. L4: medial tungkai bawah, knee jerk turun. S1: lateral kaki & telapak, plantarflexion lemah, ankle jerk turun."
+    },
+    {
+      "question": "A patient cannot extend the elbow against resistance, and the triceps reflex is lost. Which segment or root is primarily affected?",
+      "options": [
+        "C5",
+        "C6",
+        "T1",
+        "C4",
+        "C7"
+      ],
+      "answer": 4,
+      "explanation": "Myotome: C5 abduksi bahu/fleksi siku; C6 ekstensi pergelangan; C7 ekstensi siku (triceps, refleks triceps); C8 fleksi jari; T1 abduksi jari (interossei)."
+    },
+    {
+      "question": "Stroking the inner thigh of a man causes elevation of the ipsilateral testis. Which spinal segments mediate this cremasteric reflex?",
+      "options": [
+        "L1–L2",
+        "T8–T12",
+        "L3–L4",
+        "S1",
+        "S2–S4"
+      ],
+      "answer": 0,
+      "explanation": "Superficial reflex: abdominal T8–T12, cremasteric L1–L2 (genitofemoral nerve), plantar L5–S1, anal wink & bulbocavernosus S2–S4."
+    },
+    {
+      "question": "A healthy 6-month-old infant shows dorsiflexion of the big toe and fanning of the other toes when the sole is stroked. What explains this?",
+      "options": [
+        "Spinal cord compression",
+        "Incomplete myelination of the corticospinal tract",
+        "Cerebellar immaturity",
+        "Peripheral neuropathy",
+        "Excess vestibulospinal activity due to a brainstem lesion"
+      ],
+      "answer": 1,
+      "explanation": "Babinski positif normal pada bayi hingga sekitar 1–2 tahun karena corticospinal tract belum termielinasi sempurna. Setelah itu, Babinski positif menandakan lesi UMN."
+    },
+    {
+      "question": "Flicking the nail of the middle finger causes flexion of the thumb and index finger. What does this sign indicate?",
+      "options": [
+        "Lower motor neuron lesion of C8",
+        "Normal finding in all adults",
+        "Dorsal column lesion",
+        "Upper motor neuron lesion affecting the upper limb (Hoffmann sign)",
+        "Median nerve entrapment"
+      ],
+      "answer": 3,
+      "explanation": "Hoffmann sign adalah tanda UMN di ekstremitas atas (hyperreflexia), misalnya pada cervical myelopathy, sepadan dengan Babinski di kaki."
+    },
+    {
+      "question": "A 68-year-old man with prostate cancer develops lumbar vertebral metastases without lung involvement. Through which route did the tumor most likely spread?",
+      "options": [
+        "Anterior spinal artery",
+        "Cerebrospinal fluid",
+        "Valveless vertebral venous plexus (Batson plexus)",
+        "Thoracic duct",
+        "Lumbar nerve roots"
+      ],
+      "answer": 2,
+      "explanation": "Batson plexus (internal & external vertebral venous plexus) tidak berkatup dan berhubungan dengan vena pelvis, sehingga sel kanker prostat dapat langsung mencapai vertebra tanpa melewati paru."
+    },
+    {
+      "question": "White rami communicantes, which carry myelinated preganglionic sympathetic fibers from the spinal nerve to the sympathetic chain, are found at which levels?",
+      "options": [
+        "All 31 spinal nerves",
+        "T1–L2 only",
+        "C1–C8 only",
+        "S2–S4 only",
+        "L3–S5 only"
+      ],
+      "answer": 1,
+      "explanation": "White rami hanya di T1–L2, sesuai lokasi lateral horn. Gray rami (postganglionic tak bermielin) kembali ke semua spinal nerve untuk mempersarafi kulit dan pembuluh di seluruh tubuh."
+    },
+    {
+      "question": "A 60-year-old woman with breast cancer has worsening thoracic back pain, bilateral leg weakness, and a sensory level at T8. What is the most appropriate immediate management?",
+      "options": [
+        "Oral analgesics and outpatient review in 2 weeks",
+        "Lumbar puncture",
+        "Physiotherapy only",
+        "Nerve conduction study",
+        "Urgent whole-spine MRI and high-dose dexamethasone"
+      ],
+      "answer": 4,
+      "explanation": "Metastatic spinal cord compression adalah kegawatan: MRI seluruh spine segera dan dexamethasone dosis tinggi untuk mengurangi edema, lalu radioterapi atau dekompresi bedah. Prognosis fungsi bergantung pada kondisi saat terapi dimulai."
+    }
+  ]
+}
