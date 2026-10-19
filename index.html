@@ -209,40 +209,7 @@
 </main>
 
 <script>
-  const SAMPLE_QUIZ = {
-    title: "General Knowledge Quiz",
-    description: "A short sample quiz to show the file format.",
-    questions: [
-      {
-        question: "What is the capital of France?",
-        options: ["Berlin", "Madrid", "Paris", "Rome"],
-        answer: 2,
-        explanation: "Paris has been the capital of France since the 10th century."
-      },
-      {
-        question: "Which planet is known as the Red Planet?",
-        options: ["Venus", "Mars", "Jupiter", "Saturn"],
-        answer: "Mars",
-        explanation: "Iron oxide (rust) on its surface gives Mars its reddish colour."
-      },
-      {
-        question: "How many continents are there?",
-        options: ["5", "6", "7", "8"],
-        answer: 2
-      },
-      {
-        question: "Water boils at 100 °C at sea level.",
-        options: ["True", "False"],
-        answer: "True"
-      },
-      {
-        question: "Who wrote \"Romeo and Juliet\"?",
-        options: ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-        answer: 1,
-        explanation: "Shakespeare wrote it early in his career, around 1595."
-      }
-    ]
-  };
+  const SAMPLE_URL = "sample-quiz.json";
 
   const $ = (id) => document.getElementById(id);
 
@@ -380,15 +347,39 @@
     handleFile(e.dataTransfer.files[0]);
   });
 
-  $("try-sample-btn").addEventListener("click", () => loadQuizData(SAMPLE_QUIZ));
+  async function fetchSampleText() {
+    const res = await fetch(SAMPLE_URL);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.text();
+  }
 
-  $("download-sample-btn").addEventListener("click", () => {
-    const blob = new Blob([JSON.stringify(SAMPLE_QUIZ, null, 2)], { type: "application/json" });
-    const link = document.createElement("a");
-    link.href = URL.createObjectURL(blob);
-    link.download = "sample-quiz.json";
-    link.click();
-    URL.revokeObjectURL(link.href);
+  function sampleError(err) {
+    showError(
+      `Couldn't load ${SAMPLE_URL} (${err.message}).\n` +
+      "Browsers block loading files when this page is opened directly from disk. " +
+      "Serve the folder instead, e.g. run: python3 -m http.server"
+    );
+  }
+
+  $("try-sample-btn").addEventListener("click", async () => {
+    try {
+      loadQuizText(await fetchSampleText(), `"${SAMPLE_URL}"`);
+    } catch (err) {
+      sampleError(err);
+    }
+  });
+
+  $("download-sample-btn").addEventListener("click", async () => {
+    try {
+      const blob = new Blob([await fetchSampleText()], { type: "application/json" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = SAMPLE_URL;
+      link.click();
+      URL.revokeObjectURL(link.href);
+    } catch (err) {
+      sampleError(err);
+    }
   });
 
   // ---------- Quiz flow ----------
